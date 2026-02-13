@@ -2,17 +2,33 @@
 interface Props {
   title: string;
   activeNav?: string;
+  tripPrefix?: string;
+  tripName?: string;
+  tripEmoji?: string;
+  tripFooter?: string;
+  themeCSS?: string;
 }
 
-const { title, activeNav } = Astro.props;
+const {
+  title,
+  activeNav,
+  tripPrefix = '/japan2026',
+  tripName = 'Japan 2026',
+  tripEmoji = '⛩️',
+  tripFooter = '🌸 Japan Trip — September 19 to October 3, 2026 🌸',
+  themeCSS = '',
+} = Astro.props;
+
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const prefix = `${base}${tripPrefix}`;
 
 const navItems = [
-  { href: '/', label: '🏠 Home', id: 'home' },
-  { href: '/itinerary', label: '🗾 Itinerary', id: 'itinerary' },
-  { href: '/restaurants', label: '🍣 Restaurants', id: 'restaurants' },
-  { href: '/bookings', label: '📋 Bookings', id: 'bookings' },
-  { href: '/budget', label: '💰 Budget', id: 'budget' },
-  { href: '/practical-info', label: '📖 Practical Info', id: 'practical-info' },
+  { href: `${prefix}`, label: '🏠 Home', id: 'home' },
+  { href: `${prefix}/itinerary`, label: '🗾 Itinerary', id: 'itinerary' },
+  { href: `${prefix}/restaurants`, label: '🍣 Restaurants', id: 'restaurants' },
+  { href: `${prefix}/bookings`, label: '📋 Bookings', id: 'bookings' },
+  { href: `${prefix}/budget`, label: '💰 Budget', id: 'budget' },
+  { href: `${prefix}/practical-info`, label: '📖 Practical Info', id: 'practical-info' },
 ];
 ---
 
@@ -20,17 +36,19 @@ const navItems = [
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>{title} — Japan 2026</title>
+    <title>{title} — {tripName}</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@400;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+    {themeCSS && <style set:html={themeCSS} />}
   </head>
   <body>
     <header>
       <div class="header-inner">
-        <a href="/" class="logo">
-          <span class="torii">⛩️</span>
-          <span class="logo-text">Japan 2026</span>
+        <a href={`${base}/`} class="back-link" title="All Travels">←</a>
+        <a href={`${prefix}`} class="logo">
+          <span class="torii">{tripEmoji}</span>
+          <span class="logo-text">{tripName}</span>
         </a>
         <button class="menu-toggle" aria-label="Toggle menu">☰</button>
         <nav>
@@ -52,7 +70,7 @@ const navItems = [
     <footer>
       <div class="wave-pattern"></div>
       <div class="footer-inner">
-        <p>🌸 Japan Trip — September 19 to October 3, 2026 🌸</p>
+        <p>{tripFooter}</p>
       </div>
     </footer>
 

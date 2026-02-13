@@ -1,6 +1,6 @@
-# 🇯🇵 Japan Travel 2026
+# 🌍 My Travels
 
-A static travel itinerary website built with [Astro](https://astro.build/), styled with a Japanese-inspired design.
+A collection of travel itineraries, built as a static website with [Astro](https://astro.build/). Each trip has its own country-themed design.
 
 ## Quick Start
 
@@ -9,23 +9,31 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:4321](http://localhost:4321)
+Open [http://localhost:4321/mytravel](http://localhost:4321/mytravel)
 
-## Pages
+## Structure
 
-- **Home** — Trip overview with navigation cards
-- **Itinerary** — 15-day day-by-day plan (Tokyo → Hakone → Kyoto → Osaka)
-- **Restaurants** — Curated food recommendations by city
-- **Bookings** — Reservation checklist with priority timeline
-- **Budget** — Detailed cost breakdown (£5,000 total budget)
-- **Practical Info** — Weather, etiquette, phrases, emergency contacts
+- `/` — Dark minimalist landing page with links to all trips
+- `/japan2026/` — Japan trip (Sep–Oct 2026) with Japanese-inspired design
+
+## Pages Per Trip
+
+Each trip section includes: Home, Itinerary, Restaurants, Bookings, Budget, Practical Info
+
+## Adding a New Trip
+
+1. Create content in `src/content/<trip-name>/` (markdown files)
+2. Add collection to `src/content.config.ts`
+3. Create pages in `src/pages/<trip-name>/`
+4. Add a card to the landing page (`src/pages/index.astro`)
+5. Optionally create a new theme in `TripLayout.astro` via props
 
 ## Tech Stack
 
 - **Astro** — Static site generator
 - **Content Collections** — Markdown-based content
-- **Custom CSS** — Japanese-inspired design (indigo, vermillion, cream, gold palette)
-- **Google Fonts** — Noto Serif JP + Inter
+- **Custom CSS** — Per-trip themed design systems
+- **Google Fonts** — Playfair Display (landing), Noto Serif JP + Inter (Japan)
 
 ## Build
 

@@ -1,0 +1,165 @@
+/* ============================================
+   Landing Page — Dark Minimalist Design
+   ============================================ */
+
+:root {
+  --land-bg: #0a0a0a;
+  --land-surface: #141414;
+  --land-border: #222222;
+  --land-border-hover: #333333;
+  --land-text: #e0e0e0;
+  --land-text-muted: #888888;
+  --land-text-dim: #555555;
+  --land-accent: #d4d4d4;
+  --land-white: #fafafa;
+
+  --font-display: 'Playfair Display', Georgia, serif;
+  --font-body: 'Inter', -apple-system, sans-serif;
+}
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+html { font-size: 16px; }
+
+body {
+  font-family: var(--font-body);
+  background: var(--land-bg);
+  color: var(--land-text);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* === Landing Header === */
+.landing-header {
+  padding: 4rem 2rem 2rem;
+  text-align: center;
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.landing-header h1 {
+  font-family: var(--font-display);
+  font-size: 2.8rem;
+  font-weight: 400;
+  color: var(--land-white);
+  letter-spacing: -0.02em;
+  margin-bottom: 1rem;
+}
+
+.landing-header .tagline {
+  font-size: 1rem;
+  font-weight: 300;
+  color: var(--land-text-muted);
+  letter-spacing: 0.03em;
+  max-width: 480px;
+  margin: 0 auto;
+}
+
+/* === Divider === */
+.divider {
+  width: 40px;
+  height: 1px;
+  background: var(--land-border-hover);
+  margin: 2.5rem auto;
+}
+
+/* === Section Label === */
+.section-label {
+  text-align: center;
+  font-size: 0.7rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+  color: var(--land-text-dim);
+  margin-bottom: 2rem;
+}
+
+/* === Travel Grid === */
+.travel-grid {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 2rem 4rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 1.5rem;
+}
+
+.travel-card {
+  display: block;
+  text-decoration: none;
+  color: var(--land-text);
+  background: var(--land-surface);
+  border: 1px solid var(--land-border);
+  border-radius: 8px;
+  padding: 2rem;
+  transition: border-color 0.3s, transform 0.2s, box-shadow 0.3s;
+  position: relative;
+  overflow: hidden;
+}
+
+.travel-card:hover {
+  border-color: var(--land-border-hover);
+  transform: translateY(-3px);
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.4);
+}
+
+.travel-card .card-flag {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+  display: block;
+}
+
+.travel-card .card-destination {
+  font-family: var(--font-display);
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: var(--land-white);
+  margin-bottom: 0.3rem;
+}
+
+.travel-card .card-dates {
+  font-size: 0.8rem;
+  color: var(--land-text-muted);
+  margin-bottom: 0.75rem;
+  letter-spacing: 0.02em;
+}
+
+.travel-card .card-route {
+  font-size: 0.85rem;
+  color: var(--land-text-dim);
+  line-height: 1.5;
+}
+
+.travel-card .card-arrow {
+  position: absolute;
+  top: 2rem;
+  right: 2rem;
+  font-size: 1.2rem;
+  color: var(--land-text-dim);
+  transition: color 0.3s, transform 0.3s;
+}
+
+.travel-card:hover .card-arrow {
+  color: var(--land-text);
+  transform: translateX(3px);
+}
+
+/* === Landing Footer === */
+.landing-footer {
+  margin-top: auto;
+  text-align: center;
+  padding: 2rem;
+  font-size: 0.75rem;
+  color: var(--land-text-dim);
+  border-top: 1px solid var(--land-border);
+}
+
+/* === Responsive === */
+@media (max-width: 640px) {
+  .landing-header { padding: 3rem 1.5rem 1.5rem; }
+  .landing-header h1 { font-size: 2rem; }
+  .travel-grid { padding: 0 1.5rem 3rem; grid-template-columns: 1fr; }
+}
