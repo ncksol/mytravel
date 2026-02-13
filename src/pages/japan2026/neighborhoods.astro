@@ -1,0 +1,13 @@
+---
+import TripLayout from '../../layouts/TripLayout.astro';
+import { render, getEntry } from 'astro:content';
+
+const entry = await getEntry('japan2026', 'neighborhoods');
+const { Content } = await render(entry!);
+---
+
+<TripLayout title="Neighborhoods" activeNav="neighborhoods">
+  <div class="content-card prose page-neighborhoods">
+    <Content />
+  </div>
+</TripLayout>

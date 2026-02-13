@@ -59,3 +59,77 @@
 - **Tourist helpline:** 050-3816-2787 (Japan Visitor Hotline, English 24/7)
 - **UK Embassy Tokyo:** 03-5211-1100
 - **Travel insurance:** Ensure you have comprehensive travel insurance covering medical, cancellation, and personal belongings
+
+---
+
+## 🗑️ Trash Disposal — No Public Bins!
+
+**There are almost no public trash bins in Japan.** This surprises every first-timer.
+
+**What to do:**
+- Carry a small plastic bag in your daypack for your trash
+- Convenience stores (7-Eleven, Lawson, FamilyMart) have trash bins — use them when you buy something there
+- Vending machines have recycling bins attached (bottles/cans only)
+- Train stations sometimes have bins near the gates
+- Your hotel room will have a trash bin
+
+**Recycling matters:** When you do find bins, they're separated into:
+- Burnable (paper, food waste)
+- PET bottles (plastic drink bottles)
+- Cans / Glass bottles
+- Non-burnable (plastics)
+
+---
+
+## 📱 Essential Apps
+
+| App | Purpose | Essential? |
+|-----|---------|-----------|
+| **Google Maps** | Navigation, train routes, walking directions. Works brilliantly in Japan with real-time transit data | YES |
+| **Google Translate** | Camera translation for menus and signs. Download Japanese offline pack before departure | YES |
+| **Suica app / Apple Wallet** | IC card on your phone for all transit and konbini payments | YES (iPhone) |
+| **SmartEX** | Book Shinkansen tickets online with English interface. Reserve specific seats | YES |
+| **Tabelog** | Japan's trusted restaurant review site (more reliable than Google reviews). 3.5+ = good, 3.7+ = excellent | Highly recommended |
+| **PayPay** | Japan's dominant mobile payment. Many small restaurants accept only cash or PayPay. Can set up with foreign credit cards | Worth trying |
+| **Navitime** | Alternative transit navigation. Sometimes better than Google for local trains | Optional |
+| **XE Currency** | Quick currency conversion | Helpful |
+
+---
+
+## 👟 Shoe Removal Protocol
+
+Remove shoes when:
+- **Entering any home** (including Airbnb)
+- **Entering ryokan rooms** (change to indoor slippers at the entrance)
+- **Entering some temples** (look for shoe racks, raised floors, or signs)
+- **Entering some restaurants** (especially tatami-seated ones)
+- **Entering fitting rooms** at some stores
+- **Entering some onsen changing rooms**
+
+**The general rule:** If the floor level changes (steps up), shoes come off. Look for a **genkan** (entry area with a level change) and a shoe rack.
+
+**⚠️ Toilet slippers:** Many ryokans and some restaurants have separate slippers for the toilet room. Wear them IN the toilet, remove them when you leave. Forgetting to switch back is the classic tourist mistake.
+
+**Tip:** Wear slip-on shoes — you'll be removing them constantly at temples and restaurants. Laces become annoying very quickly.
+
+---
+
+## 🚂 Additional Train Etiquette
+
+Beyond keeping quiet:
+- **No eating on local trains** (commuter trains, subway). Eating IS acceptable on Shinkansen — buy an ekiben (station bento)
+- **Queue in marked lines** on the platform. People line up precisely at door markers
+- **Let passengers exit first** before boarding
+- **Backpacks:** Take off large backpacks and hold them low or place on luggage rack
+- **Priority seats** (marked in different color at end of each car): yield to elderly, pregnant, disabled, small children
+
+---
+
+## 🎌 Cultural Tips Beyond Etiquette
+
+- **No eating while walking** (except at markets and festivals). Find a spot to stand and eat
+- **"Itadakimasu"** — say this before eating at a restaurant. It means "I humbly receive." Staff genuinely appreciate it
+- **"Sumimasen"** is the single most useful word. Use it to get attention, apologize, thank, or excuse yourself
+- **Umbrella etiquette:** When entering a store/restaurant, look for the umbrella stand or plastic umbrella bags at the entrance
+- **Escalator standing:** Stand on the LEFT in Tokyo, LEFT in Kyoto/Osaka (despite the common myth about Osaka being different, it varies)
+- **Konbini payment:** Place money on the tray, not directly in the cashier's hand

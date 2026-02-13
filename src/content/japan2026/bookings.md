@@ -6,7 +6,30 @@
 |------|--------|-------|
 | 🎂 Birthday dinner (Sep 22) | ⬜ Not booked | Sushi Miura (Akasaka) or Sushi Yoshitake (Ginza). Book as soon as trip is confirmed |
 | Ryokan — Yama no Chaya (Sep 25-26) | ⬜ Not booked | 2 nights. Only 15 rooms — book early. Request room with private rotenburo |
+
+### 🏯 Ryokan Comparison — Full Options
+
+Our recommended pick is **Gora Kadan** (Hakone), but here's a comprehensive comparison of all evaluated options:
+
+| Ryokan | Location | Private Onsen | Price/Night (2 ppl, w/meals) | Kaiseki | Transit from Tokyo | Key Highlight |
+|--------|----------|---------------|------|---------|-------------------|---------------|
+| **Gora Kadan** ⭐ | Hakone (Gora) | Select rooms (Annex/Suite) — outdoor | ¥110,000-200,000 · £580-1,050 | 9/10 | 1.5-2h | Former imperial villa. Relais & Chateaux |
+| **Hakone Ginyu** | Hakone (Miyanoshita) | ALL 20 rooms — outdoor | ¥85,000-109,000 · £445-575 | 8/10 | 1.5-2h | Best value — every room has outdoor rotenburo |
+| **Asaba** | Shuzenji, Izu | ALL rooms (mostly indoor cypress) | ¥90,000-250,000 · £475-1,315 | 10/10 | 2-2.5h | 540 years old. Noh stage on pond. Legendary kaiseki |
+| **Beniya Mukayu** | Yamashiro, Ishikawa | ALL 16 rooms — outdoor | ¥80,000-180,000 · £420-945 | 9/10 | 3-3.5h | Radical minimalist design. Relais & Chateaux |
+| **Nishimuraya Honkan** | Kinosaki Onsen, Hyogo | Select rooms — outdoor | ¥80,000-250,000 · £420-1,315 | 8.5/10 | 4.5-5h | 165 years. 7 public bathhouses included. Literary heritage |
+| **Arcana Izu** | Yugashima, Izu | ALL 8 rooms — outdoor | ¥80,000-150,000 · £420-790 | French-Japanese fusion | 2.5h | Auberge-style. River forest setting. Only 8 rooms |
+
+**Quick Decision Guide:**
+- **Best overall:** Gora Kadan (Annex room with private outdoor onsen)
+- **Best value:** Hakone Ginyu (guaranteed outdoor bath, every room)
+- **Best food:** Asaba (world-class kaiseki, 500+ year tradition)
+- **Most unique design:** Beniya Mukayu (minimalist masterpiece)
+- **Best town experience:** Nishimuraya (stroll between 7 bathhouses in yukata)
+
+**Note:** Our itinerary currently uses "Yama no Chaya" as placeholder. Consider upgrading to Gora Kadan or Hakone Ginyu based on availability and budget.
 | TeamLab Borderless tickets (Sep 22 or flexible) | ⬜ Not booked | Timed entry, ¥3,800 pp. Sells out in advance |
+| Kawadoko dinner in Kibune (Sep 29, if doing Kurama/Kibune) | ⬜ Not booked | Riverside platform dining. End-of-season Sept — call ahead to confirm. Try Hirobun, Kifune Club, or Ugenta |
 
 ## 📅 Book 2-4 Weeks Ahead
 
@@ -38,3 +61,5 @@
 | Download offline maps (Google Maps) | ⬜ Not done | Download Tokyo, Hakone, Kyoto, Osaka, Nara |
 | SmartEX app | ⬜ Not done | For booking Shinkansen tickets with English interface |
 | Tableall or Pocket Concierge account | ⬜ Not done | For restaurant reservations in English |
+| Download Tabelog app | ⬜ Not done | Japan's trusted restaurant reviews. 3.5+ = good, 3.7+ = excellent |
+| Set up PayPay | ⬜ Not done | Japan's dominant mobile payment. Many small restaurants accept cash or PayPay only |
