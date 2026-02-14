@@ -2,18 +2,18 @@
 
 > Exchange rate: ¥190 = £1 · Total budget: ~¥950,000
 >
-> ⚠️ **Silver Week warning:** Days 1-5 (Sep 19-23) overlap with Japan's 2026 Silver Week — one of the busiest domestic travel periods. Tokyo hotel prices may be 30-50% higher than normal during these dates. The accommodation estimates below use standard mid-range pricing; actual Silver Week rates may increase the total by ¥20,000-50,000. Book early for best rates.
+> ⚠️ **Silver Week warning:** Days 1-5 (Sep 19-23) overlap with Japan's 2026 Silver Week — one of the busiest domestic travel periods. Tokyo hotel prices are significantly higher during these dates — Hotel Monterey Akasaka booked at £137/night (vs ~£80 standard rate, ~70% Silver Week premium).
 
 ## Accommodation
 
 | Location | Nights | Est. Cost/Night (2 ppl) | Subtotal |
 |----------|--------|------------------------|----------|
-| Tokyo — Hotel Monterey Akasaka | 6 | ¥18,000 · £95 | ¥108,000 · £568 |
+| Tokyo — Hotel Monterey Akasaka ✅ | 6 | ¥26,000 · £137 | ¥156,000 · £822 |
 | Hakone — Yama no Chaya (ryokan, incl. dinner+breakfast) | 2 | ¥80,000 · £421 | ¥160,000 · £842 |
 | Kyoto (mid-range hotel) | 3 | ¥16,000 · £84 | ¥48,000 · £253 |
 | Osaka (mid-range hotel) | 2 | ¥15,000 · £79 | ¥30,000 · £158 |
 | Tokyo return night | 1 | ¥15,000 · £79 | ¥15,000 · £79 |
-| **Accommodation Total** | **14** | | **¥361,000 · £1,900** |
+| **Accommodation Total** | **14** | | **¥409,000 · £2,153** |
 
 ## Transport
 
@@ -80,17 +80,16 @@ Note: Ryokan dinners & breakfasts (4 meals for 2) are included in accommodation 
 
 | Category | JPY | GBP |
 |----------|-----|-----|
-| Accommodation | ¥361,000 | £1,900 |
+| Accommodation | ¥409,000 | £2,153 |
 | Transport | ¥102,340 | £539 |
 | Food | ¥258,500 | £1,360 |
 | Activities | ¥32,600 | £172 |
 | Miscellaneous | ¥65,000 | £342 |
-| **TOTAL** | **¥819,440** | **£4,313** |
+| **TOTAL** | **¥867,440** | **£4,566** |
 
-### 💰 Buffer remaining: \~£687 (\~¥130,560)
+### 💰 Buffer remaining: \~£434 (\~¥82,560)
 
 This leaves a buffer for:
-- Silver Week hotel price premium (~¥20,000-50,000 extra)
 - Upgrading a meal or two
 - Extra shopping/souvenirs
 - Unexpected expenses
