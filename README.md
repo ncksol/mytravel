@@ -15,6 +15,7 @@ Open [http://localhost:4321/mytravel](http://localhost:4321/mytravel)
 
 - `/` — Dark minimalist landing page with links to all trips
 - `/japan2026/` — Japan trip (Sep–Oct 2026) with Japanese-inspired design
+- `/jersey2026/` — Jersey trip (May 2026) — Channel Islands, four-day weekend
 
 ## Pages Per Trip
 
