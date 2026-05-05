@@ -1,0 +1,69 @@
+---
+import TripLayout from '../../layouts/TripLayout.astro';
+import { jerseyNavItems } from '../../lib/jersey-nav';
+
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const prefix = `${base}/jersey2026`;
+---
+
+<TripLayout
+  title="Overview"
+  activeNav="home"
+  tripPrefix="/jersey2026"
+  tripTitle="Jersey 2026"
+  tripSubtitle="Channel Islands"
+  tripFooter="jersey 2026 · channel islands · 22-25 may"
+  navItems={jerseyNavItems(prefix)}
+>
+  <div class="hero">
+    <h1>Jersey 2026</h1>
+    <p class="subtitle">Channel Islands · 22–25 May · Grand Jersey Hotel & Spa</p>
+  </div>
+
+  <div class="trip-overview">
+    <div class="stat-item">
+      <div class="stat-value">3</div>
+      <div class="stat-label">Nights</div>
+    </div>
+    <div class="stat-item">
+      <div class="stat-value">1</div>
+      <div class="stat-label">Island</div>
+    </div>
+    <div class="stat-item">
+      <div class="stat-value">2</div>
+      <div class="stat-label">Travellers</div>
+    </div>
+    <div class="stat-item">
+      <div class="stat-value">4</div>
+      <div class="stat-label">Days</div>
+    </div>
+  </div>
+
+  <div class="nav-grid">
+    <a href={`${prefix}/itinerary`} class="nav-card">
+      <span class="card-emoji">☀</span>
+      <span class="card-title">Itinerary</span>
+      <span class="card-desc">Day-by-day plan across St Helier, the west/north coast and Gorey</span>
+    </a>
+    <a href={`${prefix}/restaurants`} class="nav-card">
+      <span class="card-emoji">🦪</span>
+      <span class="card-title">Restaurants</span>
+      <span class="card-desc">Bohemia, Banjo, The Grill at Royal Yacht — plus oyster lunches</span>
+    </a>
+    <a href={`${prefix}/sights`} class="nav-card">
+      <span class="card-emoji">♖</span>
+      <span class="card-title">Sights</span>
+      <span class="card-desc">Mont Orgueil, War Tunnels, Corbière Lighthouse and Plémont cliffs</span>
+    </a>
+    <a href={`${prefix}/bookings`} class="nav-card">
+      <span class="card-emoji">✉</span>
+      <span class="card-title">Bookings</span>
+      <span class="card-desc">Phone-call checklist for the three signature dinners</span>
+    </a>
+    <a href={`${prefix}/practical-info`} class="nav-card">
+      <span class="card-emoji">✦</span>
+      <span class="card-title">Practical Info</span>
+      <span class="card-desc">Driving, Green Lanes, parking, bank-holiday closures, tides</span>
+    </a>
+  </div>
+</TripLayout>
