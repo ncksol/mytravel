@@ -167,6 +167,15 @@ section {
   font-weight: 400;
 }
 
+.nav-stamp {
+  /* alias of .kanji-stamp for non-Japan trips */
+  font-size: 1.5rem;
+  border: var(--stroke);
+  padding: 4px 12px;
+  border-radius: 8px;
+  font-weight: 400;
+}
+
 /* === Content Card === */
 .content-card {
   background-color: var(--c-paper);
@@ -699,6 +708,33 @@ footer {
 }
 
 .page-restaurants h3 ~ ul:hover {
+  border-color: var(--c-ink);
+  background: var(--c-card-hover);
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-soft);
+}
+
+/* ============================================
+   Page-Specific: Sights (Jersey anchor attractions)
+   Mirrors .page-restaurants — h3 = one attraction,
+   following ul = its details (hours, price, transit, source)
+   ============================================ */
+
+.page-sights h3 {
+  position: relative;
+  padding-left: 0;
+}
+
+.page-sights h3 ~ ul {
+  background: var(--c-card);
+  border-radius: var(--radius-inner);
+  padding: 20px 24px;
+  margin-bottom: 16px;
+  border: 1px solid transparent;
+  transition: all 0.3s ease;
+}
+
+.page-sights h3 ~ ul:hover {
   border-color: var(--c-ink);
   background: var(--c-card-hover);
   transform: translateY(-2px);
