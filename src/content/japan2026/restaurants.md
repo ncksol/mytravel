@@ -1,15 +1,15 @@
 # Restaurant Recommendations
 
-## 🎂 Birthday Dinner (Sep 22) — Omakase/Kaiseki
+## 🎂 Birthday Dinner (Sep 22) — ✅ LOCKED: Waketokuyama
 
 | Restaurant | Area | Price/pp | Style | Notes |
 |-----------|------|----------|-------|-------|
-| **Sushi Miura** ⭐ | Akasaka | ¥34,000 | Omakase sushi | 4.9★ Google, seasonal, steps from hotel. Top pick for convenience + quality |
-| **Nogizaka Shin** | Akasaka/Roppongi | ¥25,000-35,000 | Kaiseki-fusion | Paris/Kyoto-trained chef, sake pairings, theatrical |
-| **Sushi Yoshitake** | Ginza | ¥56,000+ | Omakase sushi | Michelin-starred (status subject to annual review). Book via OMAKASE platform at noon JST on the 15th of each month. ⚠️ Significantly above budget |
-| **Sushi Ryusuke** | Ginza | ¥44,000 | Omakase sushi | 7 seats, innovative (truffle, caviar). Michelin-starred |
+| **Waketokuyama (分とく山)** ✅ | Minami-Azabu | ~¥23,000 (→¥25,300 from Aug 2026) | Kaiseki / kappō | **LOCKED.** Michelin 1★ 2024-2026. Chef's omakase, menu rotates every 2 weeks. Signature isoyaki abalone, clay-pot rice finale. 17:00-22:30, closed Sun. Book via OMAKASE (omakaseje.com/restaurants/wk885579) — **window opens 2 months ahead → Sep 22 bookable from 22 Jul 2026** |
+| Sushi Miura | Akasaka | ~¥32,000 | Omakase sushi | *Alt.* 1★ Michelin 2026, seasonal, steps from hotel |
+| Nogizaka Shin | Akasaka/Roppongi | ¥25,000-35,000 | Kaiseki-fusion | *Alt.* 1★ Michelin, Paris/Kyoto-trained chef, sake pairings |
+| Sushi Yoshitake | Ginza | ¥56,000+ | Omakase sushi | *Alt (elite, big splurge).* **Delisted from Michelin Guide 2025** but still OAD/Tabelog top-tier. Booking is now **monthly rolling rounds via OMAKASE** (the old "noon JST on the 15th" rule is out of date) |
 
-**Booking tips:** Reserve 6+ months ahead during Silver Week (Sep 19-23 are national holidays). Mention the birthday. Use hotel concierge if available, or try Tableall/Pocket Concierge for English bookings. **Bar High Five** (Ginza) does NOT take reservations — walk-in only since 2015.
+**Booking tips:** Reserve as early as the window allows — Silver Week (Sep 19-23 are national holidays) makes premium tables brutal. Flag the birthday and any **shellfish/crustacean allergy** (kombu dashi base at Waketokuyama). Smart casual; arrive 5 min early or risk auto-cancellation. **Bar High Five** for birthday drinks: moved 2024 to B1F Efflore Ginza 5 Bldg — **walk-in is unreliable in recent reports; reserve via Instagram DM or call +81 3-3571-5815.**
 
 ---
 
@@ -21,7 +21,7 @@
 | **Fuunji** | Shinjuku | Tsukemen (dipping noodles) | ~¥1,000 |
 | **Iruca Tokyo** | Roppongi | Porcini shoyu, truffle | ~¥1,500 |
 | **Ginza Kagari** | Ginza | Chicken paitan (creamy) | ~¥1,200 |
-| **Ramen Matsui** | Shinjuku Gyoenmae | Art-level presentation | ~¥1,500 |
+| **Ramen Matsui** | Shinjuku Gyoenmae | Art-level presentation | ~¥1,500 (reservation-only, 8 seats, via Instagram/X DM ~2 weeks ahead — or substitute walk-in Fuunji/Iruca) |
 
 ### Izakaya
 | Spot | Area | Known For | Price Range |
@@ -69,7 +69,7 @@
 | **Takoyaki** | Takoyaki Wanaka | Dotonbori | ¥500-800 |
 | **Takoyaki** | Kogaryu | Amerikamura | ¥500-800 |
 | **Okonomiyaki** | Fukutaro | Namba | ¥1,000-1,500 |
-| **Okonomiyaki** | Mizuno | Dotonbori | ¥1,000-2,000 |
+| **Okonomiyaki** | Mizuno (Michelin-listed) | Dotonbori | ¥1,000-2,000 |
 | **Kushikatsu** | Daruma | Shinsekai | ¥1,000-2,000 |
 | **Kushikatsu** | Yaekatsu | Shinsekai | ¥1,000-2,000 |
 

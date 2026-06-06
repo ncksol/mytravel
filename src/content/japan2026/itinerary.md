@@ -4,12 +4,13 @@
 
 | Dates | Location | Nights | Accommodation |
 |-------|----------|--------|---------------|
-| Sep 19-25 | Tokyo (Akasaka) | 6 | Hotel Monterey Akasaka (backup: Hotel Hillarys Akasaka) |
-| Sep 25-26 | Hakone | 2 | Yama no Chaya (luxury ryokan) |
-| Sep 27-29 | Kyoto (Downtown/Kawaramachi) | 3 | Cross-hotel style mid-range near Shijo-Kawaramachi |
-| Sep 30-Oct 1 | Osaka (Namba) | 2 | Cross Hotel Osaka or similar near Dotonbori |
-| Oct 2 | Tokyo (Akasaka) | 1 | Same as first stay or nearby budget option |
+| Sep 19-25 | Tokyo (Akasaka) | 6 | Hotel Monterey Akasaka ✅ booked (backup: Hotel Hillarys Akasaka) |
+| Sep 25-27 | Hakone | 2 | Ryokan TBC (Yama no Chaya / Gora Kadan / Hakone Ginyu) |
+| Sep 27-Oct 1 | Kyoto (Downtown/Kawaramachi) | 4 | Mid-range near Shijo-Kawaramachi — TBC |
+| Oct 1-3 | Osaka (Namba) | 2 | Near Dotonbori — TBC |
 | **Total** | | **14 nights** | |
+
+> 🔄 **Revision 1 (2026-06-05):** The original Tokyo return night (Oct 2-3) has been **removed** — it cost ~£270 (Shinkansen + hotel) and half a travel day for a single farewell dinner. That night was reallocated to **Kyoto, now 4 nights**, which was underweighted at 3 for the trip's densest cultural content. On departure day you now fly **direct from Osaka → Haneda** (Nozomi ~11:00/12:00, 3h+ HND cushion). See the day-by-day below for the new Kyoto days (Uji/Tōfuku-ji and the Kurama-Kibune mountain day).
 
 ---
 
@@ -78,12 +79,14 @@
 - **12:30** Walk to **Ginza** (~15 min from Hamarikyu) — window shop the department stores, visit the Sony showroom or Ginza Six
 - **13:30** **Depachika experience** at Mitsukoshi Ginza B1 — sample wagashi, buy bento for lunch, try everything
 - **15:00** Free time — shopping, rest, or visit **TeamLab Borderless** (book timed-entry tickets in advance, ¥3,600 online). Use this time to recharge before dinner
-- **18:30** 🎂 **BIRTHDAY DINNER** — High-end omakase
-  - **Top pick: Sushi Miura (Akasaka)** — ¥34,000 pp, seasonal sushi, 4.9★, right in your neighborhood
-  - **Alt: Nogizaka Shin** — kaiseki-style omakase with sake pairings, Akasaka/Roppongi border
-  - **Alt: Sushi Yoshitake (Ginza)** — Michelin-starred, ¥56,000+ pp (significantly above budget — consider only if splurging). Book via OMAKASE platform at noon JST on the 15th of each month
-  - ⚠️ **Book 6+ months ahead!** This is Silver Week — premium restaurants are booked months in advance by domestic diners. Mention birthday for special touches. Start trying to reserve as soon as bookings open
-- **21:00** Birthday drinks at a cocktail bar — try **Bar High Five** (Ginza, world-famous — walk-in only, no reservations since 2015; call ahead to check for seats) or a Roppongi bar
+- **18:30** 🎂 **BIRTHDAY DINNER — Waketokuyama (分とく山)** ✅ LOCKED
+  - **Kaiseki / Japanese chef's kappō** · Minami-Azabu (Hiroo 5 min, ~15 min from Akasaka). Michelin One Star 2024-2026 (3 consecutive years)
+  - **~¥23,000 pp** until 31 Jul 2026, **~¥25,300 pp** from 1 Aug 2026 (tax + service incl., paid in advance)
+  - Chef's omakase only; menu rotates every 2 weeks. Signature isoyaki abalone, clay-pot rice finale. Hours 17:00-22:30, closed Sundays
+  - **Book via OMAKASE platform** (omakaseje.com/restaurants/wk885579). ⚠️ **Booking opens 2 months ahead — the Sep 22 slot becomes bookable on Sun 22 Jul 2026.** Set a reminder
+  - Smart casual (no shorts/sandals); arrive 5 min early or auto-cancelled; kombu (kelp) dashi base — flag any shellfish/crustacean allergy when booking
+  - *Alternatives if Waketokuyama is unavailable: Sushi Miura (Akasaka, 1★ Michelin 2026, ~¥32k pp) or Nogizaka Shin (Akasaka, 1★ Michelin, kaiseki-fusion, ~¥33k pp)*
+- **21:00** Birthday drinks at a cocktail bar — try **Bar High Five** (moved 2024 to B1F Efflore Ginza 5 Bldg, 5-4-15 Ginza). ⚠️ Walk-in is unreliable in recent reports — **reserve via Instagram DM or call +81 3-3571-5815**. Or a Roppongi bar
 
 ---
 
@@ -144,15 +147,15 @@
 - **10:00** Take **Odakyu Romancecar** from Shinjuku to Hakone-Yumoto (~85 min, ¥2,470 pp). Book in advance for window seats
 - **11:30** Arrive Hakone-Yumoto. Explore the small town, browse souvenir shops
 - **12:30** Lunch in Hakone-Yumoto town — try soba noodles or tofu cuisine
-- **14:00** Take local transport to **Yama no Chaya** ryokan (Tonosawa area, ~10 min from Hakone-Yumoto)
+- **14:00** Take local transport to your **Hakone ryokan** (ryokan still TBC — leading candidate **Yama no Chaya**, Tonosawa area, ~10 min from Hakone-Yumoto; see bookings for the full comparison)
 - **15:00** Check in. Change into yukata (casual kimono). Explore the ryokan grounds
 - **16:00** First onsen experience! Private open-air bath (rotenburo) with forest/river views. Take your time
 - **18:00** **Kaiseki dinner** at the ryokan — multi-course seasonal feast included in stay. This will be one of your trip highlights
 - **20:00** Evening onsen — the baths are magical at night. Relax, sleep early
 
 **Ryokan notes:**
-- Yama no Chaya: ~¥40,000-50,000 pp/night including dinner & breakfast
-- 15 rooms, intimate setting, bamboo forest surroundings
+- Ryokan still TBC — see the Booking Checklist for the full comparison (Yama no Chaya / Gora Kadan / Hakone Ginyu). Budget ~¥85,000-110,000/night for two incl. dinner & breakfast
+- Whichever you pick, request a room with a private outdoor rotenburo
 - Onsen etiquette: wash before entering bath, no swimwear, tie hair up
 
 ---
@@ -163,7 +166,7 @@
 
 - **08:00** Ryokan breakfast — traditional Japanese breakfast (rice, miso, grilled fish, pickles, egg)
 - **09:30** Begin the **Hakone Loop** (buy **Hakone Freepass from Odawara**, ¥6,000 pp — covers ropeway, cruise, buses within Hakone):
-  - Bus/train to **Hakone Open-Air Museum** (¥1,600) — Picasso collection, stunning outdoor sculptures
+  - Bus/train to **Hakone Open-Air Museum** (¥2,000 walk-up / ¥1,800 online) — Picasso collection, stunning outdoor sculptures
   - **Hakone Ropeway** to Owakudani — volcanic valley, try black eggs (said to add 7 years to your life)
   - **Lake Ashi Cruise** — if clear weather, views of Mt. Fuji
   - **Hakone Shrine** (箱根神社) — iconic red torii gate on the lake
@@ -200,131 +203,126 @@
 - **09:30** Bus/train to **Kiyomizu-dera** (清水寺, ¥400) — stunning hilltop temple with city views. Walk through **Sannenzaka & Ninenzaka** historic lanes below
 - **11:00** Continue to **Kodai-ji Temple** or **Yasaka Shrine**
 - **12:00** Lunch in Gion — try **yudofu** (simmered tofu, a Kyoto specialty) at Junsei or similar
-- **13:30** Visit **Philosopher's Path** (哲学の道) — 2km canal-side walk lined with cherry trees. Quiet in late September. Stop at **Ginkaku-ji** (Silver Pavilion, ¥1,000 — price doubles from April 2026) at the northern end
+- **13:30** Visit **Philosopher's Path** (哲学の道) — 2km canal-side walk lined with cherry trees. Quiet in late September. Stop at **Ginkaku-ji** (Silver Pavilion, ¥500 — rising to ¥1,000 from April 2026) at the northern end
 - **15:30** Visit **Nanzen-ji Temple** — the aqueduct here is stunning and free to visit
 - **17:00** Return to hotel, rest
 - **18:30** Dinner: **Mid-range kaiseki** experience in Gion — ¥5,000-8,000 pp gets you an excellent multi-course meal
 
 ---
 
-## Day 11 — Tuesday, Sep 29: Kyoto West & North
+## Day 11 — Tuesday, Sep 29: Uji + Tōfuku-ji
 
-**Theme: Arashiyama, golden temple, zen gardens**
+**Theme: Heian-era architecture, oldest extant Shinto shrine, Uji tea culture, modernist zen garden**
 
-- **08:00** Head to **Arashiyama** (嵐山) early by train (~20 min from downtown)
-  - **Bamboo Grove** — walk through before 9am for fewer people
-  - **Tenryu-ji Temple** (¥500) — beautiful Zen garden
-  - If time: walk further to **Otagi Nenbutsu-ji** — 1,200 quirky stone statues, very few tourists
-  - Or visit **Gio-ji** — tiny moss garden temple, magical atmosphere
-- **12:00** Lunch in Arashiyama — try **matcha parfait** or tofu cuisine
-- **13:30** Bus to **Kinkaku-ji** (金閣寺, Golden Pavilion, ¥500) — iconic, must-see
-- **15:00** Walk to **Ryoan-ji** (龍安寺, ¥500, ~15 min walk from Kinkaku-ji) — Japan's most famous zen rock garden. Fifteen stones arranged on raked white gravel — you can never see all 15 at once from any angle. Deeply meditative
-- **16:00** Option A: Continue to **Daitoku-ji** (~15 min by bus) — sprawling zen temple complex with multiple sub-temples. Much less crowded than Kinkaku-ji. Daisen-in has an exquisite dry landscape garden
-- **16:00** Option B: Head to **Fushimi sake district** — sake brewery tastings at Gekkeikan museum (~¥400), explore canal-side streets
-- **18:00** Return to hotel
-- **19:00** Final Kyoto dinner — splurge on a **kaiseki dinner** at a nice Gion restaurant, or try **Kyoto-style sushi** (pressed/box-style)
+> 💡 By now you've done dawn Fushimi + Higashiyama temples (Mon), and Wed is the Kurama-Kibune mountain day. So Tue deliberately avoids more iconic-temple-bouncing and fills genuine gaps: the only Heian-era architecture on the trip (Byōdō-in, 1053), the oldest extant Shinto shrine (Ujigami, UNESCO), real tea culture, and Mirei Shigemori's 1939 modernist zen garden at Tōfuku-ji. Single JR Nara line geography.
 
-> 📌 **Kurama & Kibune:** This hike is a full-day commitment (transit + 1.5hr trail + shrine visit + lunch). It cannot be squeezed in after Kinkaku-ji — the transit alone takes 1+ hour and the trail would end in darkness by late September (sunset ~17:45). If Kurama-Kibune interests you, consider the **4-day Kyoto alternative** below which gives it a dedicated day, including the magical **kawadoko riverside dining** in Kibune (final week of the June-September season).
+- **10:00** Hotel departure. Walk to Kyoto Station. JR Nara line to **Uji** (~30 min local, ¥240, or ~17 min rapid)
+- **11:00** **Byōdō-in Phoenix Hall** (平等院) — 1053, National Treasure, Heian-era. Grounds + Hōshō-kan museum ¥700. Phoenix Hall interior tour: extra ¥300, only via 50-person timed slots every ~20 min — **queue early, slots sell out by midday**. Hours 8:30-17:30. ~75 min
+- **12:30** Lunch on Uji's tea-merchant street — **Tsuen Tea** (founded 1160, oldest tea-house in Japan, on the bridge approach), or **Nakamura Tokichi** (matcha-soba, longer queues), or **Fukujuen Uji Workshop** for hōjicha-roasting. ¥1,500-2,500 pp
+- **13:45** Cross Uji Bridge → 5-10 min walk to **Ujigami Jinja** (宇治上神社) — UNESCO, oldest extant Shinto shrine architecture. Free, 9:00-16:30. ~30 min
+- **14:30** Walk back along the Uji River (Tale of Genji literary connections, scenic, uncrowded). Optional second tea stop
+- **15:30** JR Nara line back toward Kyoto, alight at **Tōfuku-ji** (~15 min)
+- **15:50** **Tōfuku-ji** (東福寺) — one of the Five Great Zen Temples, founded 1236. Highlight: the **Hōjō Garden by Mirei Shigemori (1939)** — the chequerboard moss-and-stone modernist masterpiece. Hōjō garden ¥600. ⚠️ Last entry **15:30 sharp** (Apr-Oct 9:00-16:00) — be on the earlier train. ~60 min
+- **17:00** Train back to Kyoto centre
+- **~19:00** Light/mid dinner — Pontocho obanzai (Kyoto home cooking), or Nishiki area. **Not** a third splurge (birthday + Hakone kaiseki + Wed kawadoko already cover the splurges)
 
----
-
-### 📌 Optional Side Trip: Uji (Half Day)
-
-If you have free time during any Kyoto day, consider a half-day trip to **Uji** — just 20 min from Kyoto by JR Nara Line.
-
-- **Byodo-in Temple** (平等院) — the temple on the ¥10 coin. Stunning Phoenix Hall reflected in a pond. National Treasure. ¥700 admission
-- **Historic tea merchant street** — Uji is Japan's tea capital. Skip the matcha shops and explore **hojicha** (roasted green tea) and **sencha** tastings at centuries-old merchants
-- **Uji River walk** — peaceful, scenic, uncrowded
-- Can combine with Fushimi on the same rail line
-- Best as a morning trip — allow 2-3 hours
-
----
-
-### 🔄 Alternative: 4-Day Kyoto (Take 1 Day from Tokyo)
+**Critical timing:** Tōfuku-ji last entry is 15:30 — keep the Uji morning efficient. If short on time, Tōfuku-ji is the drop; Uji alone is a complete day. All walk-up — no bookings needed.
 
 <details>
-<summary>Click to expand the 4-day Kyoto option</summary>
+<summary>🔄 Alternative B — Arashiyama deep (the original "Kyoto West" plan, kept as standby)</summary>
 
-If you'd prefer a more relaxed Kyoto pace, move one day from Tokyo (5 Tokyo days instead of 6) and add a dedicated **Kurama-Kibune adventure day**:
-
-**Extra Day — Kurama → Kibune Mountain Adventure**
-
-- **09:00** Take Eizan Railway from Demachiyanagi to Kurama Station (30 min, ¥470)
-- **09:30** Visit **Kurama-dera Temple** — founded 770 AD, said to be where the legendary Tengu taught swordsmanship
-- **10:00** Begin the **Kurama-to-Kibune trail** — 1-hour hike through ancient cedar forests. Mystical atmosphere, well-marked path
-- **11:30** Arrive in Kibune. Visit **Kifune Shrine** — the lantern-lined stone stairway is one of Kyoto's most photographed spots. Try the unique water fortune-telling (blank paper omikuji reveal messages in sacred water)
-- **12:30** **Kawadoko lunch** — dine on riverside platforms above the rushing Kibune River. A full kaiseki experience surrounded by nature
-- **14:30** Bus or walk down to Kibune-guchi Station, train back to Kyoto
-- **15:30** Free time — explore a neighborhood you haven't seen, or rest
-- **18:30** Evening dinner in Gion or Pontocho
-
-This version gives Kyoto room to breathe: dawn Fushimi Inari, the Kurama-Kibune hike, Arashiyama, the eastern temples, and evening Gion strolls all fit naturally without rushing.
+If the morning is gorgeous and you want forest-and-village atmosphere instead:
+- Bamboo grove early (5 min) → **Tenryū-ji** (1339, Musō Soseki garden, ¥500) → **Otagi Nenbutsu-ji** (1,200 quirky stone rakan statues, very few tourists) → **Gio-ji** (tiny moss-garden temple) → lunch in Arashiyama → optional **Adashino Nenbutsu-ji**.
+- Trade-off: atmospheric and rural, but forest/mountain-temple feel **overlaps with Wed's Kurama-Kibune**. No Heian architecture, no oldest-shrine, no Shigemori garden.
 
 </details>
 
----
+<details>
+<summary>🔄 Alternative C — Northern zen icons + sento (if you decide you must see Kinkaku-ji)</summary>
 
-## Day 12 — Wednesday, Sep 30: Kyoto → Osaka + Nara detour
+- **Kinkaku-ji** (Golden Pavilion, ¥500) → 15-min walk → **Ryōan-ji** (zen rock garden, ¥600) → **Daitoku-ji** sub-temples: **Daisen-in** (1509 dry-landscape) and **Kōtō-in** (moss + tea hall) → afternoon at **Funaoka Onsen** (1923 wooden bathhouse, registered cultural property, ¥490) → splurge kaiseki in Gion.
+- Trade-off: hits the golden roof + deepest rock gardens + a local sento, but misses Heian-era Phoenix Hall, Ujigami, Uji tea and the Shigemori garden.
 
-**Theme: Day trip to Nara, then settle into Osaka**
+</details>
 
-- **08:00** Check out of Kyoto hotel
-- **08:30** Train to **Nara** (~45 min from Kyoto, ¥720 by JR or Kintetsu)
-- **09:30** **Nara Park** — meet the famous bowing deer (buy deer crackers, ¥200)
-- **10:00** **Todai-ji Temple** (東大寺, ¥800) — houses the giant bronze Buddha, absolutely jaw-dropping
-- **11:00** Walk through **Kasuga Taisha** shrine — thousands of stone and bronze lanterns
-- **12:00** Lunch in Nara — try kakinoha-zushi (persimmon leaf sushi) or wander Higashimuki shopping street
-- **13:30** Train from Nara to **Osaka Namba** (~40 min, ¥570)
-- **14:30** Check into hotel near Namba/Dotonbori
-- **15:30** Begin exploring **Dotonbori** (道頓堀) — the neon canal district
-  - Glico Running Man sign photo
-  - **Takoyaki** at Takoyaki Wanaka or Kogaryu (Amerikamura)
-  - Window shop along Shinsaibashi-suji arcade
-- **18:00** Dinner: **Okonomiyaki** at Fukutaro (Namba) or Mizuno (Dotonbori)
-- **20:00** Evening Dotonbori walk — it's most magical at night. Try some kushikatsu at a standing bar
+> 📌 **Uji** is now built into Day 11 above, and **Kurama-Kibune** gets its own dedicated day below (Day 12). The old "squeeze it in" warnings no longer apply — Revision 1's 4-night Kyoto gives both room to breathe.
 
 ---
 
-## Day 13 — Thursday, Oct 1: Osaka Deep Dive
+## Day 12 — Wednesday, Sep 30: Kurama → Kibune Mountain Day
+
+**Theme: ancient cedar forest, mountain-temple history, kawadoko lunch over the river**
+
+> 🍁 **This is the last day of the 2026 kawadoko season** — the riverside dining platforms come down on Oct 1. It's now or never for this experience. Day return from your Kyoto base (you keep the Kyoto room — checkout is tomorrow).
+
+- **10:00** Walk/Keihan to Demachiyanagi → **Eizan Railway** to Kurama (~30 min, ¥470 pp)
+- **10:50** Arrive **Kurama**. Optional cable car ¥200 to skip the first steep stretch, or walk the full path
+- **11:00** **Yuki-jinja** on the way up — 800-year-old cedar avenue, free, ~10 min
+- **11:30** **Kurama-dera** main hall — founded 770 AD, Tengu legend, mountain-temple atmosphere. ~45 min
+- **12:15** Begin the **Kurama-to-Kibune trail** — ~1h forest hike, well-marked, mossy roots and ancient cedars
+- **13:15** Arrive **Kibune**. **Kifune Shrine** — lantern-lined stone stairway, water fortune-telling. ~20 min
+- **13:45** 🍱 **Kawadoko lunch at Ugenta** *(book 3+ days ahead via official site — 2026 season confirmed May 1 - Sep 30, lunch from ¥9,900 pp)*. Backup: **Hirobun** (nagashi-somen ¥2,000, no reservation, 1-2h queue — different, lower-key experience). ⚠️ **Kifune Club is permanently closed — do not use.**
+- **15:30** Walk to Kibuneguchi → Eizan Railway back toward Demachiyanagi (~30 min)
+- **16:00** Alight at Demachiyanagi → 5 min walk to **Shimogamo Shrine** — UNESCO, set in the **Tadasu no Mori** primeval forest. Free, ~45 min
+- **17:00** Back to hotel area, rest
+- **~19:00** Light dinner — depachika bento at Takashimaya/Daimaru, or 300-year-old soba at **Honke Owariya** (~¥1,200 pp). **Not** a third sit-down splurge — kawadoko was the splurge
+
+**Weather contingency:** Ugenta and Hirobun move indoors if it rains; valley + temple + hike still work in light rain. Heavy rain = swap to Plan B (Daitoku-ji sub-temples + Walden Woods coffee + early Pontocho stroll). Decide morning-of from the JMA forecast.
+
+**Booking action:** Lock **Ugenta** the moment their Sep 30 window opens (typically ~1 month ahead). Site: ugenta.co.jp. This is the time-critical booking after the birthday omakase.
+
+---
+
+## Day 13 — Thursday, Oct 1: Kyoto → Nara → Osaka
+
+**Theme: Kyoto checkout, Nara's giant Buddha + deer, then settle into Osaka**
+
+> 💡 Revision 1 splits the old cram-day: Nara now gets its own clean run on the Kyoto→Osaka transfer day, instead of being stapled onto the Kurama-Kibune day.
+
+- **10:00** Check out of Kyoto hotel (forward luggage to Osaka hotel via takkyubin, or use coin lockers)
+- **10:30** Train to **Nara** (~45 min, ¥720 by JR or Kintetsu)
+- **11:30** **Nara Park** — the famous bowing deer (deer crackers ¥200/stack)
+- **12:00** **Todai-ji** (東大寺, ¥800) — the giant bronze Buddha, jaw-dropping
+- **13:00** Lunch in Nara — kakinoha-zushi (persimmon-leaf sushi) or Higashimuki shopping street
+- **14:00** **Kasuga Taisha** (春日大社) — thousands of stone and bronze lanterns (grounds free; inner sanctuary ¥700)
+- **15:30** Train from Nara to **Osaka Namba** (~40 min, ¥570)
+- **16:30** Check into hotel near Namba/Dotonbori
+- **17:30** First **Dotonbori** wander — Glico Running Man, **takoyaki** at Wanaka or Kogaryu, Shinsaibashi-suji arcade
+- **19:00** Dinner: **Okonomiyaki** at Fukutaro (Namba) or Mizuno (Dotonbori, Michelin-listed)
+- **20:30** Evening Dotonbori walk — most magical at night; optional kushikatsu at a standing bar
+
+---
+
+## Day 14 — Friday, Oct 2: Osaka Deep Dive
 
 **Theme: Street food capital, local neighborhoods**
 
-- **09:00** Walk through **Kuromon Market** (黒門市場) — historically "Osaka's kitchen," now primarily a tourist-oriented market. Prices are inflated (especially seafood-on-sticks), and locals mostly avoid it. Worth a quick walk-through for the atmosphere and photos, but **save your appetite and money for Shinsekai** — the food is better and cheaper there
-- **10:30** Walk to **Shinsekai** (新世界) — retro Osaka. Tsutenkaku Tower area
-  - **Kushikatsu** at Daruma — the original! Don't double-dip in the communal sauce
+- **09:30** Walk through **Kuromon Market** (黒門市場) — historically "Osaka's kitchen," now tourist-oriented and pricey. Worth a quick walk-through for atmosphere, but **save your appetite and money for Shinsekai**
+- **10:30** Walk to **Shinsekai** (新世界) — retro Osaka, Tsutenkaku Tower area
+  - **Kushikatsu** at Daruma — the original! Don't double-dip the communal sauce
   - Wander **Janjan Yokocho** alley
-- **12:00** Lunch: More kushikatsu, or try a local ramen shop in Shinsekai
-- **13:30** Visit **Osaka Castle** (大阪城, ¥1,200 — price doubled April 2025, now includes Toyotomi Stone Wall Museum) — impressive exterior and surrounding park. Interior is a museum (optional)
-- **15:00** Explore **Nakazakicho** (中崎町) — Osaka's hipster neighborhood. Independent cafes, vintage shops, retro buildings. Very non-touristy
-- **16:30** Walk to **Tenjinbashi-suji** — Japan's longest shopping street. Browse, snack, people-watch
-- **18:00** Return to Namba area
-- **19:00** Final Osaka dinner: **Tachinomi** (standing bar) crawl — hop between 2-3 small standing bars near Namba. Try: karaage, grilled fish, cold beer, highballs
+- **12:00** Lunch: more kushikatsu, or a local ramen shop in Shinsekai
+- **13:30** **Osaka Castle** (大阪城, ¥1,200 — includes Toyotomi Stone Wall Museum) — impressive exterior and park; interior museum optional
+- **15:00** **Nakazakicho** (中崎町) — Osaka's hipster neighborhood: indie cafes, vintage shops, retro buildings
+- **16:30** **Tenjinbashi-suji** — Japan's longest shopping arcade. Browse, snack, people-watch
+- **18:00** Back to Namba
+- **19:00** Final Osaka dinner: **tachinomi** (standing bar) crawl — 2-3 small bars near Namba: karaage, grilled fish, highballs
 - **21:00** Farewell Dotonbori evening walk
 
 ---
 
-## Day 14 — Friday, Oct 2: Osaka → Tokyo (Final Night)
+## Day 15 — Saturday, Oct 3: Osaka → Haneda → Departure
 
-**Theme: Travel back, last Tokyo evening**
+**Theme: Direct Osaka-to-airport departure day (no Tokyo backtrack)**
 
-- **09:00** Sleep in. Late checkout if possible
-- **10:00** Any last Osaka shopping or breakfast in Shinsekai
-- **11:00** **Shinkansen from Shin-Osaka to Tokyo** (Hikari, ~2h40m, ~¥14,400 pp reserved). ⚠️ Oversized luggage (>160cm total dimensions) requires reserving a special seat — book via SmartEX
-- **14:00** Arrive Tokyo. Check into hotel in Akasaka (Hotel Monterey or nearby)
-- **15:00** Free time — revisit a favorite spot, last-minute shopping in Ginza or Shinjuku
-- **17:00** Pack and prepare for departure
-- **19:00** Final dinner in Tokyo — revisit a favorite, or try something new. Suggestion: **Yurakucho yakitori** under the train tracks for a perfect Tokyo farewell
-- **21:00** Early night — flight tomorrow
+> 🔄 Revision 1 removed the Tokyo return night. You now go **straight from Osaka to Haneda**, leaving a relaxed morning instead of a rushed Shinkansen-and-farewell-dinner scramble.
 
----
-
-## Day 15 — Saturday, Oct 3: Departure
-
-- **Morning** Sleep in, leisurely checkout
-- **Afternoon** Any remaining shopping or sightseeing near the hotel
-- **16:00** Head to **Haneda Airport** (allow 2+ hours before flight)
-  - From Akasaka: Metro to Hamamatsucho → monorail, or direct Keikyu line. ~45-60 min, ~¥700
-- **19:20** ✈️ Depart Tokyo HND
+- **09:00** Relaxed checkout. Last Osaka breakfast / Namba stroll
+- **~11:00-12:00** **Nozomi Shin-Osaka → Tokyo** (~2h30m, ~¥14,720 pp reserved). ⚠️ Oversized luggage (>160cm total) needs a special seat — book via SmartEX. *(Either the 11:00 or 12:00 departure leaves a 3h+ cushion before the evening flight.)*
+- **~14:30** Arrive Tokyo → transfer to **Haneda (HND)**. From Tokyo Station: ~30-40 min via Keikyu/monorail
+- **~16:00** At HND with comfortable buffer. Dinner airside / last konbini haul
+- **19:15** ✈️ Depart **CA168 HND → PEK** (Air China, T3) → CA851 PEK 02:50 → LGW 06:35 (Oct 4)
+  - ⚠️ Confirm CA168 exact departure with the airline — your booking shows 19:20, schedule databases show 19:15. Either is fine for buffer, but worth a clean check-in window
 
 ---
 
@@ -338,13 +336,15 @@ This version gives Kyoto room to breathe: dawn Fushimi Inari, the Kurama-Kibune 
 | Odawara → Kyoto | Shinkansen Hikari (reserved) | ~2 hrs | ¥12,300 |
 | Kyoto → Nara | JR or Kintetsu | 45 min | ¥720 |
 | Nara → Osaka | Kintetsu to Namba | 40 min | ¥570 |
-| Osaka → Tokyo | Shinkansen Hikari (reserved) | 2h40m | ¥14,400 |
-| Akasaka → HND | Metro + Monorail | ~50 min | ~¥700 |
+| Osaka → Tokyo (departure day) | Nozomi (reserved) | ~2h30m | ¥14,720 |
+| Tokyo Stn → HND | Keikyu / Monorail | ~35 min | ~¥500 |
 
-**Total intercity transit for 2: ~¥63,340**
+**Total intercity transit for 2: ~¥63,180**
 
 > ⚠️ **Oversized baggage rule:** On the Tokaido Shinkansen, bags exceeding 160cm total dimensions (length + width + height) require reserving a seat with "oversized baggage area." Book via SmartEX app. Standard suitcases (~157cm) usually fit under the limit, but measure yours before travelling.
 
+> 🔄 **Revision 1 note:** The departure-day Osaka→Tokyo Nozomi replaces the old Day 14 backtrack — you ride to Tokyo on **Oct 3** to catch the evening Haneda flight, not for an extra Tokyo night.
+
 ## JR Pass Verdict: ❌ Skip It
 
-Individual tickets total ~¥31,670 per person for all intercity legs. A 7-day JR Pass costs ¥50,000 and wouldn't cover Tokyo→Hakone (Odakyu, not JR). Individual tickets save ~¥18,330 per person.
+Individual tickets total ~¥31,590 per person for all intercity legs. A 7-day JR Pass costs ¥50,000 and wouldn't cover Tokyo→Hakone (Odakyu, not JR). Individual tickets save ~¥18,410 per person.

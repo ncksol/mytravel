@@ -1,54 +1,45 @@
 # Booking Checklist
 
-## ⚠️ Book ASAP (1-3 months ahead)
+> 🔄 **Revision 1 (2026-06-05):** Tokyo return night (Oct 2) removed; Kyoto now 4 nights (Sep 27-Oct 1); Osaka Oct 1-3; depart direct Osaka→Haneda Oct 3. Birthday dinner locked to **Waketokuyama**. Kawadoko added for **Sep 30 (Ugenta)**. Ryokan still TBC.
+
+## ⚠️ Book ASAP (time-critical)
 
 | Item | Status | Notes |
 |------|--------|-------|
-| 🎂 Birthday dinner (Sep 22) | ⬜ Not booked | Sushi Miura (Akasaka, ¥34,000 pp) is top pick. Sushi Yoshitake (Ginza, ¥56,000+ pp) is above budget. **Book 6+ months ahead — Silver Week makes reservations much harder.** Use OMAKASE platform for Yoshitake (opens noon JST on the 15th) |
-| Ryokan — Yama no Chaya (Sep 25-26) | ⬜ Not booked | 2 nights. Only 15 rooms — book early. Request room with private rotenburo |
+| 🎂 Birthday dinner — **Waketokuyama** (Sep 22) | ⬜ Not booked | ✅ **LOCKED choice.** ~¥23,000 pp (→¥25,300 from Aug 2026). **Booking window opens 2 months ahead → Sep 22 bookable from Sun 22 Jul 2026** via OMAKASE (omakaseje.com/restaurants/wk885579). Set a reminder. Flag shellfish/crustacean allergy (kombu dashi). *Fallbacks: Sushi Miura or Nogizaka Shin (both Akasaka, 1★).* |
+| 🍱 Kawadoko lunch — **Ugenta**, Kibune (Sep 30) | ⬜ Not booked | **Time-critical — Sep 30 is the season's last day.** Riverside platform kaiseki, lunch from ¥9,900 pp. Book 3+ days ahead via ugenta.co.jp (window typically ~1 month out). Backup: **Hirobun** (nagashi-somen, no res, 1-2h queue). ⚠️ **Kifune Club is permanently closed.** |
+| Ryokan — Hakone (Sep 25-27) | ⬜ Not booked | **Still TBC — pick from comparison below.** 2 nights. Request a room with private outdoor rotenburo. Book early — top rooms go fast. |
+| TeamLab Borderless (Sep 22 or flexible) | ⬜ Not booked | Azabudai Hills. Timed entry, ¥3,600 pp online + ¥200 on-site. Dynamic pricing — book early. Open daily 8:30-21:00 |
 
-### 🏯 Ryokan Comparison — Full Options
+### 🏯 Ryokan Comparison — pick one (Sep 25-27)
 
-Our recommended pick is **Gora Kadan** (Hakone), but here's a comprehensive comparison of all evaluated options:
+Recommended fit for a history/architecture/atmosphere weighting: **Yama no Chaya Special Room**. Upgrade pick: **Gora Kadan Annex**. Value pick: **Hakone Ginyu**.
 
-| Ryokan | Location | Private Onsen | Price/Night (2 ppl, w/meals) | Kaiseki | Transit from Tokyo | Key Highlight |
-|--------|----------|---------------|------|---------|-------------------|---------------|
-| **Gora Kadan** ⭐ | Hakone (Gora) | Select rooms (Annex/Suite) — outdoor | ¥110,000-200,000 · £580-1,050 | 9/10 | 1.5-2h | Former imperial villa. Relais & Chateaux |
-| **Hakone Ginyu** | Hakone (Miyanoshita) | ALL 20 rooms — outdoor | ¥85,000-109,000 · £445-575 | 8/10 | 1.5-2h | Best value — every room has outdoor rotenburo |
-| **Asaba** | Shuzenji, Izu | ALL rooms (mostly indoor cypress) | ¥90,000-250,000 · £475-1,315 | 10/10 | 2-2.5h | 540 years old. Noh stage on pond. Legendary kaiseki |
-| **Beniya Mukayu** | Yamashiro, Ishikawa | ALL 16 rooms — outdoor | ¥80,000-180,000 · £420-945 | 9/10 | 3-3.5h | Radical minimalist design. Relais & Chateaux |
-| **Nishimuraya Honkan** | Kinosaki Onsen, Hyogo | Select rooms — outdoor | ¥80,000-250,000 · £420-1,315 | 8.5/10 | 4.5-5h | 165 years. 7 public bathhouses included. Literary heritage |
-| **Arcana Izu** | Yugashima, Izu | ALL 8 rooms — outdoor | ¥80,000-150,000 · £420-790 | French-Japanese fusion | 2.5h | Auberge-style. River forest setting. Only 8 rooms |
+| Ryokan | Location | Private Onsen | Price/Night (2 ppl, w/meals) | Key Highlight |
+|--------|----------|---------------|------------------------------|---------------|
+| **Yama no Chaya** ⭐ (top fit) | Tonosawa, Hakone | 11 of 15 rooms — outdoor | ¥55,000-67,000 · £290-353 (Special Room) | Historic, intimate, riverside. Stairs + suspension bridge (rule out if mobility issues) |
+| **Gora Kadan** (splurge) | Gora, Hakone | Annex/Suite rooms — outdoor | ¥91,000-108,000 · £479-568 | Former imperial villa. Relais & Châteaux |
+| **Hakone Ginyu** (value) | Miyanoshita, Hakone | ALL 20 rooms — outdoor | ¥43,000-55,000 · £226-290 | Modern; every room has an outdoor rotenburo + valley view |
 
-**Quick Decision Guide:**
-- **Best overall:** Gora Kadan (Annex room with private outdoor onsen)
-- **Best value:** Hakone Ginyu (guaranteed outdoor bath, every room)
-- **Best food:** Asaba (world-class kaiseki, 500+ year tradition)
-- **Most unique design:** Beniya Mukayu (minimalist masterpiece)
-- **Best town experience:** Nishimuraya (stroll between 7 bathhouses in yukata)
-
-**Note:** Our itinerary currently uses "Yama no Chaya" as placeholder. Consider upgrading to Gora Kadan or Hakone Ginyu based on availability and budget.
-| TeamLab Borderless tickets (Sep 22 or flexible) | ⬜ Not booked | Timed entry, ¥3,600 pp online. Dynamic pricing — book early. Strict time-slot system |
-| Kawadoko dinner in Kibune (Sep 29, if doing Kurama/Kibune) | ⬜ Not booked | Riverside platform dining. End-of-season Sept — call ahead to confirm. Try Hirobun, Kifune Club, or Ugenta |
+⚠️ The budget uses a ~¥95,000/night mid-estimate. Your pick swings the grand total by several hundred £ — confirm the tier before booking the rest.
 
 ## 📅 Book 2-4 Weeks Ahead
 
 | Item | Status | Notes |
 |------|--------|-------|
 | Tokyo hotel — Akasaka (Sep 19-25, 6 nights) | ✅ Pre-booked | **Hotel Monterey Akasaka** — £137/night (free cancellation). ⚠️ Silver Week premium reflected in price |
-| Kyoto hotel (Sep 27-29, 3 nights) | ⬜ Not booked | Near Shijo-Kawaramachi |
-| Osaka hotel (Sep 30-Oct 1, 2 nights) | ⬜ Not booked | Near Namba/Dotonbori. Cross Hotel Osaka recommended |
-| Tokyo hotel — return night (Oct 2, 1 night) | ⬜ Not booked | Same Hotel Monterey Akasaka if available, or budget option near Haneda |
-| Romancecar tickets Shinjuku→Hakone-Yumoto (Sep 25) | ⬜ Not booked | ¥2,470 pp (one way only — returning via Odawara Shinkansen). Book for window seats |
-| Shibuya Sky tickets (Sep 21) | ⬜ Not booked | ¥2,700 pp (online, before 15:00) / ¥3,400 (after 15:00). Timed entry — book online |
+| Kyoto hotel (Sep 27-Oct 1, 4 nights) | ⬜ Not booked | Near Shijo-Kawaramachi. **Now 4 nights** (was 3) |
+| Osaka hotel (Oct 1-3, 2 nights) | ⬜ Not booked | Near Namba/Dotonbori |
+| Romancecar tickets Shinjuku→Hakone-Yumoto (Sep 25) | ⬜ Not booked | ¥2,470 pp (one way — returning via Odawara Shinkansen). Book for window seats |
+| Shibuya Sky tickets (Sep 21) | ⬜ Not booked | ¥2,700 pp (online, before 15:00) / ¥3,400 (after 15:00). Timed entry — tickets release midnight JST 14 days ahead and sell out fast |
 
 ## 📝 Book 1 Week Ahead / On Arrival
 
 | Item | Status | Notes |
 |------|--------|-------|
 | Shinkansen Odawara→Kyoto (Sep 27) | ⬜ Not booked | Hikari, ~¥12,300 pp reserved. Book via SmartEX app. ⚠️ Oversized luggage (>160cm) requires special seat reservation |
-| Shinkansen Shin-Osaka→Tokyo (Oct 2) | ⬜ Not booked | Hikari, ~¥14,400 pp reserved. SmartEX app. ⚠️ Same oversized luggage rule applies |
-| Luggage forwarding (takkyubin) — Tokyo→Kyoto hotel | ⬜ Not booked | Send day before departure from Hakone. ~¥2,000 per bag |
+| Nozomi Shin-Osaka→Tokyo (Oct 3, departure day) | ⬜ Not booked | ~¥14,720 pp reserved, ~11:00 or 12:00 departure for a 3h+ HND cushion. SmartEX app. ⚠️ Same oversized luggage rule |
+| Luggage forwarding (takkyubin) — Hakone→Kyoto, Kyoto→Osaka | ⬜ Not booked | Send day before each move. ~¥2,000 per bag |
 | Hakone Freepass (Sep 26) | ⬜ Not booked | ¥6,000 pp (Odawara version) for loop (ropeway, cruise, bus). Buy at Hakone-Yumoto or Odawara station |
 
 ## 📱 Pre-Trip Setup

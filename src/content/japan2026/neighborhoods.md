@@ -52,8 +52,7 @@ Tokyo's indie/bohemian neighborhood. Vintage clothing, independent theaters, liv
 
 - **Bear Pond Espresso** — legendary coffee, eccentric owner. No photos of the espresso machine allowed
 - **Shirube** — tiny izakaya with great atmosphere
-- **Moyan Curry** — spice curry (Indo-Japanese fusion). More complex than standard Japanese curry
-- Various curry shops — Shimokitazawa is curry central
+- Various curry shops — Shimokitazawa is curry central; wander Suzunari/Bonus Track lanes and pick one that smells best
 
 ### Best Paired With
 
