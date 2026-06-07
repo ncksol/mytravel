@@ -7,7 +7,7 @@
 | Sep 19-25 | Tokyo (Akasaka) | 6 | Hotel Monterey Akasaka ✅ booked (backup: Hotel Hillarys Akasaka) |
 | Sep 25-27 | Hakone | 2 | Ryokan TBC (Yama no Chaya / Gora Kadan / Hakone Ginyu) |
 | Sep 27-Oct 1 | Kyoto (Downtown/Kawaramachi) | 4 | Mid-range near Shijo-Kawaramachi — TBC |
-| Oct 1-3 | Osaka (Namba) | 2 | Near Dotonbori — TBC |
+| Oct 1-3 | Osaka (Namba/Yotsubashi) | 2 | Via Inn Prime Shinsaibashi Yotsubashi ✅ booked |
 | **Total** | | **14 nights** | |
 
 > 🔄 **Revision 1 (2026-06-05):** The original Tokyo return night (Oct 2-3) has been **removed** — it cost ~£270 (Shinkansen + hotel) and half a travel day for a single farewell dinner. That night was reallocated to **Kyoto, now 4 nights**, which was underweighted at 3 for the trip's densest cultural content. On departure day you now fly **direct from Osaka → Haneda** (Nozomi ~11:00/12:00, 3h+ HND cushion). See the day-by-day below for the new Kyoto days (Uji/Tōfuku-ji and the Kurama-Kibune mountain day).
@@ -286,8 +286,8 @@ If the morning is gorgeous and you want forest-and-village atmosphere instead:
 - **13:00** Lunch in Nara — kakinoha-zushi (persimmon-leaf sushi) or Higashimuki shopping street
 - **14:00** **Kasuga Taisha** (春日大社) — thousands of stone and bronze lanterns (grounds free; inner sanctuary ¥700)
 - **15:30** Train from Nara to **Osaka Namba** (~40 min, ¥570)
-- **16:30** Check into hotel near Namba/Dotonbori
-- **17:30** First **Dotonbori** wander — Glico Running Man, **takoyaki** at Wanaka or Kogaryu, Shinsaibashi-suji arcade
+- **16:00** Check into **Via Inn Prime Shinsaibashi Yotsubashi** (1-5-10 Shinmachi, Nishi-ku — Yotsubashi station, 1 min). From Osaka-Namba, hop the Yotsubashi line 1 stop to Yotsubashi, or 12-min walk west. Drop bags. *(AEON supermarket on the ground floor for snacks/water.)*
+- **17:00** First **Dotonbori** wander (12-min walk east, or 1 metro stop) — Glico Running Man, **takoyaki** at Wanaka or Kogaryu, Shinsaibashi-suji arcade (7 min from the hotel)
 - **19:00** Dinner: **Okonomiyaki** at Fukutaro (Namba) or Mizuno (Dotonbori, Michelin-listed)
 - **20:30** Evening Dotonbori walk — most magical at night; optional kushikatsu at a standing bar
 
@@ -317,7 +317,8 @@ If the morning is gorgeous and you want forest-and-village atmosphere instead:
 
 > 🔄 Revision 1 removed the Tokyo return night. You now go **straight from Osaka to Haneda**, leaving a relaxed morning instead of a rushed Shinkansen-and-farewell-dinner scramble.
 
-- **09:00** Relaxed checkout. Last Osaka breakfast / Namba stroll
+- **09:00** Relaxed checkout from Via Inn Prime. Last Osaka breakfast / Shinsaibashi stroll
+- **~10:15** Walk ~7 min to **Shinsaibashi** → **Midōsuji line direct to Shin-Osaka** (~15 min, no transfer) with luggage
 - **~11:00-12:00** **Nozomi Shin-Osaka → Tokyo** (~2h30m, ~¥14,720 pp reserved). ⚠️ Oversized luggage (>160cm total) needs a special seat — book via SmartEX. *(Either the 11:00 or 12:00 departure leaves a 3h+ cushion before the evening flight.)*
 - **~14:30** Arrive Tokyo → transfer to **Haneda (HND)**. From Tokyo Station: ~30-40 min via Keikyu/monorail
 - **~16:00** At HND with comfortable buffer. Dinner airside / last konbini haul

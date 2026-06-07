@@ -11,8 +11,8 @@
 | Tokyo — Hotel Monterey Akasaka ✅ | 6 | ¥26,000 · £137 | ¥156,000 · £822 |
 | Hakone — ryokan TBC (incl. dinner+breakfast) | 2 | ¥95,000 · £500 | ¥190,000 · £1,000 |
 | Kyoto (mid-range hotel) | 4 | ¥16,000 · £84 | ¥64,000 · £337 |
-| Osaka (mid-range hotel) | 2 | ¥15,000 · £79 | ¥30,000 · £158 |
-| **Accommodation Total** | **14** | | **¥440,000 · £2,316** |
+| Osaka — Via Inn Prime Shinsaibashi Yotsubashi ✅ | 2 | ¥17,195 · £91 | ¥34,390 · £181 |
+| **Accommodation Total** | **14** | | **¥444,390 · £2,340** |
 
 > 🔄 **Revision 1:** Tokyo return night (Oct 2) **removed** (−¥15,000); Kyoto **3→4 nights** (+¥16,000). Hakone ryokan is still TBC — budget shown is a mid-estimate (~¥95,000/night for two); see Booking Checklist for the Yama no Chaya / Gora Kadan / Hakone Ginyu comparison and pick your tier.
 
@@ -86,14 +86,14 @@ Note: Ryokan dinners & breakfasts (4 meals for 2) are included in accommodation 
 
 | Category | JPY | GBP |
 |----------|-----|-----|
-| Accommodation | ¥440,000 | £2,316 |
+| Accommodation | ¥444,390 | £2,340 |
 | Transport | ¥102,580 | £540 |
 | Food | ¥258,900 | £1,363 |
 | Activities | ¥40,400 | £213 |
 | Miscellaneous | ¥65,000 | £342 |
-| **TOTAL** | **¥906,880** | **£4,773** |
+| **TOTAL** | **¥911,270** | **£4,798** |
 
-### 💰 Buffer remaining: \~£227 (\~¥43,120)
+### 💰 Buffer remaining: \~£202 (\~¥38,730)
 
 This leaves a buffer for:
 - Upgrading the Hakone ryokan to a higher tier (the biggest swing variable — see Booking Checklist)

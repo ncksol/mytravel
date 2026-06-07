@@ -1,6 +1,8 @@
 # Booking Checklist
 
 > 🔄 **Revision 1 (2026-06-05):** Tokyo return night (Oct 2) removed; Kyoto now 4 nights (Sep 27-Oct 1); Osaka Oct 1-3; depart direct Osaka→Haneda Oct 3. Birthday dinner locked to **Waketokuyama**. Kawadoko added for **Sep 30 (Ugenta)**. Ryokan still TBC.
+>
+> ✅ **Update (2026-06-07):** Osaka hotel booked — **Via Inn Prime Shinsaibashi Yotsubashi** (£181/2nt, Deluxe Double king).
 
 ## ⚠️ Book ASAP (time-critical)
 
@@ -29,7 +31,7 @@ Recommended fit for a history/architecture/atmosphere weighting: **Yama no Chaya
 |------|--------|-------|
 | Tokyo hotel — Akasaka (Sep 19-25, 6 nights) | ✅ Pre-booked | **Hotel Monterey Akasaka** — £137/night (free cancellation). ⚠️ Silver Week premium reflected in price |
 | Kyoto hotel (Sep 27-Oct 1, 4 nights) | ⬜ Not booked | Near Shijo-Kawaramachi. **Now 4 nights** (was 3) |
-| Osaka hotel (Oct 1-3, 2 nights) | ⬜ Not booked | Near Namba/Dotonbori |
+| Osaka hotel (Oct 1-3, 2 nights) | ✅ Booked | **Via Inn Prime Shinsaibashi Yotsubashi** — £181 total/2nt (~£91/night), Deluxe Double (180cm king), room-only. JR-West, Yotsubashi station 1 min; ~12 min walk / 1 metro stop to Dotonbori |
 | Romancecar tickets Shinjuku→Hakone-Yumoto (Sep 25) | ⬜ Not booked | ¥2,470 pp (one way — returning via Odawara Shinkansen). Book for window seats |
 | Shibuya Sky tickets (Sep 21) | ⬜ Not booked | ¥2,700 pp (online, before 15:00) / ¥3,400 (after 15:00). Timed entry — tickets release midnight JST 14 days ahead and sell out fast |
 
