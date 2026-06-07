@@ -1,3 +1,30 @@
+# Hotels — Accommodation
+
+## Booked & planned — all four stops
+
+| Stay | Dates | Nights | Hotel | Price | Status |
+|------|-------|--------|-------|-------|--------|
+| Tokyo (Akasaka) | Sep 19-25 | 6 | **Hotel Monterey Akasaka** | £137/night · £822 | ✅ Booked |
+| Hakone | Sep 25-27 | 2 | Ryokan TBC (Yama no Chaya / Gora Kadan / Hakone Ginyu) | ~£290-568/night | ⬜ TBC |
+| Kyoto (Shijo-Kawaramachi) | Sep 27-Oct 1 | 4 | Mid-range near Kawaramachi | ~£84/night est. | ⬜ TBC |
+| Osaka (Namba/Yotsubashi) | Oct 1-3 | 2 | **Via Inn Prime Shinsaibashi Yotsubashi** | £91/night · £181 | ✅ Booked |
+
+> The Hakone ryokan comparison (private-rotenburo options) and the booking checklist live on the **Bookings** page. Detailed Tokyo hotel research is below.
+
+### ✅ Osaka — Via Inn Prime Shinsaibashi Yotsubashi (Oct 1-3)
+
+| Detail | Value |
+|--------|-------|
+| Trip.com | **9.4/10** (Cleanliness 9.5, Location 9.5, Service 9.4) |
+| Booked price | **£181 total / 2 nights (~£91/night), room-only** |
+| Room | Deluxe Double — **180cm king bed**, 20m², floors 4-12, Serta mattress |
+| Station | **Yotsubashi (Metro) — 1 min** (AEON supermarket on the ground floor) |
+| Operator | JR-West Group · opened 2019 · 224 rooms · staffed front desk |
+
+**Why it won:** bright modern rooms, a real king for the price of others' queens, spotless (9.5), staffed, strong value. Sits on the western edge of Minami — ~12 min walk / 1 metro stop to Dotonbori, 7 min to Shinsaibashi-suji. (No breakfast booked — AEON downstairs + conbini cover grab-and-go.) Rejected the darker/pricier central options (Citadines too dark; Candeo The Tower wrong district).
+
+---
+
 # Tokyo Hotel Research — Akasaka Area
 
 ## Requirements
