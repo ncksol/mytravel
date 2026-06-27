@@ -78,6 +78,27 @@ Both swim morning and evening, every day.
 
 ---
 
+## 🌃 After dark — evening sights (Mon–Fri after work)
+
+Sunset is ~21:17 in late June, so evenings are long. What's actually open/worth doing after work:
+
+### Menton — old town & seafront
+- **Marché Nocturne** — night market, **1 July – 29 Aug, every evening 19:00–midnight, Mail du Bastion** (free; craft stalls under lanterns)
+- **Parvis Saint-Michel + Vieux-Château cemetery terrace** — climb the old town at golden hour for the best free sunset view over the bay and Italy (open any time)
+- **Promenade du Soleil** — evening swim + lit seafront stroll
+
+### Monaco by night (12 min train)
+- **Musée Océanographique** — open **till 20:00 in July** (last entry 19:30; €22.50/£19). Cliff-top "Temple of the Sea" + rooftop sea terrace
+- **Casino de Monte-Carlo / Casino Square** — supercars + fountains free to watch; gaming rooms smart-casual after dark (passport, ~€18). Last train back ~23:00
+
+### Roquebrune-Cap-Martin (5 min train)
+- Perched medieval village + 10th-century château (one of France's oldest), atmospheric at sunset. Go for the village/sunset — château shuts ~18:30
+
+### Sainte-Agnès (bus 10, lighter night)
+- "Highest coastal village in Europe", eagle's-nest views. ⚠️ Late return buses cut — check bus 10 day-of, or save for the free Sunday
+
+---
+
 ## 🎉 Fête de la Saint-Pierre (4–5 July — on your dates, free)
 
 Menton's summer-opening sea festival, right across your Italian-day evening + departure morning.

@@ -68,19 +68,41 @@ title: Menton Itinerary
 
 ## Days 3–7 — Monday 29 June – Friday 3 July: Working week
 
-**Theme: Swim → work → swim → easy local dinner. Low effort.**
+**Theme: Swim → work → then actually go out. You're not spending every evening just eating + swimming.**
 
-A verified 5-night dinner rotation (closing days handled, each Google-Maps status-checked):
+> 🌅 **Why evenings work here:** late-June **sunset is ~21:17** (light to ~21:45) — long, warm evenings. Most museums/gardens shut ~18:00, so the plan below uses what's genuinely open after work: the old town, viewpoints, the night market, short train hops, and Monaco's one late-opening museum.
 
+### 🌃 After-work evening options
+
+**Home base — Menton old town (no transport needed):**
+- **Marché Nocturne (night market)** — **1 July – 29 Aug, every evening 19:00–midnight, Mail du Bastion** (seafront by the Cocteau Bastion, ~10 min walk). Free; craft stalls under lanterns. *[official menton.fr]*
+- **Golden-hour old-town climb** — up through the **Parvis Saint-Michel** (mosaic square between the baroque churches) to the **Vieux-Château cemetery terrace**: the best free sunset panorama over the bay, rooftops and Italy. The square/viewpoint are open any time
+- **Promenade du Soleil** — evening swim at Sablettes/Fossan, then the lit seafront stroll
+
+**Short evening train hops (10–20 min by rail):**
+- **🐙 Monaco by night (12 min train)** — **Musée Océanographique open till 20:00 in July** (last entry 19:30; €22.50/£19; cliff-top "Temple of the Sea" + rooftop sea terrace). Then **Casino Square** — smart-casual after dark (no sportswear; passport for the gaming rooms, ~€18), or just watch the supercars + fountains free. Last train back ~23:00. *(NB: 30 Jun is still June hours = 19:00 close; the full 20:00 is Wed 1 Jul on.)*
+- **🏰 Roquebrune-Cap-Martin (5 min train)** — tiny medieval village + 10th-century château (one of France's oldest) perched between you and Monaco. Go for the village + sunset (château shuts ~18:30). Quiet and atmospheric
+
+**One bus option (lighter night):**
+- **⛰️ Sainte-Agnès** (bus 10 from Menton gare, ~30–40 min) — "highest coastal village in Europe", eagle's-nest views. ⚠️ **Late return buses got cut** — only do after work if an early-enough last bus exists (check bus 10 day-of); otherwise save it for the free Sunday
+
+### Suggested 5-night shape
+- **Mon 29:** old-town sunset climb to the château-cemetery viewpoint + Sablettes swim → dinner **Le Stanley** (only one open Mondays)
+- **Tue 30:** **Monaco by night** — Oceanographic Museum + Casino Square, train back *(Pecora Negra closed Tue)*
+- **Wed 1 Jul:** **Marché Nocturne opens** — wander the Mail du Bastion stalls → easy dinner **Carnival / La Trattoria**
+- **Thu 2:** **Roquebrune-Cap-Martin** village + sunset (quick train), back for dinner
+- **Fri 3:** promenade sunset swim + the night market again *(Rino closed Fri → Carnival / Le Stanley)*
+
+### Verified 5-night dinner rotation (closing days handled, each Google-Maps status-checked)
 - **Le Stanley** — Place du Cap. Provençal/seafood, **open 7/7** (good for Monday when others shut). ~£34pp (€39)
 - **La Trattoria** — 15 Av de Verdun (closest to base). Sicilian-Italian, ~£22pp (€25). Closed Mon
 - **Bar Brasserie Rino** — 29 Rue Saint-Michel, old town. French/Italian value ~£9–17pp (€10–20). Closed Fri — the easy/light night
 - **Carnival** — 29 Quai de Monleon, Vieux Port. French-Italian bistrot, ~£24pp (€28)
 - **Pecora Negra** — Quai Gordon Bennett, at Sablettes beach. Colagreco's Neapolitan pizza, ~£22pp (€25). Closed Tue — combine with a sunset swim
 
-Evening / free-morning culture (see **Sights**): Cocteau Bastion, Serre de la Madone, Basilique Saint-Michel, Jardin Biovès.
-
 > 🍽️ Backup dinner: **ABAM** (5 Rue du Vieux Collège) — superb food but closed Sun+Mon and mixed service reports; book ahead.
+>
+> ⏱️ Evening timings hinge on the ~21:17 sunset — re-check the Oceanographic late-closing and last trains day-of.
 
 ---
 
