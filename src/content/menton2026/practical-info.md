@@ -20,9 +20,11 @@ No hire car — everything runs on the coastal train, a couple of buses, and wal
 
 ## 🚖 Arrival night (Sat 27 Jun) — getting to Menton after 20:40
 
-- **Taxi / Uber direct (recommended):** ~35 min, **~£55–65 (€65–75)**. No-faff after a travel day with bags. Rank outside T1
+- **Primary — train (ticket booked):** free tram 2/B from T1 → **Nice Saint-Augustin** (airport's own station, ~3 min) → **TER 21:51 → Menton, arrives ~22:31**. Cheapest, no taxi faff
+- ⚠️ **~71-min connection is tight** — UK = non-EU passport queue at Nice (10–15 min good night, 45–60+ if flights bunch); use e-gates if eligible
+- **Fallback 1:** last Saturday train ~22:56 from Saint-Augustin → Menton ~23:35
+- **Fallback 2:** taxi/Uber outside T1, ~35 min, **~£55–65 (€65–75)** — worst case (grim queue + checked bags)
 - ⚠️ **Express 80 bus stops ~19:40** — not running this late
-- **Cheaper fallback:** Tram T2 into Nice (to ~00:35) + last Sat TER Nice→Menton (~23:36) — doable but a midnight slog with luggage
 
 ## 🚆 Airport ↔ Nice ↔ Menton
 

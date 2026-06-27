@@ -21,18 +21,18 @@ title: Menton Itinerary
 
 ---
 
-## Day 1 — Saturday, 27 June: Late arrival → straight to Menton
+## Day 1 — Saturday, 27 June: Late arrival → train to Menton
 
-**Theme: Land late, taxi to base, settle in — no Nice today**
+**Theme: Land late, train along the coast to base, settle in — no Nice today**
 
 > ⚠️ **Flight change:** the original morning flight (BA8475, 09:45) was cancelled. Rebooked to **BA336, London Heathrow T5 dep 17:40 → lands Nice Terminal 1 at 20:40.** Nice's sightseeing window moved to Sunday.
 
-- **20:40** Land Nice (BA336, Terminal 1). Off the plane + bags ~21:15
-- **Taxi / Uber straight to Menton** (~35 min, ~£55–65 / €65–75). The no-faff move after a travel day with bags. Rank outside T1; or Uber/Bolt
-- ⚠️ The **Express 80 bus stops ~19:40** — too early for this landing, so it's not an option tonight
-- **~22:00** Arrive Menton. Quick late dinner near the flat (**Le Stanley**, Place du Cap, open 7/7) or just settle in — first swim can wait for morning
+- **20:40** Land Nice (BA336, Terminal 1). Through passport control + bags
+- **Primary — train (ticket booked):** free **tram 2/B** from T1 → **Nice Saint-Augustin** (the airport's own station at Grand Arénas, ~3 min ride / ~10 min walk) → **TER 21:51 → Menton, arrives ~22:31**. Cheap, no taxi faff. *(Saint-Augustin, not Nice-Ville — no need to go into the city)*
+- ⚠️ **The connection is ~71 min but tight** — UK passports use the non-EU queue at Nice (10–15 min on a good night, 45–60+ if flights bunch). Use the **e-gates** if eligible and move briskly; comfortable if you've only got cabin bags
+- **~22:31** Arrive Menton. Late dinner near the flat (**Le Stanley**, Place du Cap, open 7/7) or just settle in — first swim can wait for morning
 
-> 💰 **Cheaper-but-slower fallback:** Tram T2 into Nice (runs to ~00:35) + last Saturday TER Nice→Menton (~23:36). Doable, but a midnight slog with luggage and two changes — only if you'd rather save the taxi fare.
+> 🔁 **If you miss the 21:51:** the **last Saturday train is ~22:56** from Saint-Augustin → Menton ~23:35. Worst case (grim queue + checked bags), a **taxi** outside T1 is ~35 min, ~£55–65. *(Express 80 bus stops ~19:40 — not an option this late.)*
 >
 > 📱 **SIM:** don't try to sort the Free SIM tonight (too late). It's built into Sunday's Nice morning below.
 

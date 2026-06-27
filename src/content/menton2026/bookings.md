@@ -51,7 +51,7 @@ Lodging is sorted (28 Avenue de la Riviera). What needs booking: two food reserv
 
 ## ⚠️ Same-day re-checks
 
-- **Arrival taxi:** confirm the fixed/metered fare with the T1 driver, or compare Uber/Bolt on landing
+- **Arrival (Sat 27):** primary is the **21:51 train** (Nice Saint-Augustin → Menton ~22:31) — move quickly through passport control; fallbacks are the ~22:56 last train or a taxi outside T1
 - **Trains:** SNCF Connect for exact TER times (Menton↔Nice, Nice↔Monaco, Menton↔Ventimiglia) — frequent, but confirm the morning of
 - **Bus:** Riviera Trasporti Bus 7 (Ventimiglia↔Dolceacqua, Sat 4 Jul) — verify minute-times on the operator site the day before
 - **Flights:** re-confirm **BA336** (out, 27 Jun) and **BA8468** (return, 5 Jul) times 24h before (BA8468 poor punctuality — avg ~51-min delay)
