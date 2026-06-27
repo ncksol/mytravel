@@ -14,4 +14,9 @@ const jersey2026 = defineCollection({
   schema: tripSchema,
 });
 
-export const collections = { japan2026, jersey2026 };
+const menton2026 = defineCollection({
+  type: 'content',
+  schema: tripSchema,
+});
+
+export const collections = { japan2026, jersey2026, menton2026 };

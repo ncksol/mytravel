@@ -1,0 +1,25 @@
+---
+import TripLayout from '../../layouts/TripLayout.astro';
+import { render, getEntry } from 'astro:content';
+import { mentonNavItems } from '../../lib/menton-nav';
+
+const entry = await getEntry('menton2026', 'sights');
+const { Content } = await render(entry!);
+
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const prefix = `${base}/menton2026`;
+---
+
+<TripLayout
+  title="Sights"
+  activeNav="sights"
+  tripPrefix="/menton2026"
+  tripTitle="Menton 2026"
+  tripSubtitle="French Riviera"
+  tripFooter="menton 2026 · french riviera · 27 jun–5 jul"
+  navItems={mentonNavItems(prefix)}
+>
+  <div class="content-card prose page-sights">
+    <Content />
+  </div>
+</TripLayout>
