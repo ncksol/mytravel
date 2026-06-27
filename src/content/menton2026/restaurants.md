@@ -52,18 +52,17 @@ Casual, walkable, local. Spread across price points; closing days handled.
 
 ---
 
-## 🇲🇨 Monaco lunch (Sun 28 Jun) — value under £100pp
+## 🇲🇨 Monaco (Sun 28 Jun) — F1 afternoon, lunch is in Nice
 
-### Castelroc — the pick
-- **Where:** 1 Place du Palais, facing the Palace gate (terrace over the port)
-- **Style:** Traditional Monégasque (barbagiuans, stocafi). Family-run since 1953
-- **Price:** ~£52–65pp (€60–75) with a glass of wine — comfortably under the £100 cap
-- **Hours:** lunch daily; dinner Thu–Sat only
+> ⚠️ The combined Sunday now lunches in **Nice** (see below), so the Monaco sit-down lunch isn't used this trip. In Monaco the afternoon is the **Car Collection + GP circuit walk** — grab an aperitivo / casual bite at **Port Hercule** or **Casino Square** instead. The picks below are kept as reference if you'd rather eat in Monaco.
+
+### Castelroc — reference (terrace facing the Palace)
+- **Where:** 1 Place du Palais (terrace over the port)
+- **Style:** Traditional Monégasque (barbagiuans, stocafi), family-run. ~£52–65pp, under the £100 cap
 - **Book:** reservation@castelroc.mc / +377 93 30 36 68
 
-### U Cavagnetu — backup
-- **Where:** 14 Rue Comte Félix Gastaldi, Monaco-Ville
-- **Style:** Monégasque institution, open daily 11:00–22:00. ~£35pp food-led (skip the pricey drinks — €15 beers)
+### U Cavagnetu — reference (value)
+- **Where:** 14 Rue Comte Félix Gastaldi, Monaco-Ville. Open daily 11:00–22:00. ~£35pp food-led (skip the €15 beers)
 
 > 🚫 The old Marché de la Condamine food hall is **shut for renovation all 2026** — don't rely on it.
 
@@ -84,15 +83,22 @@ Casual, walkable, local. Spread across price points; closing days handled.
 
 ---
 
-## 🥖 Nice arrival lunch (Sat 27 Jun)
+## 🥖 Nice lunch — now SUNDAY (28 Jun, combined day)
 
-### Le Bistrot d'Antoine — the sit-down
-- **Where:** 27 rue de la Préfecture, Vieux Nice
-- **Style:** Traditional Niçoise bistro, mains £16–25, 3-course ~£31–40pp
-- **Hours:** Tue–Sat lunch 12:00–14:00. **Reserve: +33 4 93 85 29 57** (26 covers, fills fast)
+> ⚠️ Nice moved from the (cancelled) Saturday arrival to the combined Sunday. **Bistrot d'Antoine + Chez Acchiardo are closed Sundays** — use the Sunday-open picks below.
 
-### Chez Thérésa + Chez Pipo — the socca
-- **Chez Thérésa:** Cours Saleya market stall, socca/pissaladière ~£3, market mornings to ~13:00
-- **Chez Pipo:** 13 rue Bavastro (Port area), socca £3–7, Sat 11:30–14:30 — no-reservation fallback
+### La Cambuse — the Sunday sit-down
+- **Where:** 5 Cours Saleya, right on the market strip
+- **Style:** Provençal, open Sunday. ~£30–45pp
+- Best on-the-square option when the market's running
 
-> 🚫 **Avoid Oliviera** (2 rue Benoît Bunico) — flagged permanently closed.
+### Lou Pilha Leva — value street-food
+- **Where:** Place Centrale, Vieux Nice
+- **Style:** Niçois street-food (socca, farcis, pissaladière, beignets) at communal picnic tables, open daily. ~£10–15pp
+- Fits the value-casual lean — grab-and-go
+
+### Chez Thérésa — market socca
+- **Where:** Cours Saleya market stall, socca/pissaladière ~£3, Sun mornings to ~13:30
+- The graze-and-keep-moving option
+
+> 🚫 **Closed Sundays (don't walk to them):** Le Bistrot d'Antoine (27 rue de la Préfecture), Chez Acchiardo. **Avoid Oliviera** (2 rue Benoît Bunico) — permanently closed.

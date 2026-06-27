@@ -4,7 +4,7 @@ title: Menton Sights
 
 # Sights & Things to Do
 
-Menton is the base; the two free days reach into Monaco/Èze (France) and Ventimiglia/Dolceacqua (Italy). Weekday culture is gentle and close to home — gardens, the Cocteau Bastion, the old town. Everything below is hours/price-verified (27 Jun 2026) with closing days flagged.
+Menton is the base; the two free days reach into Nice + Monaco (France, combined Sunday) and Ventimiglia/Dolceacqua (Italy). Weekday culture is gentle and close to home — gardens, the Cocteau Bastion, the old town. Everything below is hours/price-verified (27 Jun 2026) with closing days flagged.
 
 > 🏛️ **Pace rule:** cap each anchor at ~2 hours. Few excellent things over a checklist.
 
@@ -47,18 +47,20 @@ Both swim morning and evening, every day.
 
 ---
 
-## 🇲🇨 French day — Monaco + Èze (Sun 28 Jun)
+## 🏎️ Sunday combined day — Nice morning + Monaco F1 (Sun 28 Jun)
 
-### Monaco-Ville (Le Rocher)
-- **Changing of the Guard** — 11:55 daily, Place du Palais
-- **Prince's Palace** — £11.20 (€13); 10:00–18:00, last entry 17:15. Italian-Renaissance frescoes + Grands Appartements
-- **Saint-Nicholas Cathedral** — free, ~10 min
-- *Oceanographic Museum (£19/€22.50) is the alternative anchor — but pick Palace OR Museum, not both*
+### Nice (morning)
+- **Cours Saleya market** — Sun flower + produce, 06:30–13:30 (socca at Chez Thérésa)
+- **Free SIM borne** — Fnac / Maison de la Presse on av Jean Médecin (UK card OK); CAP3000 fallback (open Sun 11:00–19:00)
+- **Vieux Nice** — Place Rossetti, Cathédrale Sainte-Réparate, Palais Lascaris exterior
+- **Colline du Château** — free lift at 1 Rue des Ponchettes (08:30–20:00), 360° bay views
 
-### Èze Village
-- Medieval hilltop village: La Poterne gate, Chapelle Sainte-Croix (1306), Notre-Dame church (free)
-- **Jardin Exotique d'Èze** — £8.60 (€10); daily 09:00–18:30; cactus terraces + 429 m viewpoint
-- Reach via TER to Èze-sur-Mer + Bus 83 up, or Bus 602 from Monaco
+### Monaco F1 (afternoon) 🏎️
+- **Prince's Car Collection** — 54 route de la Piscine, Port Hercule. ~100 cars incl. **F1 cars from the Monaco GP + Monte Carlo Rally cars** (newest a 2013 Lotus F1), Ferraris, Bugattis. £13 (€15) adult; open daily incl. Sun, 10:00–18:00
+- **Walk the GP circuit** (free, self-guided, ~4.4 km, easy) — Sainte-Dévote → Casino Square → Mirabeau → **Fairmont (Station) Hairpin** → Portier → **the Tunnel** → Nouvelle Chicane → Tabac → Swimming Pool → Rascasse. (GP was 4–7 Jun — grandstands long gone, streets clear)
+- *Optional if you'd rather: Prince's Palace State Apartments (£11.20/€13) or Oceanographic Museum (£19/€22.50) — but the F1 pair is the point of the day*
+
+> 🚫 **Èze dropped** from this trip — redundant against Dolceacqua + Ventimiglia Alta below, and mobbed by 10:30.
 
 ---
 

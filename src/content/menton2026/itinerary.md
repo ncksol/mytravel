@@ -8,7 +8,7 @@ title: Menton Itinerary
 
 | Dates | Base | Nights | Shape |
 |-------|------|--------|-------|
-| Sat 27 Jun – Sun 5 Jul | 28 Avenue de la Riviera, Menton (central seafront) | 8 | Work week + 2 free days + Nice arrival |
+| Sat 27 Jun – Sun 5 Jul | 28 Avenue de la Riviera, Menton (central seafront) | 8 | Work week + 2 free days (Nice+Monaco F1; Italy) |
 | **Total** | | **8 nights · 9 days** | Nick + girlfriend |
 
 ---
@@ -21,41 +21,48 @@ title: Menton Itinerary
 
 ---
 
-## Day 1 — Saturday, 27 June: Arrival + 6 hours in Nice
+## Day 1 — Saturday, 27 June: Late arrival → straight to Menton
 
-**Theme: Land, store the bags, do Vieux Nice slowly, train on to Menton**
+**Theme: Land late, taxi to base, settle in — no Nice today**
 
-- **09:45** Land Nice (BA8475 from London **City**, not Heathrow — Terminal 1)
-- **~10:15** **Tram T2** airport → Nice centre. AERO ticket £8.60 (€10) return pp — also covers your Sun 5 Jul return airport leg
-- **~10:45** Drop bags at **Bounce – Nice Station (Retail)**, 3 min from Gare Nice-Ville. £8 (€9) for both bags. **Pre-book online**
-- **11:00** **Cours Saleya market** — Saturday = flower + produce + fish market (not the Monday antiques day). Socca / pissaladière from the **Chez Thérésa** stall (~£3, market mornings to ~13:00)
-- **11:25** Gentle Vieux Nice loop: Cours Saleya → Place Rossetti → Palais Lascaris exterior (15 rue Droite)
-- **12:30 Lunch: Le Bistrot d'Antoine** (27 rue de la Préfecture). Traditional Niçoise, mains £16–25, 3-course ~£31–40pp. **Reserve: +33 4 93 85 29 57** — 26 covers, fills fast
-- **14:00** Quai des États-Unis → **Colline du Château** via the **free lift at 1 Rue des Ponchettes** (park free, 08:30–20:00). 360° bay views, easy in the heat
-- **~15:30** Collect bags → **TER Nice-Ville → Menton** (~35–40 min, £7/€8 pp)
-- **~16:30–17:00** Arrive Gare de Menton → ~5–10 min walk to the flat. Evening swim + easy local dinner
+> ⚠️ **Flight change:** the original morning flight (BA8475, 09:45) was cancelled. Rebooked to **BA336, London Heathrow T5 dep 17:40 → lands Nice Terminal 1 at 20:40.** Nice's sightseeing window moved to Sunday.
 
-> ⚠️ **Flight is London City (LCY), not Heathrow** — check your UK-airport logistics.
+- **20:40** Land Nice (BA336, Terminal 1). Off the plane + bags ~21:15
+- **Taxi / Uber straight to Menton** (~35 min, ~£55–65 / €65–75). The no-faff move after a travel day with bags. Rank outside T1; or Uber/Bolt
+- ⚠️ The **Express 80 bus stops ~19:40** — too early for this landing, so it's not an option tonight
+- **~22:00** Arrive Menton. Quick late dinner near the flat (**Le Stanley**, Place du Cap, open 7/7) or just settle in — first swim can wait for morning
+
+> 💰 **Cheaper-but-slower fallback:** Tram T2 into Nice (runs to ~00:35) + last Saturday TER Nice→Menton (~23:36). Doable, but a midnight slog with luggage and two changes — only if you'd rather save the taxi fare.
 >
-> 🥘 **No-reservation lunch fallback:** Chez Pipo (13 rue Bavastro, Port area, Sat 11:30–14:30; socca £3–7). *Avoid Oliviera — permanently closed.*
+> 📱 **SIM:** don't try to sort the Free SIM tonight (too late). It's built into Sunday's Nice morning below.
 
 ---
 
-## Day 2 — Sunday, 28 June: FRENCH DAY — Monaco + Èze 🇲🇨
+## Day 2 — Sunday, 28 June: Nice morning + Monaco F1 afternoon 🏎️
 
-**Theme: Glamour and a medieval eagle's-nest village — no car, all rail/bus**
+**Theme: Both cities in one day, all on one train line — market & SIM in Nice, then Formula One in Monaco**
 
-- **~11:00** TER **Menton → Monaco-Monte-Carlo** (~12 min, ~£3.40/€4)
-- **~11:30** Up to **Monaco-Ville / Le Rocher**. **Changing of the Guard — 11:55 daily**, Place du Palais
-- **~12:00** **Prince's Palace** (£11.20/€13; 10:00–18:00, last entry 17:15 — Italian-Renaissance frescoes + Grands Appartements) + Saint-Nicholas Cathedral (free) + the old-town lanes
-- **~13:15 Lunch: Castelroc** (1 Place du Palais) — terrace facing the Palace, traditional Monégasque. ~£52–65pp (€60–75) with a glass of wine — well under your £100 cap. **Reserve: reservation@castelroc.mc**
-- **~14:30** TER to **Èze-sur-Mer** + **Bus 83** up the hill (or Bus 602 from Monaco)
-- **~15:00–16:45 Èze Village**: medieval lanes, Chapelle Sainte-Croix, Notre-Dame church → **Jardin Exotique d'Èze** (£8.60/€10; daily 09:00–18:30; cactus garden + 429 m viewpoint)
-- **~17:00** Back to Menton via Monaco. Evening swim + light dinner
+> Replaces the old "Monaco + Èze" day. Nice's arrival window moved here after the flight change. **Order: Nice first** (SIM errand needs an open shop; puts the GP circuit walk at golden hour). **Èze dropped** — you already get medieval-village character from Dolceacqua + Ventimiglia Alta on the Italy day.
 
-> 🍝 **Choose Palace over Oceanographic Museum** (£19/€22.50): the Palace's architecture/frescoes fit your taste better and keeps the day light. Don't try to do both.
+**Morning — Nice 🇫🇷**
+
+- **~08:30** Morning swim in Menton, then **TER Menton → Nice-Ville** (~35–40 min, £7/€8 pp)
+- **~09:30** **Cours Saleya market** — Sunday flower + produce market on (06:30–13:30). Socca / pissaladière from the **Chez Thérésa** stall (~£3)
+- **📱 ~10:00 Grab the Free SIM.** Free's **self-service borne** dispenses a SIM in ~3 min on a **UK card — no French bank account needed.** Targets, all central: **Fnac La Riviera (44–46 av Jean Médecin)**, or the Maison de la Presse bornes at 35 av Jean Médecin / 126 rue de France. Forfait: Free 5G, ~€20/mo, 300 GB, no commitment. ⚠️ Staffed Free shops are **closed Sundays** — it must be a borne; confirm the host shop is open as you pass. **Guaranteed fallback: CAP3000 mall** (one TER stop short of Nice) — staffed Free boutique open **Sun 11:00–19:00**
+- **~10:30** Vieux Nice loop: Place Rossetti → Cathédrale Sainte-Réparate → Palais Lascaris exterior (15 rue Droite)
+- **~11:30** **Colline du Château** via the **free lift at 1 Rue des Ponchettes** (08:30–20:00) — 360° bay views
+- **~12:30 Lunch (Vieux Nice).** ⚠️ Bistrot d'Antoine + Acchiardo are **closed Sundays**. Sunday picks: **La Cambuse** (5 Cours Saleya, Provençal, on the market strip) ~£30–45pp; or value street-food at **Lou Pilha Leva** (Place Centrale — socca, farcis, pissaladière at picnic tables) ~£10–15pp. Or just graze the market and keep moving
+
+**Afternoon — Monaco F1 🏎️🇲🇨**
+
+- **~14:15** TER **Nice → Monaco-Monte-Carlo** (~20 min, ~£4.30/€5)
+- **~14:45 Prince's Car Collection** (54 route de la Piscine, Port Hercule) — ~100 cars incl. **F1 cars from the Monaco GP + Monte Carlo Rally cars** (newest a 2013 Lotus F1), Ferraris, Bugattis. £13/€15 adult; open daily incl. Sun, 10:00–18:00. Allow ~1.5h
+- **~16:30 Walk the actual GP circuit** — free, self-guided, ~4.4 km, easy. Race-order: **Sainte-Dévote → climb to Casino Square → Mirabeau → the Fairmont (Station) Hairpin → Portier → through the Tunnel → Nouvelle Chicane → Tabac → Swimming Pool → Rascasse.** Golden-hour light on the harbour (GP was 4–7 Jun — grandstands long gone)
+- **~18:30** Aperitivo at Port Hercule / Casino Square, then **TER Monaco → Menton** (~12 min; last trains ~23:00+). Evening swim if there's light
+
+> 🏎️ **F1 day** — the Car Collection + circuit walk are the centrepiece.
 >
-> 🚫 The old "Marché de la Condamine food hall" lunch idea is **out — the hall is shut for renovation all 2026.** Castelroc replaces it.
+> 🚫 **Èze dropped** and the old Monaco-lunch (Castelroc) isn't used — you lunch in Nice. Both freed up if you ever return to Monaco.
 
 ---
 
