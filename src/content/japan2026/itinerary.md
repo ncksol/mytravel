@@ -6,7 +6,7 @@
 |-------|----------|--------|---------------|
 | Sep 19-25 | Tokyo (Akasaka) | 6 | Hotel Monterey Akasaka ✅ booked (backup: Hotel Hillarys Akasaka) |
 | Sep 25-27 | Hakone | 2 | Ryokan TBC (Yama no Chaya / Gora Kadan / Hakone Ginyu) |
-| Sep 27-Oct 1 | Kyoto (Downtown/Kawaramachi) | 4 | Mid-range near Shijo-Kawaramachi — TBC |
+| Sep 27-Oct 1 | Kyoto (Shijo, Karasuma side) | 4 | Mitsui Garden Hotel Kyoto Shinmachi Bettei ✅ booked |
 | Oct 1-3 | Osaka (Namba/Yotsubashi) | 2 | Via Inn Prime Shinsaibashi Yotsubashi ✅ booked |
 | **Total** | | **14 nights** | |
 
@@ -186,7 +186,7 @@
 - **10:30** **Shinkansen from Odawara to Kyoto** (Hikari, ~2 hours, ~¥12,300 pp reserved). Book reserved seats via SmartEX — recommended for comfort and luggage. ⚠️ If your suitcase exceeds 160cm total dimensions, you must reserve an "oversized baggage" seat online
 - **12:30** Arrive Kyoto Station
 - **13:00** Lunch near Kyoto Station — try **Kyoto ramen** at Ramen Street (underground floor) or head to your hotel area
-- **14:00** Check into hotel near **Shijo-Kawaramachi** (downtown Kyoto)
+- **14:00** Check into **Mitsui Garden Hotel Kyoto Shinmachi Bettei** (361 Rokkaku-cho, Shinmachi-dori — Karasuma side, 7 min from Shijo station)
 - **15:00** Afternoon walk: **Nishiki Market** (錦市場) — "Kyoto's Kitchen." Graze on pickles, mochi, matcha treats, fresh tofu, grilled seafood. Note: individual stall hours vary — some close early, especially on Sundays/Wednesdays. Keep timing flexible
 - **17:00** Walk to **Pontocho Alley** (先斗町) — narrow alley along the river, scout dinner spots
 - **18:30** Dinner along Pontocho or Kiyamachi — try **obanzai** (Kyoto home-style cooking) at a small restaurant

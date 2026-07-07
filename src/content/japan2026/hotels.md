@@ -6,7 +6,7 @@
 |------|-------|--------|-------|-------|--------|
 | Tokyo (Akasaka) | Sep 19-25 | 6 | **Hotel Monterey Akasaka** | £137/night · £822 | ✅ Booked |
 | Hakone | Sep 25-27 | 2 | Ryokan TBC (Yama no Chaya / Gora Kadan / Hakone Ginyu) | ~£290-568/night | ⬜ TBC |
-| Kyoto (Shijo-Kawaramachi) | Sep 27-Oct 1 | 4 | Mid-range near Kawaramachi | ~£84/night est. | ⬜ TBC |
+| Kyoto (Shijo, Karasuma side) | Sep 27-Oct 1 | 4 | **Mitsui Garden Hotel Kyoto Shinmachi Bettei** | £79/night · £315 | ✅ Booked |
 | Osaka (Namba/Yotsubashi) | Oct 1-3 | 2 | **Via Inn Prime Shinsaibashi Yotsubashi** | £91/night · £181 | ✅ Booked |
 
 > The Hakone ryokan comparison (private-rotenburo options) and the booking checklist live on the **Bookings** page. Detailed Tokyo hotel research is below.
@@ -22,6 +22,21 @@
 | Operator | JR-West Group · opened 2019 · 224 rooms · staffed front desk |
 
 **Why it won:** bright modern rooms, a real king for the price of others' queens, spotless (9.5), staffed, strong value. Sits on the western edge of Minami — ~12 min walk / 1 metro stop to Dotonbori, 7 min to Shinsaibashi-suji. (No breakfast booked — AEON downstairs + conbini cover grab-and-go.) Rejected the darker/pricier central options (Citadines too dark; Candeo The Tower wrong district).
+
+---
+
+### ✅ Kyoto — Mitsui Garden Hotel Kyoto Shinmachi Bettei (Sep 27-Oct 1)
+
+| Detail | Value |
+|--------|-------|
+| Trip.com | **9.0/10** ("Superb", 2,775 reviews — Staff 9.6, Cleanliness 9.5) |
+| Booked price | **£314.84 total / 4 nights (~£79/night)** |
+| Room | Standard Queen — 1 queen bed |
+| Address | 361 Rokkaku-cho, Shinmachi-dori, Nakagyo-ku |
+| Station | 7 min walk from Shijo (Karasuma line) & Karasuma (Hankyu) |
+| Style | Machiya townhouse design · complimentary carbonated public bath · reopened Feb 2026 after renovation |
+
+**Why it won:** genuine Kyoto-machiya character at strong value (~£79/night vs the £105+ central rivals), freshly renovated, spotless, and a soothing public bath after temple days. The Karasuma-side base threads the trip cleanly — Karasuma-line hop from Kyoto Station on arrival, walk to Nishiki/Pontocho for evenings, straight back to Kyoto Station for the Osaka move. Compact standard rooms in machiya style — **request a higher floor at check-in** for the brightest room.
 
 ---
 
