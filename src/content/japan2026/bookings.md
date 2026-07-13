@@ -1,16 +1,18 @@
 # Booking Checklist
 
-> 🔄 **Revision 1 (2026-06-05):** Tokyo return night (Oct 2) removed; Kyoto now 4 nights (Sep 27-Oct 1); Osaka Oct 1-3; depart direct Osaka→Haneda Oct 3. Birthday dinner locked to **Waketokuyama**. Kawadoko added for **Sep 30 (Ugenta)**. Ryokan still TBC.
+> 🔄 **Revision 1 (2026-06-05):** Tokyo return night (Oct 2) removed; Kyoto now 4 nights (Sep 27-Oct 1); Osaka Oct 1-3; depart direct Osaka→Haneda Oct 3. Birthday dinner booked at **Jushu** (Nishi-Azabu, 1★). Kawadoko added for **Sep 30 (Ugenta)**. Ryokan still TBC.
 >
 > ✅ **Update (2026-06-07):** Osaka hotel booked — **Via Inn Prime Shinsaibashi Yotsubashi** (£181/2nt, Deluxe Double king).
 >
 > ✅ **Update (2026-07-07):** Kyoto hotel booked — **Mitsui Garden Hotel Kyoto Shinmachi Bettei** (£314.84/4nt, Standard Queen).
+>
+> ✅ **Update (2026-07-13):** Birthday dinner booked — **Jushu (壽修)**, Nishi-Azabu, Tue Sep 22 19:00 (Chef's OMAKASE, £295 for two).
 
 ## ⚠️ Book ASAP (time-critical)
 
 | Item | Status | Notes |
 |------|--------|-------|
-| 🎂 Birthday dinner — **Waketokuyama** (Sep 22) | ⬜ Not booked | ✅ **LOCKED choice.** ~¥23,000 pp (→¥25,300 from Aug 2026). **Booking window opens 2 months ahead → Sep 22 bookable from Sun 22 Jul 2026** via OMAKASE (omakaseje.com/restaurants/wk885579). Set a reminder. Flag shellfish/crustacean allergy (kombu dashi). *Fallbacks: Sushi Miura or Nogizaka Shin (both Akasaka, 1★).* |
+| 🎂 Birthday dinner — **Jushu** (Sep 22, 19:00) | ✅ **BOOKED** | Tue Sep 22, 19:00 seating. ~¥28,000 pp (Chef's OMAKASE course, £295 for two). Michelin 1★ 2023-2026, Nishi-Azabu (Omotesando 9-min walk). Booked via OMAKASE (omakaseje.com/restaurants/bd545579). ⚠️ Cannot accept fish allergies incl. bonito/dashi — flag any dietary restriction in advance. |
 | 🍱 Kawadoko lunch — **Ugenta**, Kibune (Sep 30) | ⬜ Not booked | **Time-critical — Sep 30 is the season's last day.** Riverside platform kaiseki, lunch from ¥9,900 pp. Book 3+ days ahead via ugenta.co.jp (window typically ~1 month out). Backup: **Hirobun** (nagashi-somen, no res, 1-2h queue). ⚠️ **Kifune Club is permanently closed.** |
 | Ryokan — Hakone (Sep 25-27) | ⬜ Not booked | **Still TBC — pick from comparison below.** 2 nights. Request a room with private outdoor rotenburo. Book early — top rooms go fast. |
 | TeamLab Borderless (Sep 22 or flexible) | ⬜ Not booked | Azabudai Hills. Timed entry, ¥3,600 pp online + ¥200 on-site. Dynamic pricing — book early. Open daily 8:30-21:00 |

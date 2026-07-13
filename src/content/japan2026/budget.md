@@ -39,11 +39,11 @@
 | Breakfast (mix of hotel, konbini, bakery) | ¥1,500 · £8 | 13 | ¥19,500 · £103 |
 | Lunch (casual — ramen, market food, etc.) | ¥4,000 · £21 | 13 | ¥52,000 · £274 |
 | Dinner (regular nights — izakaya, restaurants) | ¥8,000 · £42 | 10 | ¥80,000 · £421 |
-| 🎂 Birthday dinner — Waketokuyama (2 ppl) | — | 1 | ¥50,600 · £266 |
+| 🎂 Birthday dinner — Jushu (2 ppl) | — | 1 | ¥56,000 · £295 |
 | Kawadoko lunch — Ugenta, Kibune (2 ppl) | — | 1 | ¥19,800 · £104 |
 | Kyoto/Hakone kaiseki splurge allowance | — | 1 | ¥16,000 · £84 |
 | Snacks, drinks, coffee, konbini | ¥1,500 · £8 | 14 | ¥21,000 · £111 |
-| **Food Total** | | | **¥258,900 · £1,363** |
+| **Food Total** | | | **¥264,300 · £1,391** |
 
 Note: Ryokan dinners & breakfasts (4 meals for 2) are included in accommodation cost above.
 
@@ -88,12 +88,12 @@ Note: Ryokan dinners & breakfasts (4 meals for 2) are included in accommodation 
 |----------|-----|-----|
 | Accommodation | ¥440,210 | £2,318 |
 | Transport | ¥102,580 | £540 |
-| Food | ¥258,900 | £1,363 |
+| Food | ¥264,300 | £1,391 |
 | Activities | ¥40,400 | £213 |
 | Miscellaneous | ¥65,000 | £342 |
-| **TOTAL** | **¥907,090** | **£4,776** |
+| **TOTAL** | **¥912,490** | **£4,803** |
 
-### 💰 Buffer remaining: \~£224 (\~¥42,910)
+### 💰 Buffer remaining: \~£197 (\~¥37,510)
 
 This leaves a buffer for:
 - Upgrading the Hakone ryokan to a higher tier (the biggest swing variable — see Booking Checklist)
@@ -103,7 +103,7 @@ This leaves a buffer for:
 
 ### Budget Notes
 - The ryokan is the biggest single expense (~£1,000 at mid-estimate) and the main lever on the total — picking Hakone Ginyu (value) vs Gora Kadan (splurge) moves the grand total by several hundred £
-- Birthday dinner is **~£266 for two at Waketokuyama** (1★ Michelin, ~¥25,300 pp from Aug 2026) — the trip's standout meal, and notably cheaper than the old ¥56k Yoshitake plan
+- Birthday dinner is **~£295 for two at Jushu** (1★ Michelin 2023-2026, ~¥28,000 pp for the Chef's OMAKASE course) — the trip's standout meal
 - Kawadoko lunch at Ugenta (~£104 for two) is the second food splurge — end-of-season, Sep 30 only
 - Daily food budget outside splurges averages \~¥5,200 pp (\~£27) — very comfortable in Japan
 - Transport is efficient because we skip the JR Pass (saving ~£200) and dropped the Tokyo return-night backtrack

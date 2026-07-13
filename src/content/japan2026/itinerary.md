@@ -79,13 +79,12 @@
 - **12:30** Walk to **Ginza** (~15 min from Hamarikyu) — window shop the department stores, visit the Sony showroom or Ginza Six
 - **13:30** **Depachika experience** at Mitsukoshi Ginza B1 — sample wagashi, buy bento for lunch, try everything
 - **15:00** Free time — shopping, rest, or visit **TeamLab Borderless** (book timed-entry tickets in advance, ¥3,600 online). Use this time to recharge before dinner
-- **18:30** 🎂 **BIRTHDAY DINNER — Waketokuyama (分とく山)** ✅ LOCKED
-  - **Kaiseki / Japanese chef's kappō** · Minami-Azabu (Hiroo 5 min, ~15 min from Akasaka). Michelin One Star 2024-2026 (3 consecutive years)
-  - **~¥23,000 pp** until 31 Jul 2026, **~¥25,300 pp** from 1 Aug 2026 (tax + service incl., paid in advance)
-  - Chef's omakase only; menu rotates every 2 weeks. Signature isoyaki abalone, clay-pot rice finale. Hours 17:00-22:30, closed Sundays
-  - **Book via OMAKASE platform** (omakaseje.com/restaurants/wk885579). ⚠️ **Booking opens 2 months ahead — the Sep 22 slot becomes bookable on Sun 22 Jul 2026.** Set a reminder
-  - Smart casual (no shorts/sandals); arrive 5 min early or auto-cancelled; kombu (kelp) dashi base — flag any shellfish/crustacean allergy when booking
-  - *Alternatives if Waketokuyama is unavailable: Sushi Miura (Akasaka, 1★ Michelin 2026, ~¥32k pp) or Nogizaka Shin (Akasaka, 1★ Michelin, kaiseki-fusion, ~¥33k pp)*
+- **19:00** 🎂 **BIRTHDAY DINNER — Jushu (壽修)** ✅ BOOKED
+  - **Kansai-style kaiseki** · 1F Saita Building, 2-16-1 Nishi-Azabu, Minato-ku · Omotesando 9-min walk (~15 min from Akasaka via Chiyoda line). Michelin One Star 2023-2026 (2★ 2018-2022)
+  - **~¥28,000 pp** Chef's OMAKASE course (tax + service incl., paid in advance)
+  - Chef Masaki Senzaki — ingredient-led kaiseki, signature **Saga beef** from his hometown + ~10 Nabeshima Saga sakes. Intimate room (counter 5 + table 6). Hours 18:00-24:00, closed Sun & public holidays
+  - **Booked via OMAKASE** (omakaseje.com/restaurants/bd545579) — **Tue Sep 22, 19:00 seating**
+  - Smart casual (no shorts/sandals); arrive 5 min early or auto-cancelled; ⚠️ **cannot accept fish allergies incl. bonito/dashi** — flag any dietary restriction in advance (no day-of requests)
 - **21:00** Birthday drinks at a cocktail bar — try **Bar High Five** (moved 2024 to B1F Efflore Ginza 5 Bldg, 5-4-15 Ginza). ⚠️ Walk-in is unreliable in recent reports — **reserve via Instagram DM or call +81 3-3571-5815**. Or a Roppongi bar
 
 ---

@@ -1,15 +1,13 @@
 # Restaurant Recommendations
 
-## 🎂 Birthday Dinner (Sep 22) — ✅ LOCKED: Waketokuyama
+## 🎂 Birthday Dinner (Sep 22, 19:00) — ✅ BOOKED: Jushu
 
 | Restaurant | Area | Price/pp | Style | Notes |
 |-----------|------|----------|-------|-------|
-| **Waketokuyama (分とく山)** ✅ | Minami-Azabu | ~¥23,000 (→¥25,300 from Aug 2026) | Kaiseki / kappō | **LOCKED.** Michelin 1★ 2024-2026. Chef's omakase, menu rotates every 2 weeks. Signature isoyaki abalone, clay-pot rice finale. 17:00-22:30, closed Sun. Book via OMAKASE (omakaseje.com/restaurants/wk885579) — **window opens 2 months ahead → Sep 22 bookable from 22 Jul 2026** |
-| Sushi Miura | Akasaka | ~¥32,000 | Omakase sushi | *Alt.* 1★ Michelin 2026, seasonal, steps from hotel |
-| Nogizaka Shin | Akasaka/Roppongi | ¥25,000-35,000 | Kaiseki-fusion | *Alt.* 1★ Michelin, Paris/Kyoto-trained chef, sake pairings |
+| **Jushu (壽修)** ✅ | Nishi-Azabu | ~¥28,000 pp | Kansai kaiseki | **BOOKED — Tue Sep 22, 19:00.** Michelin 1★ 2023-2026 (2★ 2018-2022). Chef Masaki Senzaki; signature Saga beef + Nabeshima Saga sake. Intimate (counter 5 + table 6). 18:00-24:00, closed Sun. Omotesando 9-min walk. Booked via OMAKASE (omakaseje.com/restaurants/bd545579) |
 | Sushi Yoshitake | Ginza | ¥56,000+ | Omakase sushi | *Alt (elite, big splurge).* **Delisted from Michelin Guide 2025** but still OAD/Tabelog top-tier. Booking is now **monthly rolling rounds via OMAKASE** (the old "noon JST on the 15th" rule is out of date) |
 
-**Booking tips:** Reserve as early as the window allows — Silver Week (Sep 19-23 are national holidays) makes premium tables brutal. Flag the birthday and any **shellfish/crustacean allergy** (kombu dashi base at Waketokuyama). Smart casual; arrive 5 min early or risk auto-cancellation. **Bar High Five** for birthday drinks: moved 2024 to B1F Efflore Ginza 5 Bldg — **walk-in is unreliable in recent reports; reserve via Instagram DM or call +81 3-3571-5815.**
+**Booking tips:** Reserve as early as the window allows — Silver Week (Sep 19-23 are national holidays) makes premium tables brutal. Flag the birthday and any **fish/dashi allergy** — ⚠️ Jushu cannot accept fish allergies (incl. bonito/katsuodashi), no day-of requests. Smart casual; arrive 5 min early or risk auto-cancellation. **Bar High Five** for birthday drinks: moved 2024 to B1F Efflore Ginza 5 Bldg — **walk-in is unreliable in recent reports; reserve via Instagram DM or call +81 3-3571-5815.**
 
 ---
 
