@@ -5,11 +5,28 @@
 | Stay | Dates | Nights | Hotel | Price | Status |
 |------|-------|--------|-------|-------|--------|
 | Tokyo (Akasaka) | Sep 19-25 | 6 | **Hotel Monterey Akasaka** | £137/night · £822 | ✅ Booked |
-| Hakone | Sep 25-27 | 2 | Ryokan TBC (Yama no Chaya / Gora Kadan / Hakone Ginyu) | ~£290-568/night | ⬜ TBC |
+| Shuzenji Onsen, Izu | Sep 25-27 | 2 | **Yukairou Kikuya** | Actual total not supplied | ✅ Booked |
 | Kyoto (Shijo, Karasuma side) | Sep 27-Oct 1 | 4 | **Mitsui Garden Hotel Kyoto Shinmachi Bettei** | £79/night · £315 | ✅ Booked |
 | Osaka (Namba/Yotsubashi) | Oct 1-3 | 2 | **Via Inn Prime Shinsaibashi Yotsubashi** | £91/night · £181 | ✅ Booked |
 
-> The Hakone ryokan comparison (private-rotenburo options) and the booking checklist live on the **Bookings** page. Detailed Tokyo hotel research is below.
+> Every overnight base is now booked. Kikuya's room type, actual paid total and meal plan still need to be copied from the confirmation; the **Bookings** page carries the audit list.
+
+### ✅ Shuzenji Onsen — Yukairou Kikuya (Sep 25-27)
+
+| Detail | Value |
+|--------|-------|
+| Official name | Shuzenji Onsen Yukairou Kikuya (修善寺温泉 湯回廊 菊屋) · Kyoritsu Resort |
+| Address | 874-1 Shuzenji, Izu, Shizuoka 410-2416 |
+| Contact | +81 558-72-2130 (main, 24h) · +81 558-72-2000 (reservations, 10:00-19:00) |
+| Stay | Sep 25-27 · 2 nights · 2 adults · ✅ booked |
+| Check-in/out | 15:00 / 11:00 under standard plans; check the booked plan |
+| Access | Tokyo→Mishima Shinkansen ~60 min → Sunzu Line ~30 min → Tokai Bus ~8 min; no hotel shuttle |
+| Baths | Four free private source-fed baths, no reservation, ~40 min when vacant; communal baths also available |
+| Booking details needed | Room/bedding, paid total, meals, cancellation terms, in-room bath and written tattoo policy |
+
+**Why it fits the route:** two nights in Shuzenji's compact historic onsen town create a genuinely slow middle leg. Saturday can be entirely on foot — Shuzenji Temple, Hie Shrine, Tokko-no-Yu, Bamboo Forest Path and Shigetsuden — while the onward journey runs naturally through Mishima to Kyoto.
+
+**Tattoo caveat:** Kikuya's official pages publish no explicit rule. The private baths do not prove that tattoos are accepted in communal baths; confirm directly before relying on communal bathing.
 
 ### ✅ Osaka — Via Inn Prime Shinsaibashi Yotsubashi (Oct 1-3)
 

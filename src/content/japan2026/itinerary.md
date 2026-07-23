@@ -4,13 +4,11 @@
 
 | Dates | Location | Nights | Accommodation |
 |-------|----------|--------|---------------|
-| Sep 19-25 | Tokyo (Akasaka) | 6 | Hotel Monterey Akasaka ✅ booked (backup: Hotel Hillarys Akasaka) |
-| Sep 25-27 | Hakone | 2 | Ryokan TBC (Yama no Chaya / Gora Kadan / Hakone Ginyu) |
+| Sep 19-25 | Tokyo (Akasaka) | 6 | Hotel Monterey Akasaka ✅ booked |
+| Sep 25-27 | Shuzenji Onsen, Izu | 2 | **Yukairou Kikuya** ✅ booked |
 | Sep 27-Oct 1 | Kyoto (Shijo, Karasuma side) | 4 | Mitsui Garden Hotel Kyoto Shinmachi Bettei ✅ booked |
 | Oct 1-3 | Osaka (Namba/Yotsubashi) | 2 | Via Inn Prime Shinsaibashi Yotsubashi ✅ booked |
 | **Total** | | **14 nights** | |
-
-> 🔄 **Revision 1 (2026-06-05):** The original Tokyo return night (Oct 2-3) has been **removed** — it cost ~£270 (Shinkansen + hotel) and half a travel day for a single farewell dinner. That night was reallocated to **Kyoto, now 4 nights**, which was underweighted at 3 for the trip's densest cultural content. On departure day you now fly **direct from Osaka → Haneda** (Nozomi ~11:00/12:00, 3h+ HND cushion). See the day-by-day below for the new Kyoto days (Uji/Tōfuku-ji and the Kurama-Kibune mountain day).
 
 ---
 
@@ -122,7 +120,7 @@
 
 ## Day 6 — Thursday, Sep 24: Classic Tokyo — Post-Silver Week! ✅
 
-**Theme: Major attractions at normal crowd levels, then prepare for Hakone**
+**Theme: Major attractions at normal crowd levels, then prepare for Izu**
 
 > 💡 Silver Week ended yesterday! Today is the first regular weekday — perfect for hitting Tokyo's most popular spots with manageable crowds.
 
@@ -133,60 +131,54 @@
 - **13:00** Metro to **Imperial Palace East Gardens** (皇居東御苑) — free, beautiful, peaceful. Definitely open on Thursdays. The serene gardens and Edo castle ruins are a highlight
 - **14:30** Walk to **Akihabara** (~15 min) — electronics, anime, manga, gaming. Explore Super Potato (retro games), Mandarake (manga/figures)
 - **16:00** Visit **Kanda Shrine** nearby — anime-themed ema (prayer plaques), peaceful contrast to Akihabara energy
-- **17:00** Pack for Hakone (just bring an overnight bag if possible — leave main luggage at hotel or use luggage forwarding service "takkyubin")
+- **17:00** Pack a two-night bag for Shuzenji. Ask Hotel Monterey to forward the large cases directly to the Kyoto hotel; confirm delivery timing and keep medication/valuables with you
 - **19:00** Farewell Tokyo dinner — try something you haven't yet. Suggestion: **yakitori under the tracks at Yurakucho** (atmospheric!)
 
 ---
 
-## Day 7 — Friday, Sep 25: Tokyo → Hakone
+## Day 7 — Friday, Sep 25: Tokyo → Shuzenji Onsen
 
-**Theme: Travel to Hakone, ryokan check-in, onsen relaxation**
+**Theme: Tokaido transfer, historic Izu onsen town, Kikuya check-in**
 
-- **09:00** Check out of Tokyo hotel (send large luggage ahead to Kyoto hotel via Kuroneko Yamato takkyubin, ~¥2,000)
-- **10:00** Take **Odakyu Romancecar** from Shinjuku to Hakone-Yumoto (~85 min, ¥2,470 pp). Book in advance for window seats
-- **11:30** Arrive Hakone-Yumoto. Explore the small town, browse souvenir shops
-- **12:30** Lunch in Hakone-Yumoto town — try soba noodles or tofu cuisine
-- **14:00** Take local transport to your **Hakone ryokan** (ryokan still TBC — leading candidate **Yama no Chaya**, Tonosawa area, ~10 min from Hakone-Yumoto; see bookings for the full comparison)
-- **15:00** Check in. Change into yukata (casual kimono). Explore the ryokan grounds
-- **16:00** First onsen experience! Private open-air bath (rotenburo) with forest/river views. Take your time
-- **18:00** **Kaiseki dinner** at the ryokan — multi-course seasonal feast included in stay. This will be one of your trip highlights
-- **20:00** Evening onsen — the baths are magical at night. Relax, sleep early
+- **10:00** Check out of Hotel Monterey Akasaka. Forward large luggage directly to the Kyoto hotel and travel with a two-night bag
+- **10:00–11:00** Metro/taxi to Tokyo Station; allow time to collect food and find the Tokaido Shinkansen platforms
+- **~11:00** **Tokyo → Mishima** by Tokaido Shinkansen, about 60 min. SmartEX ordinary reserved fare currently **£23 pp (¥4,400)**
+- **~12:15** Lunch around Mishima Station, then take the **Izu-Hakone Railway Sunzu Line** to Shuzenji, about 30 min (**£3 pp / ¥550**)
+- **~14:00** Tokai Bus from Shuzenji Station to Kikuya, about 8 min. Confirm the exact alighting stop with the driver; the hotel does not operate a shuttle
+- **15:00** Check in at **Shuzenji Onsen Yukairou Kikuya**, 874-1 Shuzenji, Izu, Shizuoka 410-2416 · +81 558-72-2130
+- **16:00** First bath. Kikuya has four free private source-fed baths, used without reservation when vacant; keep each session to about 40 min
+- **17:30 or 19:45** Dinner at Kikuya **if included in your booking plan**; seating is selected at check-in, first come. If room-only, confirm a Shuzenji dinner before arrival rather than assuming ryokan meals
+- **Evening** Quiet walk beside the Katsura River, then another private bath
 
-**Ryokan notes:**
-- Ryokan still TBC — see the Booking Checklist for the full comparison (Yama no Chaya / Gora Kadan / Hakone Ginyu). Budget ~¥85,000-110,000/night for two incl. dinner & breakfast
-- Whichever you pick, request a room with a private outdoor rotenburo
-- Onsen etiquette: wash before entering bath, no swimwear, tie hair up
+**Kikuya practicals:** normal check-out is 11:00. Private baths are available 24 hours; communal baths run 15:00–25:00 and 05:00–10:00. Kikuya publishes no explicit tattoo rule: use of the private baths does not prove communal-bath access — confirm directly before relying on the communal baths.
 
 ---
 
-## Day 8 — Saturday, Sep 26: Hakone Exploration
+## Day 8 — Saturday, Sep 26: Shuzenji Onsen Slow Day
 
-**Theme: Hakone sightseeing loop, second ryokan night**
+**Theme: temple history, river-town atmosphere and time to enjoy the ryokan**
 
-- **08:00** Ryokan breakfast — traditional Japanese breakfast (rice, miso, grilled fish, pickles, egg)
-- **09:30** Begin the **Hakone Loop** (buy **Hakone Freepass from Odawara**, ¥6,000 pp — covers ropeway, cruise, buses within Hakone):
-  - Bus/train to **Hakone Open-Air Museum** (¥2,000 walk-up / ¥1,800 online) — Picasso collection, stunning outdoor sculptures
-  - **Hakone Ropeway** to Owakudani — volcanic valley, try black eggs (said to add 7 years to your life)
-  - **Lake Ashi Cruise** — if clear weather, views of Mt. Fuji
-  - **Hakone Shrine** (箱根神社) — iconic red torii gate on the lake
-- **16:00** Return to ryokan
-- **17:00** Onsen time before dinner
-- **18:30** Second kaiseki dinner — different menu from the first night
-- **Evening** Relax, pack for Kyoto tomorrow
+- **Morning** Breakfast at Kikuya if included; otherwise use the hotel/onsen-town options confirmed on arrival
+- **10:00** Walk to **Shuzenji Temple**, then **Hie Shrine** — the historic and spiritual core of the town
+- **11:30** Follow the Katsura River past **Tokko-no-Yu**. It is a historic landmark only: bathing and foot bathing are not permitted
+- **12:00** Walk the **Bamboo Forest Path**, then continue to **Shigetsuden** and Minamoto no Yoriie's grave
+- **13:00** Local lunch in the onsen town; keep this flexible rather than building the day around a distant Izu excursion
+- **14:30** Return to Kikuya for the private baths, rest and the building's linked corridors/gardens
+- **17:30 or 19:45** Kikuya dinner if included in the booking plan
+- **After dinner** Optional illuminated Bamboo Forest Path; the official tourism association lists lighting until 23:00
 
 ---
 
-## Day 9 — Sunday, Sep 27: Hakone → Kyoto
+## Day 9 — Sunday, Sep 27: Shuzenji → Kyoto
 
 **Theme: Travel day + first Kyoto evening**
 
-- **08:00** Final ryokan breakfast
-- **09:30** Check out. Take local Hakone Tozan/Odakyu train to Odawara (~15 min, ~¥310 pp)
-- **10:30** **Shinkansen from Odawara to Kyoto** (Hikari, ~2 hours, ~¥12,300 pp reserved). Book reserved seats via SmartEX — recommended for comfort and luggage. ⚠️ If your suitcase exceeds 160cm total dimensions, you must reserve an "oversized baggage" seat online
-- **12:30** Arrive Kyoto Station
-- **13:00** Lunch near Kyoto Station — try **Kyoto ramen** at Ramen Street (underground floor) or head to your hotel area
-- **14:00** Check into **Mitsui Garden Hotel Kyoto Shinmachi Bettei** (361 Rokkaku-cho, Shinmachi-dori — Karasuma side, 7 min from Shijo station)
-- **15:00** Afternoon walk: **Nishiki Market** (錦市場) — "Kyoto's Kitchen." Graze on pickles, mochi, matcha treats, fresh tofu, grilled seafood. Note: individual stall hours vary — some close early, especially on Sundays/Wednesdays. Keep timing flexible
+- **Morning** Final Kikuya breakfast if included; one last private bath
+- **10:00** Check out comfortably before the 11:00 deadline. Tokai Bus to Shuzenji Station (~8 min), then the Izu-Hakone Railway to Mishima (~30 min)
+- **Late morning / noon** **Mishima → Kyoto** by westbound Tokaido Shinkansen. Prefer a Hikari that stops at Mishima; otherwise take a Kodama and make the connection shown by SmartEX. Current SmartEX ordinary reserved fare: **£58 pp (¥11,110)**
+- **~14:00** Arrive Kyoto Station and have a quick station lunch if needed
+- **~15:00** Check into **Mitsui Garden Hotel Kyoto Shinmachi Bettei** (361 Rokkaku-cho, Shinmachi-dori — Karasuma side, 7 min from Shijo station)
+- **15:30** If energy and stall hours allow, walk through **Nishiki Market** (錦市場) — "Kyoto's Kitchen." Individual stalls vary and many close early on Sundays, so treat this as a short orientation rather than a guaranteed grazing session
 - **17:00** Walk to **Pontocho Alley** (先斗町) — narrow alley along the river, scout dinner spots
 - **18:30** Dinner along Pontocho or Kiyamachi — try **obanzai** (Kyoto home-style cooking) at a small restaurant
 - **20:00** Evening stroll through **Gion** (祇園) — lantern-lit streets, possible maiko sighting
@@ -223,12 +215,12 @@
 - **15:30** JR Nara line back toward Kyoto, alight at **Tōfuku-ji** (~15 min)
 - **15:50** **Tōfuku-ji** (東福寺) — one of the Five Great Zen Temples, founded 1236. Highlight: the **Hōjō Garden by Mirei Shigemori (1939)** — the chequerboard moss-and-stone modernist masterpiece. Hōjō garden ¥600. ⚠️ Last entry **15:30 sharp** (Apr-Oct 9:00-16:00) — be on the earlier train. ~60 min
 - **17:00** Train back to Kyoto centre
-- **~19:00** Light/mid dinner — Pontocho obanzai (Kyoto home cooking), or Nishiki area. **Not** a third splurge (birthday + Hakone kaiseki + Wed kawadoko already cover the splurges)
+- **~19:00** Light/mid dinner — Pontocho obanzai (Kyoto home cooking), or Nishiki area. **Not** another splurge (birthday + the Shuzenji stay + Wed kawadoko already cover the high-end experiences)
 
 **Critical timing:** Tōfuku-ji last entry is 15:30 — keep the Uji morning efficient. If short on time, Tōfuku-ji is the drop; Uji alone is a complete day. All walk-up — no bookings needed.
 
 <details>
-<summary>🔄 Alternative B — Arashiyama deep (the original "Kyoto West" plan, kept as standby)</summary>
+<summary>Alternative B — Arashiyama deep (kept as standby)</summary>
 
 If the morning is gorgeous and you want forest-and-village atmosphere instead:
 - Bamboo grove early (5 min) → **Tenryū-ji** (1339, Musō Soseki garden, ¥500) → **Otagi Nenbutsu-ji** (1,200 quirky stone rakan statues, very few tourists) → **Gio-ji** (tiny moss-garden temple) → lunch in Arashiyama → optional **Adashino Nenbutsu-ji**.
@@ -237,14 +229,14 @@ If the morning is gorgeous and you want forest-and-village atmosphere instead:
 </details>
 
 <details>
-<summary>🔄 Alternative C — Northern zen icons + sento (if you decide you must see Kinkaku-ji)</summary>
+<summary>Alternative C — Northern zen icons + sento (if you decide you must see Kinkaku-ji)</summary>
 
 - **Kinkaku-ji** (Golden Pavilion, ¥500) → 15-min walk → **Ryōan-ji** (zen rock garden, ¥600) → **Daitoku-ji** sub-temples: **Daisen-in** (1509 dry-landscape) and **Kōtō-in** (moss + tea hall) → afternoon at **Funaoka Onsen** (1923 wooden bathhouse, registered cultural property, ¥490) → splurge kaiseki in Gion.
 - Trade-off: hits the golden roof + deepest rock gardens + a local sento, but misses Heian-era Phoenix Hall, Ujigami, Uji tea and the Shigemori garden.
 
 </details>
 
-> 📌 **Uji** is now built into Day 11 above, and **Kurama-Kibune** gets its own dedicated day below (Day 12). The old "squeeze it in" warnings no longer apply — Revision 1's 4-night Kyoto gives both room to breathe.
+> 📌 The four-night Kyoto stay gives both **Uji** and **Kurama-Kibune** room to breathe on separate days.
 
 ---
 
@@ -275,8 +267,6 @@ If the morning is gorgeous and you want forest-and-village atmosphere instead:
 ## Day 13 — Thursday, Oct 1: Kyoto → Nara → Osaka
 
 **Theme: Kyoto checkout, Nara's giant Buddha + deer, then settle into Osaka**
-
-> 💡 Revision 1 splits the old cram-day: Nara now gets its own clean run on the Kyoto→Osaka transfer day, instead of being stapled onto the Kurama-Kibune day.
 
 - **10:00** Check out of Kyoto hotel (forward luggage to Osaka hotel via takkyubin, or use coin lockers)
 - **10:30** Train to **Nara** (~45 min, ¥720 by JR or Kintetsu)
@@ -312,9 +302,7 @@ If the morning is gorgeous and you want forest-and-village atmosphere instead:
 
 ## Day 15 — Saturday, Oct 3: Osaka → Haneda → Departure
 
-**Theme: Direct Osaka-to-airport departure day (no Tokyo backtrack)**
-
-> 🔄 Revision 1 removed the Tokyo return night. You now go **straight from Osaka to Haneda**, leaving a relaxed morning instead of a rushed Shinkansen-and-farewell-dinner scramble.
+**Theme: Direct Osaka-to-airport departure day**
 
 - **09:00** Relaxed checkout from Via Inn Prime. Last Osaka breakfast / Shinsaibashi stroll
 - **~10:15** Walk ~7 min to **Shinsaibashi** → **Midōsuji line direct to Shin-Osaka** (~15 min, no transfer) with luggage
@@ -331,20 +319,19 @@ If the morning is gorgeous and you want forest-and-village atmosphere instead:
 | Route | Method | Time | Cost (per person) |
 |-------|--------|------|-------------------|
 | HND → Akasaka | Keikyu + Metro | ~50 min | ~¥700 |
-| Tokyo → Hakone | Romancecar (Shinjuku) | 85 min | ¥2,470 |
-| Hakone → Odawara | Hakone Tozan/Odakyu train | ~15 min | ~¥310 |
-| Odawara → Kyoto | Shinkansen Hikari (reserved) | ~2 hrs | ¥12,300 |
+| Tokyo → Mishima | Tokaido Shinkansen (SmartEX reserved) | ~60 min | ¥4,400 |
+| Mishima → Shuzenji | Izu-Hakone Railway Sunzu Line | ~30 min | ¥550 |
+| Shuzenji Station ↔ Kikuya | Tokai Bus | ~8 min each way | confirm current fare |
+| Mishima → Kyoto | Tokaido Shinkansen (SmartEX reserved) | varies by service | ¥11,110 |
 | Kyoto → Nara | JR or Kintetsu | 45 min | ¥720 |
 | Nara → Osaka | Kintetsu to Namba | 40 min | ¥570 |
 | Osaka → Tokyo (departure day) | Nozomi (reserved) | ~2h30m | ¥14,720 |
 | Tokyo Stn → HND | Keikyu / Monorail | ~35 min | ~¥500 |
 
-**Total intercity transit for 2: ~¥63,180**
+**Indicative intercity transit for 2: ~¥68,700**, plus the short Tokai Bus legs. Recheck exact Sep 25/27 trains and buses before booking.
 
 > ⚠️ **Oversized baggage rule:** On the Tokaido Shinkansen, bags exceeding 160cm total dimensions (length + width + height) require reserving a seat with "oversized baggage area." Book via SmartEX app. Standard suitcases (~157cm) usually fit under the limit, but measure yours before travelling.
 
-> 🔄 **Revision 1 note:** The departure-day Osaka→Tokyo Nozomi replaces the old Day 14 backtrack — you ride to Tokyo on **Oct 3** to catch the evening Haneda flight, not for an extra Tokyo night.
-
 ## JR Pass Verdict: ❌ Skip It
 
-Individual tickets total ~¥31,590 per person for all intercity legs. A 7-day JR Pass costs ¥50,000 and wouldn't cover Tokyo→Hakone (Odakyu, not JR). Individual tickets save ~¥18,410 per person.
+Individual intercity tickets are about **¥34,000 per person**. A 7-day JR Pass cannot cover both the Sep 25 Izu leg and the Oct 3 Osaka→Tokyo departure leg inside one validity window, and it would not cover the Izu-Hakone Railway or Tokai Bus. Buy individual tickets.

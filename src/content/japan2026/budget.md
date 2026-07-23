@@ -8,29 +8,29 @@
 
 | Location | Nights | Est. Cost/Night (2 ppl) | Subtotal |
 |----------|--------|------------------------|----------|
-| Tokyo — Hotel Monterey Akasaka ✅ | 6 | ¥26,000 · £137 | ¥156,000 · £822 |
-| Hakone — ryokan TBC (incl. dinner+breakfast) | 2 | ¥95,000 · £500 | ¥190,000 · £1,000 |
-| Kyoto — Mitsui Garden Hotel Kyoto Shinmachi Bettei ✅ | 4 | ¥14,955 · £79 | ¥59,820 · £315 |
-| Osaka — Via Inn Prime Shinsaibashi Yotsubashi ✅ | 2 | ¥17,195 · £91 | ¥34,390 · £181 |
-| **Accommodation Total** | **14** | | **¥440,210 · £2,318** |
+| Tokyo — Hotel Monterey Akasaka ✅ | 6 | £137 · ¥26,000 | £822 · ¥156,000 |
+| Shuzenji — Yukairou Kikuya ✅ | 2 | paid rate not supplied | **£600 · ¥114,000 planning ceiling** |
+| Kyoto — Mitsui Garden Hotel Kyoto Shinmachi Bettei ✅ | 4 | £79 · ¥14,955 | £315 · ¥59,820 |
+| Osaka — Via Inn Prime Shinsaibashi Yotsubashi ✅ | 2 | £91 · ¥17,195 | £181 · ¥34,390 |
+| **Accommodation Total** | **14** | | **£1,917 · ¥364,210 provisional** |
 
-> 🔄 **Revision 1:** Tokyo return night (Oct 2) **removed** (−¥15,000); Kyoto **3→4 nights** (+¥16,000). Hakone ryokan is still TBC — budget shown is a mid-estimate (~¥95,000/night for two); see Booking Checklist for the Yama no Chaya / Gora Kadan / Hakone Ginyu comparison and pick your tier.
+> Kikuya is booked, but the actual paid total has not been supplied. The budget temporarily uses Nick's **£600 (¥114,000) two-night ceiling** as a planning placeholder — not as a claim about the booked rate. Replace it with the confirmation total when available.
 
 ## Transport
 
 | Route | Cost (2 ppl) |
 |-------|-------------|
-| Airport transfer HND → Akasaka (arrival) | ¥1,400 · £7 |
-| Romancecar Shinjuku→Hakone-Yumoto (one way) | ¥4,940 · £26 |
-| Hakone Freepass (Odawara version, 2-day) | ¥12,000 · £63 |
-| Hakone-Yumoto→Odawara regular train | ¥620 · £3 |
-| Shinkansen Odawara→Kyoto (reserved) | ¥24,600 · £129 |
-| Nozomi Shin-Osaka→Tokyo (departure day, reserved) | ¥29,440 · £155 |
-| Tokyo Station → HND (departure day) | ¥1,000 · £5 |
-| Kyoto→Nara→Osaka trains | ¥2,580 · £14 |
-| Local transit (Metro/bus, ~¥1,000 pp/day × 11 days) | ¥22,000 · £116 |
-| Luggage forwarding (takkyubin) | ¥4,000 · £21 |
-| **Transport Total** | **¥102,580 · £540** |
+| Airport transfer HND → Akasaka (arrival) | £7 · ¥1,400 |
+| SmartEX Tokyo→Mishima (reserved, 2 people) | £46 · ¥8,800 |
+| Izu-Hakone Railway Mishima↔Shuzenji (2 people) | £12 · ¥2,200 |
+| Tokai Bus Shuzenji Station↔Kikuya (planning allowance; verify current fare) | £6 · ¥1,200 allowance |
+| SmartEX Mishima→Kyoto (reserved, 2 people) | £117 · ¥22,220 |
+| Nozomi Shin-Osaka→Tokyo (departure day, reserved) | £155 · ¥29,440 |
+| Tokyo Station → HND (departure day) | £5 · ¥1,000 |
+| Kyoto→Nara→Osaka trains | £14 · ¥2,580 |
+| Local transit (Metro/bus, ~¥1,000 pp/day × 11 days) | £116 · ¥22,000 |
+| Luggage forwarding (takkyubin) | £21 · ¥4,000 |
+| **Transport Total** | **£499 · ¥94,840** |
 
 ## Food
 
@@ -41,11 +41,11 @@
 | Dinner (regular nights — izakaya, restaurants) | ¥8,000 · £42 | 10 | ¥80,000 · £421 |
 | 🎂 Birthday dinner — Jushu (2 ppl) | — | 1 | ¥56,000 · £295 |
 | Kawadoko lunch — Ugenta, Kibune (2 ppl) | — | 1 | ¥19,800 · £104 |
-| Kyoto/Hakone kaiseki splurge allowance | — | 1 | ¥16,000 · £84 |
+| Kikuya/other meal-plan contingency | — | 1 | ¥16,000 · £84 |
 | Snacks, drinks, coffee, konbini | ¥1,500 · £8 | 14 | ¥21,000 · £111 |
 | **Food Total** | | | **¥264,300 · £1,391** |
 
-Note: Ryokan dinners & breakfasts (4 meals for 2) are included in accommodation cost above.
+Note: Kikuya's meal inclusion has not been supplied. The budget retains a ¥16,000 contingency, but replace this with the booked plan's actual inclusions; two room-only nights would require a larger food allowance.
 
 ## Activities & Entrance Fees
 
@@ -66,10 +66,9 @@ Note: Ryokan dinners & breakfasts (4 meals for 2) are included in accommodation 
 | Todai-ji (Nara) | ¥1,600 · £8 |
 | Kasuga Taisha inner sanctuary (Nara) | ¥1,400 · £7 |
 | Osaka Castle (new price from Apr 2025) | ¥2,400 · £13 |
-| Hakone Open-Air Museum | ¥4,000 · £21 |
 | Gekkeikan Sake Museum | ¥1,200 · £6 |
 | Various small temples | ¥3,000 · £16 |
-| **Activities Total** | **¥40,400 · £213** |
+| **Activities Total** | **¥36,400 · £192** |
 
 ## Miscellaneous
 
@@ -86,25 +85,25 @@ Note: Ryokan dinners & breakfasts (4 meals for 2) are included in accommodation 
 
 | Category | JPY | GBP |
 |----------|-----|-----|
-| Accommodation | ¥440,210 | £2,318 |
-| Transport | ¥102,580 | £540 |
+| Accommodation | ¥364,210 | £1,917 |
+| Transport | ¥94,840 | £499 |
 | Food | ¥264,300 | £1,391 |
-| Activities | ¥40,400 | £213 |
+| Activities | ¥36,400 | £192 |
 | Miscellaneous | ¥65,000 | £342 |
-| **TOTAL** | **¥912,490** | **£4,803** |
+| **TOTAL** | **¥824,750** | **£4,341 provisional** |
 
-### 💰 Buffer remaining: \~£197 (\~¥37,510)
+### 💰 Buffer remaining: \~£659 (\~¥125,250), pending Kikuya's actual paid total and meal plan
 
 This leaves a buffer for:
-- Upgrading the Hakone ryokan to a higher tier (the biggest swing variable — see Booking Checklist)
+- Any difference between Kikuya's actual paid total and the temporary £600 allowance
 - Extra shopping/souvenirs
 - Unexpected expenses
 - Optional activities (cooking class, tea ceremony, etc.)
 
 ### Budget Notes
-- The ryokan is the biggest single expense (~£1,000 at mid-estimate) and the main lever on the total — picking Hakone Ginyu (value) vs Gora Kadan (splurge) moves the grand total by several hundred £
+- Kikuya is booked; the exact price and meal plan are the remaining accommodation-budget unknowns
 - Birthday dinner is **~£295 for two at Jushu** (1★ Michelin 2023-2026, ~¥28,000 pp for the Chef's OMAKASE course) — the trip's standout meal
 - Kawadoko lunch at Ugenta (~£104 for two) is the second food splurge — end-of-season, Sep 30 only
 - Daily food budget outside splurges averages \~¥5,200 pp (\~£27) — very comfortable in Japan
-- Transport is efficient because we skip the JR Pass (saving ~£200) and dropped the Tokyo return-night backtrack
+- Transport uses individual SmartEX tickets plus the Izu-Hakone Railway; a JR Pass does not fit the date spread or cover the private Izu connection
 - All Shinkansen prices are for reserved seats (recommended for comfort, especially with luggage)

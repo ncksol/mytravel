@@ -23,6 +23,7 @@
 - **SmartEX app** — book Shinkansen tickets in English, use QR code at gates
 - **Taxis:** Metered, honest, doors open automatically. Use as backup when transit stops (~midnight)
 - **Walking:** Many neighborhoods are best explored on foot. Wear comfortable shoes
+- **Shuzenji transfer:** Tokyo→Mishima by Tokaido Shinkansen, Mishima→Shuzenji by Izu-Hakone Railway, then Tokai Bus to Kikuya (~8 min). There is no hotel shuttle; recheck exact Sep 25/27 services before travel
 
 ## Etiquette Basics
 - **Bowing:** A slight bow is appreciated when greeting, thanking, or saying goodbye
@@ -32,13 +33,13 @@
 - **Queueing:** Japanese queue culture is strong. Line up neatly
 - **Chopstick rules:** Don't stick chopsticks upright in rice (funeral association), don't pass food chopstick-to-chopstick
 
-## Onsen Etiquette (for Hakone)
+## Onsen Etiquette (Yukairou Kikuya, Shuzenji)
 1. Wash thoroughly at the shower stations BEFORE entering the bath
 2. No swimwear in the onsen — you go in naked
 3. Tie long hair up so it doesn't touch the water
 4. Small towel can go on your head but NOT in the water
 5. Be quiet and relaxed — onsen is for contemplation
-6. Tattoo policy: Yama no Chaya is typically fine with tattoos in private baths. Confirm when booking if relevant
+6. **Tattoo policy is unverified:** Kikuya publishes no explicit rule. Its four private baths do not prove that tattoos are accepted in the communal baths. Ask the hotel directly before relying on communal bathing
 
 ## Useful Japanese Phrases
 | English | Japanese | Pronunciation |

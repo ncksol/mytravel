@@ -1,12 +1,6 @@
 # Booking Checklist
 
-> 🔄 **Revision 1 (2026-06-05):** Tokyo return night (Oct 2) removed; Kyoto now 4 nights (Sep 27-Oct 1); Osaka Oct 1-3; depart direct Osaka→Haneda Oct 3. Birthday dinner booked at **Jushu** (Nishi-Azabu, 1★). Kawadoko added for **Sep 30 (Ugenta)**. Ryokan still TBC.
->
-> ✅ **Update (2026-06-07):** Osaka hotel booked — **Via Inn Prime Shinsaibashi Yotsubashi** (£181/2nt, Deluxe Double king).
->
-> ✅ **Update (2026-07-07):** Kyoto hotel booked — **Mitsui Garden Hotel Kyoto Shinmachi Bettei** (£314.84/4nt, Standard Queen).
->
-> ✅ **Update (2026-07-13):** Birthday dinner booked — **Jushu (壽修)**, Nishi-Azabu, Tue Sep 22 19:00 (Chef's OMAKASE, £295 for two).
+> ✅ **Booked lodging:** Hotel Monterey Akasaka · **Yukairou Kikuya, Shuzenji Onsen** · Mitsui Garden Hotel Kyoto Shinmachi Bettei · Via Inn Prime Shinsaibashi Yotsubashi. Birthday dinner at Jushu is also booked.
 
 ## ⚠️ Book ASAP (time-critical)
 
@@ -14,20 +8,17 @@
 |------|--------|-------|
 | 🎂 Birthday dinner — **Jushu** (Sep 22, 19:00) | ✅ **BOOKED** | Tue Sep 22, 19:00 seating. ~¥28,000 pp (Chef's OMAKASE course, £295 for two). Michelin 1★ 2023-2026, Nishi-Azabu (Omotesando 9-min walk). Booked via OMAKASE (omakaseje.com/restaurants/bd545579). ⚠️ Cannot accept fish allergies incl. bonito/dashi — flag any dietary restriction in advance. |
 | 🍱 Kawadoko lunch — **Ugenta**, Kibune (Sep 30) | ⬜ Not booked | **Time-critical — Sep 30 is the season's last day.** Riverside platform kaiseki, lunch from ¥9,900 pp. Book 3+ days ahead via ugenta.co.jp (window typically ~1 month out). Backup: **Hirobun** (nagashi-somen, no res, 1-2h queue). ⚠️ **Kifune Club is permanently closed.** |
-| Ryokan — Hakone (Sep 25-27) | ⬜ Not booked | **Still TBC — pick from comparison below.** 2 nights. Request a room with private outdoor rotenburo. Book early — top rooms go fast. |
+| Onsen stay — **Yukairou Kikuya**, Shuzenji (Sep 25-27) | ✅ **BOOKED** | Two nights / two adults. 874-1 Shuzenji, Izu, Shizuoka 410-2416 · +81 558-72-2130. Normal check-in 15:00 / check-out 11:00. **Room, paid total, meal inclusion and cancellation terms have not been supplied — check the confirmation before relying on them.** |
 | TeamLab Borderless (Sep 22 or flexible) | ⬜ Not booked | Azabudai Hills. Timed entry, ¥3,600 pp online + ¥200 on-site. Dynamic pricing — book early. Open daily 8:30-21:00 |
 
-### 🏯 Ryokan Comparison — pick one (Sep 25-27)
+### ♨️ Yukairou Kikuya — booking details to verify
 
-Recommended fit for a history/architecture/atmosphere weighting: **Yama no Chaya Special Room**. Upgrade pick: **Gora Kadan Annex**. Value pick: **Hakone Ginyu**.
-
-| Ryokan | Location | Private Onsen | Price/Night (2 ppl, w/meals) | Key Highlight |
-|--------|----------|---------------|------------------------------|---------------|
-| **Yama no Chaya** ⭐ (top fit) | Tonosawa, Hakone | 11 of 15 rooms — outdoor | ¥55,000-67,000 · £290-353 (Special Room) | Historic, intimate, riverside. Stairs + suspension bridge (rule out if mobility issues) |
-| **Gora Kadan** (splurge) | Gora, Hakone | Annex/Suite rooms — outdoor | ¥91,000-108,000 · £479-568 | Former imperial villa. Relais & Châteaux |
-| **Hakone Ginyu** (value) | Miyanoshita, Hakone | ALL 20 rooms — outdoor | ¥43,000-55,000 · £226-290 | Modern; every room has an outdoor rotenburo + valley view |
-
-⚠️ The budget uses a ~¥95,000/night mid-estimate. Your pick swings the grand total by several hundred £ — confirm the tier before booking the rest.
+- Official access: Tokyo → Mishima by Tokaido Shinkansen (~60 min), Mishima → Shuzenji by Izu-Hakone Railway (~30 min), then Tokai Bus (~8 min). No hotel shuttle.
+- Four private source-fed baths are free, first-come when vacant and limited to about 40 min; the official FAQ lists them as available 24 hours.
+- Communal bath hours: 15:00-25:00 and 05:00-10:00.
+- Dinner, when included, is served at 17:30 or 19:45; the slot is chosen at check-in, first come.
+- **Tattoo policy remains unverified.** The property publishes no explicit rule. Private-bath availability does not prove communal-bath access; contact Kikuya before relying on communal bathing.
+- Check your booking confirmation for the room/bedding, private in-room bath (if any), exact paid total, meals, second-night menu, and cancellation terms.
 
 ## 📅 Book 2-4 Weeks Ahead
 
@@ -36,17 +27,17 @@ Recommended fit for a history/architecture/atmosphere weighting: **Yama no Chaya
 | Tokyo hotel — Akasaka (Sep 19-25, 6 nights) | ✅ Pre-booked | **Hotel Monterey Akasaka** — £137/night (free cancellation). ⚠️ Silver Week premium reflected in price |
 | Kyoto hotel (Sep 27-Oct 1, 4 nights) | ✅ Booked | **Mitsui Garden Hotel Kyoto Shinmachi Bettei** — £314.84 total / 4 nights (~£79/night), Standard Queen. Karasuma side, 7 min from Shijo |
 | Osaka hotel (Oct 1-3, 2 nights) | ✅ Booked | **Via Inn Prime Shinsaibashi Yotsubashi** — £181 total/2nt (~£91/night), Deluxe Double (180cm king), room-only. JR-West, Yotsubashi station 1 min; ~12 min walk / 1 metro stop to Dotonbori |
-| Romancecar tickets Shinjuku→Hakone-Yumoto (Sep 25) | ⬜ Not booked | ¥2,470 pp (one way — returning via Odawara Shinkansen). Book for window seats |
+| SmartEX Tokyo→Mishima (Sep 25) | ⬜ Not booked | Ordinary reserved fare currently **£23 pp (¥4,400)**. Then buy the Izu-Hakone Railway ticket to Shuzenji (**£3 pp / ¥550**) and Tokai Bus fare locally. Recheck exact Sep 25 services before booking. |
 | Shibuya Sky tickets (Sep 21) | ⬜ Not booked | ¥2,700 pp (online, before 15:00) / ¥3,400 (after 15:00). Timed entry — tickets release midnight JST 14 days ahead and sell out fast |
 
 ## 📝 Book 1 Week Ahead / On Arrival
 
 | Item | Status | Notes |
 |------|--------|-------|
-| Shinkansen Odawara→Kyoto (Sep 27) | ⬜ Not booked | Hikari, ~¥12,300 pp reserved. Book via SmartEX app. ⚠️ Oversized luggage (>160cm) requires special seat reservation |
+| Shinkansen Mishima→Kyoto (Sep 27) | ⬜ Not booked | SmartEX ordinary reserved fare currently **£58 pp (¥11,110)**. Prefer a westbound Hikari that stops at Mishima; otherwise follow SmartEX's Kodama/transfer routing. ⚠️ Baggage 161-250cm requires an oversized-baggage seat. |
 | Nozomi Shin-Osaka→Tokyo (Oct 3, departure day) | ⬜ Not booked | ~¥14,720 pp reserved, ~11:00 or 12:00 departure for a 3h+ HND cushion. SmartEX app. ⚠️ Same oversized luggage rule |
-| Luggage forwarding (takkyubin) — Hakone→Kyoto, Kyoto→Osaka | ⬜ Not booked | Send day before each move. ~¥2,000 per bag |
-| Hakone Freepass (Sep 26) | ⬜ Not booked | ¥6,000 pp (Odawara version) for loop (ropeway, cruise, bus). Buy at Hakone-Yumoto or Odawara station |
+| Luggage forwarding (takkyubin) — Tokyo→Kyoto, Kyoto→Osaka | ⬜ Not booked | Forward large cases from Hotel Monterey directly to Kyoto on Sep 25; carry a two-night bag to Shuzenji. Confirm the Kyoto hotel's acceptance and delivery timing before sending. |
+| Kikuya confirmation audit | ⬜ Not done | Record room/bedding, exact paid total, meals, cancellation terms and any private in-room bath. Ask Kikuya in writing about tattoo use in communal and private baths. |
 
 ## 📱 Pre-Trip Setup
 
@@ -54,7 +45,7 @@ Recommended fit for a history/architecture/atmosphere weighting: **Yama no Chaya
 |------|--------|-------|
 | Mobile Suica (iPhone) or buy Suica at airport | ⬜ Not done | For all local transit + konbini payments |
 | eSIM or pocket WiFi | ⬜ Not done | Order before departure. Ubigi, Airalo, or rent pocket WiFi |
-| Download offline maps (Google Maps) | ⬜ Not done | Download Tokyo, Hakone, Kyoto, Osaka, Nara |
+| Download offline maps (Google Maps) | ⬜ Not done | Download Tokyo, Shuzenji/Izu, Kyoto, Osaka and Nara |
 | SmartEX app | ⬜ Not done | For booking Shinkansen tickets with English interface |
 | Tableall or Pocket Concierge account | ⬜ Not done | For restaurant reservations in English |
 | Download Tabelog app | ⬜ Not done | Japan's trusted restaurant reviews. 3.5+ = good, 3.7+ = excellent |
