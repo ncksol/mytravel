@@ -43,7 +43,7 @@
 6. **Tattoo policy is unverified:** Kikuya publishes no explicit rule. Its four private baths do not prove that tattoos are accepted in the communal baths. Ask the hotel directly before relying on communal bathing
 
 ## Kikuya Booking Practicalities
-- **Room:** 35m² twin — not a queen/double
+- **Room:** 35m² Japanese-style room with two individual futons; the booking's “twin” label refers to the futon arrangement, not Western twin beds
 - **Meals:** dinner and breakfast included on both nights; dinner sitting chosen at check-in (17:30 or 19:45)
 - **Dietary requests:** the confirmation asks for allergy-menu applications by two days before arrival. It describes a low-allergen menu covering Japan's specified 28 allergens, does not offer single-item substitutions, and cannot guarantee against cross-contamination
 - **Cancellation schedule printed in the email:** no-show 100%; same day 80%; 2 days before 50%; 4 days before 20%; 7 days before 10%. The email says plan-specific fees may differ

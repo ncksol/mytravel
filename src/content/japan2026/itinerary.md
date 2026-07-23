@@ -146,7 +146,7 @@
 - **~12:15** Lunch around Mishima Station, then take the **Izu-Hakone Railway Sunzu Line** to Shuzenji, about 30 min (**£3 pp / ¥550**)
 - **~14:00** Tokai Bus from Shuzenji Station to Kikuya, about 8 min. Confirm the exact alighting stop with the driver; the hotel does not operate a shuttle
 - **15:00** Check in at **Shuzenji Onsen Yukairou Kikuya**, 874-1 Shuzenji, Izu, Shizuoka 410-2416 · +81 558-72-2130
-- **Room/plan:** 35m² twin; dinner and breakfast included both nights; **£872 (¥165,600)** total, payable on site
+- **Room/plan:** 35m² Japanese-style room with two futons (booking label: “twin”); dinner and breakfast included both nights; **£872 (¥165,600)** total, payable on site
 - **16:00** First bath. Kikuya has four free private source-fed baths, used without reservation when vacant; keep each session to about 40 min
 - **17:30 or 19:45** Included dinner at Kikuya; seating is selected at check-in, first come
 - **Evening** Quiet walk beside the Katsura River, then another private bath
