@@ -146,8 +146,9 @@
 - **~12:15** Lunch around Mishima Station, then take the **Izu-Hakone Railway Sunzu Line** to Shuzenji, about 30 min (**£3 pp / ¥550**)
 - **~14:00** Tokai Bus from Shuzenji Station to Kikuya, about 8 min. Confirm the exact alighting stop with the driver; the hotel does not operate a shuttle
 - **15:00** Check in at **Shuzenji Onsen Yukairou Kikuya**, 874-1 Shuzenji, Izu, Shizuoka 410-2416 · +81 558-72-2130
+- **Room/plan:** 35m² twin; dinner and breakfast included both nights; **£872 (¥165,600)** total, payable on site
 - **16:00** First bath. Kikuya has four free private source-fed baths, used without reservation when vacant; keep each session to about 40 min
-- **17:30 or 19:45** Dinner at Kikuya **if included in your booking plan**; seating is selected at check-in, first come. If room-only, confirm a Shuzenji dinner before arrival rather than assuming ryokan meals
+- **17:30 or 19:45** Included dinner at Kikuya; seating is selected at check-in, first come
 - **Evening** Quiet walk beside the Katsura River, then another private bath
 
 **Kikuya practicals:** normal check-out is 11:00. Private baths are available 24 hours; communal baths run 15:00–25:00 and 05:00–10:00. Kikuya publishes no explicit tattoo rule: use of the private baths does not prove communal-bath access — confirm directly before relying on the communal baths.
@@ -158,13 +159,13 @@
 
 **Theme: temple history, river-town atmosphere and time to enjoy the ryokan**
 
-- **Morning** Breakfast at Kikuya if included; otherwise use the hotel/onsen-town options confirmed on arrival
+- **Morning** Included breakfast at Kikuya
 - **10:00** Walk to **Shuzenji Temple**, then **Hie Shrine** — the historic and spiritual core of the town
 - **11:30** Follow the Katsura River past **Tokko-no-Yu**. It is a historic landmark only: bathing and foot bathing are not permitted
 - **12:00** Walk the **Bamboo Forest Path**, then continue to **Shigetsuden** and Minamoto no Yoriie's grave
 - **13:00** Local lunch in the onsen town; keep this flexible rather than building the day around a distant Izu excursion
 - **14:30** Return to Kikuya for the private baths, rest and the building's linked corridors/gardens
-- **17:30 or 19:45** Kikuya dinner if included in the booking plan
+- **17:30 or 19:45** Included Kikuya dinner
 - **After dinner** Optional illuminated Bamboo Forest Path; the official tourism association lists lighting until 23:00
 
 ---
@@ -173,7 +174,7 @@
 
 **Theme: Travel day + first Kyoto evening**
 
-- **Morning** Final Kikuya breakfast if included; one last private bath
+- **Morning** Included final Kikuya breakfast; one last private bath
 - **10:00** Check out comfortably before the 11:00 deadline. Tokai Bus to Shuzenji Station (~8 min), then the Izu-Hakone Railway to Mishima (~30 min)
 - **Late morning / noon** **Mishima → Kyoto** by westbound Tokaido Shinkansen. Prefer a Hikari that stops at Mishima; otherwise take a Kodama and make the connection shown by SmartEX. Current SmartEX ordinary reserved fare: **£58 pp (¥11,110)**
 - **~14:00** Arrive Kyoto Station and have a quick station lunch if needed

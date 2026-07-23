@@ -11,6 +11,7 @@
 - **Cash is important:** Many smaller restaurants, temples, and rural spots are cash-only. Carry ¥10,000-20,000 cash at all times
 - **IC cards (Suica/PASMO):** Use for trains, buses, and konbini purchases. Set up Mobile Suica on iPhone for maximum convenience
 - **Credit cards:** Accepted at hotels, department stores, larger restaurants, and chain shops
+- **Kikuya balance:** ¥165,600 is payable on site. The confirmation says cash or credit card only; electronic and QR-code payments are not accepted
 
 ## Connectivity
 - **eSIM** (recommended): Ubigi or Airalo — buy and activate before departure, ~¥2,000-5,000 for 14 days
@@ -40,6 +41,12 @@
 4. Small towel can go on your head but NOT in the water
 5. Be quiet and relaxed — onsen is for contemplation
 6. **Tattoo policy is unverified:** Kikuya publishes no explicit rule. Its four private baths do not prove that tattoos are accepted in the communal baths. Ask the hotel directly before relying on communal bathing
+
+## Kikuya Booking Practicalities
+- **Room:** 35m² twin — not a queen/double
+- **Meals:** dinner and breakfast included on both nights; dinner sitting chosen at check-in (17:30 or 19:45)
+- **Dietary requests:** the confirmation asks for allergy-menu applications by two days before arrival. It describes a low-allergen menu covering Japan's specified 28 allergens, does not offer single-item substitutions, and cannot guarantee against cross-contamination
+- **Cancellation schedule printed in the email:** no-show 100%; same day 80%; 2 days before 50%; 4 days before 20%; 7 days before 10%. The email says plan-specific fees may differ
 
 ## Useful Japanese Phrases
 | English | Japanese | Pronunciation |

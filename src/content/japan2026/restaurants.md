@@ -44,9 +44,9 @@
 
 ## Shuzenji Onsen — Sep 25-27
 
-- Check the Kikuya confirmation for dinner and breakfast inclusion; neither was supplied with the Maps link
-- When dinner is included, Kikuya serves at **17:30 or 19:45**, selected at check-in on a first-come basis
-- If the stay is room-only, arrange the two dinners before arrival rather than assuming late walk-in availability in the small onsen town
+- **Dinner and breakfast are included both nights** in the confirmed Kikuya plan
+- Dinner is served at **17:30 or 19:45**, selected at check-in on a first-come basis
+- The confirmation does not legibly establish whether the second-night menu changes; ask Kikuya if variety matters
 
 ---
 

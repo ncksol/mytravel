@@ -5,11 +5,11 @@
 | Stay | Dates | Nights | Hotel | Price | Status |
 |------|-------|--------|-------|-------|--------|
 | Tokyo (Akasaka) | Sep 19-25 | 6 | **Hotel Monterey Akasaka** | £137/night · £822 | ✅ Booked |
-| Shuzenji Onsen, Izu | Sep 25-27 | 2 | **Yukairou Kikuya** | Actual total not supplied | ✅ Booked |
+| Shuzenji Onsen, Izu | Sep 25-27 | 2 | **Yukairou Kikuya** | £872 · ¥165,600 | ✅ Booked |
 | Kyoto (Shijo, Karasuma side) | Sep 27-Oct 1 | 4 | **Mitsui Garden Hotel Kyoto Shinmachi Bettei** | £79/night · £315 | ✅ Booked |
 | Osaka (Namba/Yotsubashi) | Oct 1-3 | 2 | **Via Inn Prime Shinsaibashi Yotsubashi** | £91/night · £181 | ✅ Booked |
 
-> Every overnight base is now booked. Kikuya's room type, actual paid total and meal plan still need to be copied from the confirmation; the **Bookings** page carries the audit list.
+> Every overnight base is booked. Kikuya is a 35m² twin with dinner and breakfast both nights; the remaining checks are the exact room bath and tattoo rules.
 
 ### ✅ Shuzenji Onsen — Yukairou Kikuya (Sep 25-27)
 
@@ -19,14 +19,20 @@
 | Address | 874-1 Shuzenji, Izu, Shizuoka 410-2416 |
 | Contact | +81 558-72-2130 (main, 24h) · +81 558-72-2000 (reservations, 10:00-19:00) |
 | Stay | Sep 25-27 · 2 nights · 2 adults · ✅ booked |
-| Check-in/out | 15:00 / 11:00 under standard plans; check the booked plan |
+| Room | **35m² twin** — not a queen/double. Full Japanese room-category text was unreadable in the PDF |
+| Booked price | **£872 total (¥165,600)** · £424 (¥80,600) first night · £447 (¥85,000) second night |
+| Meals | Dinner and breakfast included both nights |
+| Payment | Full ¥165,600 balance on site · cash or credit card; no electronic/QR payment |
+| Check-in/out | 15:00 / 11:00 |
 | Access | Tokyo→Mishima Shinkansen ~60 min → Sunzu Line ~30 min → Tokai Bus ~8 min; no hotel shuttle |
 | Baths | Four free private source-fed baths, no reservation, ~40 min when vacant; communal baths also available |
-| Booking details needed | Room/bedding, paid total, meals, cancellation terms, in-room bath and written tattoo policy |
+| Details still needed | Exact room bath, full Japanese room-category name, second-night menu variation and written tattoo policy |
 
 **Why it fits the route:** two nights in Shuzenji's compact historic onsen town create a genuinely slow middle leg. Saturday can be entirely on foot — Shuzenji Temple, Hie Shrine, Tokko-no-Yu, Bamboo Forest Path and Shigetsuden — while the onward journey runs naturally through Mishima to Kyoto.
 
 **Tattoo caveat:** Kikuya's official pages publish no explicit rule. The private baths do not prove that tattoos are accepted in communal baths; confirm directly before relying on communal bathing.
+
+**Bed caveat:** the confirmation explicitly says **twin**. This does not meet the usual queen-or-larger preference; amend the reservation promptly if it was not intentional.
 
 ### ✅ Osaka — Via Inn Prime Shinsaibashi Yotsubashi (Oct 1-3)
 

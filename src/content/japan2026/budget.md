@@ -9,12 +9,12 @@
 | Location | Nights | Est. Cost/Night (2 ppl) | Subtotal |
 |----------|--------|------------------------|----------|
 | Tokyo — Hotel Monterey Akasaka ✅ | 6 | £137 · ¥26,000 | £822 · ¥156,000 |
-| Shuzenji — Yukairou Kikuya ✅ | 2 | paid rate not supplied | **£600 · ¥114,000 planning ceiling** |
+| Shuzenji — Yukairou Kikuya ✅ (half board) | 2 | £436 · ¥82,800 average | **£872 · ¥165,600** |
 | Kyoto — Mitsui Garden Hotel Kyoto Shinmachi Bettei ✅ | 4 | £79 · ¥14,955 | £315 · ¥59,820 |
 | Osaka — Via Inn Prime Shinsaibashi Yotsubashi ✅ | 2 | £91 · ¥17,195 | £181 · ¥34,390 |
-| **Accommodation Total** | **14** | | **£1,917 · ¥364,210 provisional** |
+| **Accommodation Total** | **14** | | **£2,188 · ¥415,810** |
 
-> Kikuya is booked, but the actual paid total has not been supplied. The budget temporarily uses Nick's **£600 (¥114,000) two-night ceiling** as a planning placeholder — not as a claim about the booked rate. Replace it with the confirmation total when available.
+> Kikuya's confirmation total is **£872 (¥165,600)**: £424 (¥80,600) on 25 Sep and £447 (¥85,000) on 26 Sep, including dinner and breakfast for two. Payment is due at the hotel.
 
 ## Transport
 
@@ -41,11 +41,10 @@
 | Dinner (regular nights — izakaya, restaurants) | ¥8,000 · £42 | 10 | ¥80,000 · £421 |
 | 🎂 Birthday dinner — Jushu (2 ppl) | — | 1 | ¥56,000 · £295 |
 | Kawadoko lunch — Ugenta, Kibune (2 ppl) | — | 1 | ¥19,800 · £104 |
-| Kikuya/other meal-plan contingency | — | 1 | ¥16,000 · £84 |
 | Snacks, drinks, coffee, konbini | ¥1,500 · £8 | 14 | ¥21,000 · £111 |
-| **Food Total** | | | **¥264,300 · £1,391** |
+| **Food Total** | | | **¥248,300 · £1,307** |
 
-Note: Kikuya's meal inclusion has not been supplied. The budget retains a ¥16,000 contingency, but replace this with the booked plan's actual inclusions; two room-only nights would require a larger food allowance.
+Note: Kikuya's two dinners and two breakfasts are included in accommodation, so no separate ryokan-meal contingency is required.
 
 ## Activities & Entrance Fees
 
@@ -85,23 +84,22 @@ Note: Kikuya's meal inclusion has not been supplied. The budget retains a ¥16,0
 
 | Category | JPY | GBP |
 |----------|-----|-----|
-| Accommodation | ¥364,210 | £1,917 |
+| Accommodation | ¥415,810 | £2,188 |
 | Transport | ¥94,840 | £499 |
-| Food | ¥264,300 | £1,391 |
+| Food | ¥248,300 | £1,307 |
 | Activities | ¥36,400 | £192 |
 | Miscellaneous | ¥65,000 | £342 |
-| **TOTAL** | **¥824,750** | **£4,341 provisional** |
+| **TOTAL** | **¥860,350** | **£4,528** |
 
-### 💰 Buffer remaining: \~£659 (\~¥125,250), pending Kikuya's actual paid total and meal plan
+### 💰 Buffer remaining: \~£472 (\~¥89,650)
 
 This leaves a buffer for:
-- Any difference between Kikuya's actual paid total and the temporary £600 allowance
 - Extra shopping/souvenirs
 - Unexpected expenses
 - Optional activities (cooking class, tea ceremony, etc.)
 
 ### Budget Notes
-- Kikuya is booked; the exact price and meal plan are the remaining accommodation-budget unknowns
+- Kikuya costs **£872 (¥165,600)** for two nights with dinner and breakfast; those four included meals are carried in accommodation rather than the food subtotal
 - Birthday dinner is **~£295 for two at Jushu** (1★ Michelin 2023-2026, ~¥28,000 pp for the Chef's OMAKASE course) — the trip's standout meal
 - Kawadoko lunch at Ugenta (~£104 for two) is the second food splurge — end-of-season, Sep 30 only
 - Daily food budget outside splurges averages \~¥5,200 pp (\~£27) — very comfortable in Japan
