@@ -12,146 +12,137 @@
 
 ---
 
-> ⚠️ **SILVER WEEK 2026 — Days 1-5 overlap with a rare 5-day national holiday (Sep 19-23).** This only happens every 5-7 years and is one of Japan's busiest domestic travel periods — comparable to Golden Week. Expect extreme crowds at major attractions, higher hotel prices, and harder restaurant reservations. The itinerary has been structured to front-load off-beaten-path neighborhoods during Silver Week and save the most popular attractions for Day 6 (Thursday Sep 24) when the holiday ends.
->
-> 🔴 **Holidays:** Mon Sep 21 = Respect for the Aged Day · Tue Sep 22 = Bridge Holiday · Wed Sep 23 = Autumnal Equinox Day
-
----
+> ⚠️ **SILVER WEEK 2026 — September 19–23 is a rare and irregular five-day holiday sequence, the first equivalent run since 2015.** Use the holiday for neighbourhood exploration and reserve Asakusa, Ueno, Akihabara and Ryogoku for Thursday, September 24.
 
 ## Day 1 — Saturday, Sep 19: Arrival
 
-- **14:30** Arrive Tokyo Haneda (HND)
-- **~15:30** Clear immigration & customs
-- **~16:00** Take monorail or Keikyu line to Akasaka (via Hamamatsucho or Shinagawa, transfer to Metro). ~45-60 min, ~¥700
-- **17:00** Check into hotel, freshen up
-- **18:30** Head to **Omoide Yokocho** (思い出横丁, "Memory Lane") near Shinjuku — narrow atmospheric alleyways packed with tiny yakitori stalls. Grab a few skewers and a beer, soak in the smoky, lantern-lit atmosphere. Try: negima (chicken & scallion), tsukune (meatball), kawa (crispy skin)
-- **20:00** Optional: walk to nearby **Golden Gai** — a grid of ~200 micro-bars, each seating 5-10 people. A living relic of post-war Tokyo. Look for foreigner-friendly spots (check for signs). Cover charge ¥500-1,000. However, Golden Gai can feel overwhelming on a first night in Japan — the tiny bars and unspoken rules can be intimidating. If jet lag is hitting, the izakayas around Akasaka are a gentler alternative
-- **Notes:** Keep it light — jet lag recovery. Grab a Suica/PASMO card at the airport (or set up mobile Suica on iPhone). Silver Week starts today — Shinjuku will be buzzing but Omoide Yokocho handles crowds well due to its tight layout
+**Theme:** Arrive, settle into Akasaka and keep the first evening pressure-free.
 
----
+- **14:30** Arrive at Tokyo Haneda Airport.
+- **Approximately 15:30–16:30** Complete immigration, baggage reclaim and customs. Allow up to two hours before becoming concerned.
+- At the airport, activate the pre-arranged eSIM or collect pocket Wi-Fi, set up Mobile Suica or obtain an available physical IC card, and withdraw approximately **¥20,000–30,000** as initial cash.
+- **Immediately after clearing the airport** Travel to Akasaka by Keikyu/Metro or monorail/Metro. Allow 45–60 minutes and approximately ¥700.
+- **Likely approximately 16:15–17:45** Check into Hotel Monterey Akasaka, freshen up and assess energy honestly.
+- **18:30 — Default:** dinner at an izakaya near the hotel — yakitori, seasonal small plates and draft beer.
+- **18:30 — Optional high-energy alternative:** travel to **Omoide Yokocho** near Shinjuku for tiny yakitori counters. Try negima, tsukune and kawa.
+- **20:00 — Optional:** continue to **Golden Gai**. Choose a clearly foreigner-friendly micro-bar and expect a possible ¥500–1,000 cover charge.
 
-## Day 2 — Sunday, Sep 20: Hidden Tokyo Neighborhoods 🔴 Silver Week
+Akasaka is the recommended plan if jet lag is noticeable. Omoide Yokocho will be particularly busy on the opening Saturday of Silver Week, and Golden Gai remains entirely optional.
 
-**Theme: Off-beaten-path Tokyo — avoiding Silver Week crowds at major attractions**
+## Day 2 — Sunday, Sep 20: Hidden Tokyo Neighbourhoods 🔴 Silver Week
 
-> 💡 Senso-ji, Ueno, and other major attractions have been moved to Day 6 (post-Silver Week Thursday) when crowds return to normal. Today focuses on charming neighborhoods that domestic tourists don't flock to during holidays.
+**Theme:** Older residential Tokyo, shrine lanes, bookshops and retro cafés. This is a moderate full day; Ochanomizu remains optional.
 
-- **08:30** Breakfast at hotel or grab onigiri from a konbini
-- **09:00** Head to **Yanaka** (谷中) via Metro (~20 min from Akasaka). This nostalgic neighborhood feels like old Tokyo — wooden houses, narrow lanes, temple-dotted hills. Explore **Yanaka Ginza** shopping street, try menchi katsu (fried meat croquette), spot the resident cats
-- **10:30** Walk to **Nezu Shrine** (根津神社) — beautiful vermillion torii gate tunnel, rarely crowded even during Silver Week. One of Tokyo's oldest shrines
-- **11:30** Walk to **Kagurazaka** (神楽坂) — the "Little Paris" of Tokyo. Cobblestone alleys, hidden shrines, French bakeries, traditional ryotei restaurants. Explore the yokocho (narrow lanes) — Hyogo Yokocho and Kakurenbo Yokocho are the best
-- **12:30** Lunch in Kagurazaka — French-Japanese fusion bistro or a traditional ryotei
-- **14:00** Walk or short metro to **Jimbocho** (神保町) — Book Town. Browse hundreds of vintage bookstores (many have English sections). Stop at a classic **kissaten** (retro coffee shop) — try Sabouru or Ladrio for the 1950s atmosphere
-- **16:00** Free time — return to hotel, rest, or explore nearby **Ochanomizu** (musical instrument shops, holy water shrine)
-- **17:30** Return to Akasaka
-- **19:00** Dinner: Izakaya near Akasaka — try **yakitori** and draft beer
+- **08:30** Breakfast at the hotel or pick up onigiri, fruit and coffee from a konbini.
+- **09:00** Travel from Akasaka to **Nezu Shrine** and explore its grounds and vermilion torii tunnel.
+- **10:00** Walk towards **Yanaka**, passing temple-lined streets and the edge of Yanaka Cemetery.
+- **10:30** Explore **Yanaka Ginza** once shops are beginning to open. Try menchi katsu and look for the neighbourhood’s cat motifs.
+- **11:45** Take public transport to **Kagurazaka**.
+- **12:30** Lunch in Kagurazaka: a French-Japanese bistro or traditional Japanese restaurant.
+- **13:30** Explore Hyogo Yokocho, Kakurenbo Yokocho, small shrines and surviving ryotei façades.
+- **14:30** Continue to **Jimbocho** and browse vintage bookshops, including larger stores with foreign-language sections.
+- **15:30** Stop at **Ladrio**, the Sunday-opening traditional kissaten known for its Showa-era atmosphere and Wiener coffee.
+- **16:30 — Optional:** continue to **Ochanomizu** for musical-instrument shops and the Byzantine-style exterior of **Nikolai Cathedral**.
+- **17:30** Return to Akasaka and rest.
+- **19:00** Dinner near the hotel: yakitori, an izakaya or Korean food.
 
----
+If Day 5 Track B is selected, Kanda Myojin may be added after Ochanomizu. Do not add Akihabara to this already varied day.
 
-## Day 3 — Monday, Sep 21: Shibuya, Harajuku, Meiji Shrine 🔴 Respect for the Aged Day
+## Day 3 — Monday, Sep 21: Meiji Shrine, Harajuku and Shibuya 🔴 Respect for the Aged Day
 
-**Theme: Modern Tokyo, fashion, pop culture**
+**Holiday:** Respect for the Aged Day.
+**Theme:** Modern Tokyo, fashion and pop culture.
 
-> ⚠️ National holiday — expect heavier crowds than a normal Monday, especially at Meiji Shrine and Harajuku. Arrive as early as possible.
+- **07:30** Arrive at **Meiji Shrine** and walk through the forested approach at its quietest.
+- **09:00** Walk towards **Omotesando** for architecture, streetscape and coffee before most shops open.
+- **10:00** Explore Harajuku: Takeshita Street, Omotesando and Cat Street.
+- **11:30** Lunch in the Omotesando/Harajuku area. **Maisen** remains the tonkatsu option, avoiding a later backtrack.
+- **12:45** Walk or take the train to **Shibuya** for Hachiko, the scramble crossing and browsing.
+- **13:45 — Decision point:** if energy is good, take the Keio Inokashira Line to **Shimokitazawa** for vintage shops, records, cafés and Bonus Track. Bear Pond Espresso is optional. If crowds or jet lag are tiring, return to the hotel instead.
+- **15:45** If visiting Shimokitazawa, return to Shibuya.
+- **Approximately 16:30** Timed entry to **Shibuya Sky**, positioned around sunset. Ordinary admission should release at **00:00 JST on September 7 — 16:00 BST on September 6**. Recheck the policy shortly beforehand and book promptly. The rooftop may close in poor weather; indoor observation areas normally remain available.
+- **18:00** Return to the hotel and rest.
+- **19:30** Dinner in **Roppongi**: a bookable izakaya or ramen restaurant with confirmed Monday public-holiday hours.
 
-- **07:30** Early morning visit to **Meiji Shrine** (明治神宮) — serene forest walk. On this national holiday, even early morning will have more visitors than usual, but the vast forest grounds absorb crowds well. Aim to arrive by 7:30 for the quietest experience
-- **09:30** Walk through **Harajuku** — Takeshita Street for people-watching, Omotesando for architecture and upscale shopping
-- **10:30** Coffee break at a Harajuku/Omotesando café
-- **11:00** Walk to **Shibuya** — see the famous **Shibuya Crossing** from the Shibuya Sky observation deck (¥2,700 online before 15:00 / ¥3,400 after 15:00, book online — timed entry) or the Starbucks overlooking the crossing
-- **12:00** Lunch: **Shibuya food options** — try a tonkatsu (pork cutlet) shop like Maisen in Omotesando
-- **13:30** Explore **Shimokitazawa** (下北沢) — 3 min train from Shibuya. Vintage shops, record stores, quirky cafes, Bonus Track courtyard
-- **15:30** Return to Shibuya for more exploring or head to **Daikanyama/Nakameguro** — stylish bookstores (Tsutaya), canal walk
-- **17:00** Return to hotel, rest
-- **19:00** Dinner in **Roppongi** — walking distance from Akasaka. Try Iruca Tokyo (Michelin Bib Gourmand ramen, ¥1,500-2,000) or an izakaya
+Do not add Daikanyama or Nakameguro. If a sunset Shibuya Sky slot is unavailable, a daytime visit is still worthwhile without distorting the whole day.
 
----
+## Day 4 — Tuesday, Sep 22: 🎂 Birthday 🔴 Silver Week Holiday
 
-## Day 4 — Tuesday, Sep 22: 🎂 Birthday Day 🔴 Bridge Holiday
+**Holiday:** Statutory holiday between Respect for the Aged Day and the Autumnal Equinox.
+**Theme:** Garden, Ginza, digital art and a special kaiseki dinner.
 
-**Theme: Special day — Tsukiji morning, Ginza, Birthday Dinner**
+- **08:30** Birthday breakfast at the hotel or a café near Akasaka.
+- **09:30** Visit **Hamarikyu Gardens**.
+- **10:30** Have matcha and wagashi at **Nakajima no Ochaya**, the teahouse on the pond.
+- **11:30** Continue to **Ginza** for Ginza Six, Mitsukoshi and Sony’s current Ginza exhibition/showroom if of interest.
+- **13:00** Depachika lunch in the **Mitsukoshi Ginza basement food halls, primarily B2**. Browse wagashi, prepared foods and bento; use B3 for premium fruit, fresh food, groceries, cheese or wine.
+- **14:00 — Choose one:**
+  - **Recovery plan — recommended:** return to the Akasaka hotel for a meaningful rest, shower and change.
+  - **Borderless plan:** visit **teamLab Borderless at Azabudai Hills** with a timed **15:00–16:30** ticket, then return to the hotel for a shorter rest and change.
+- **Approximately 18:15** Leave the hotel for Nishi-Azabu.
+- **19:00 — Jushu (壽修) ✅ BOOKED:** Kansai-style kaiseki at 1F Saita Building, 2-16-1 Nishi-Azabu, Minato-ku, approximately nine minutes on foot from Omotesando Station. Five counter seats and six table seats; chef Masaki Senzaki; ingredient-led seafood, vegetables and Saga beef; approximately ten Nabeshima sakes may be available. Smart casual; no shorts or sandals; avoid strong perfume; arrive at least five minutes early. Submit dietary restrictions in advance; day-of requests are not accepted. Fish/bonito/dashi and soy-related allergies require particular care.
+- **After dinner — optional:** finish the evening after the kaiseki or have one spontaneous drink around Nishi-Azabu, Roppongi or Akasaka.
 
-> ⚠️ National holiday (bridge day between two holidays). Imperial Palace East Gardens are **likely closed today** — when a Monday holiday falls, the gardens close on Tuesday as substitute. Birthday plan has been adjusted accordingly.
+Reconfirm Jushu’s exceptional public-holiday service through OMAKASE or the restaurant one to two weeks before travel.
 
-- **09:00** Head to **Tsukiji Outer Market** (築地場外市場) — the market is in full swing from 7 AM to early afternoon. Arrive by 9 AM for the best energy. Graze your way through: tamagoyaki (sweet omelette), grilled scallops, fresh uni, tuna skewers. This is your birthday brunch
-- **11:00** Walk to nearby **Hamarikyu Gardens** (浜離宮恩賜庭園, ¥300) — a stunning Edo-era garden with a tea house on a pond, framed by modern skyscrapers. Have matcha and wagashi at the **Nakajima no Ochaya** tea house on the water. A peaceful birthday morning moment
-- **12:30** Walk to **Ginza** (~15 min from Hamarikyu) — window shop the department stores, visit the Sony showroom or Ginza Six
-- **13:30** **Depachika experience** at Mitsukoshi Ginza B1 — sample wagashi, buy bento for lunch, try everything
-- **15:00** Free time — shopping, rest, or visit **TeamLab Borderless** (book timed-entry tickets in advance, ¥3,600 online). Use this time to recharge before dinner
-- **19:00** 🎂 **BIRTHDAY DINNER — Jushu (壽修)** ✅ BOOKED
-  - **Kansai-style kaiseki** · 1F Saita Building, 2-16-1 Nishi-Azabu, Minato-ku · Omotesando 9-min walk (~15 min from Akasaka via Chiyoda line). Michelin One Star 2023-2026 (2★ 2018-2022)
-  - **~¥28,000 pp** Chef's OMAKASE course (tax + service incl., paid in advance)
-  - Chef Masaki Senzaki — ingredient-led kaiseki, signature **Saga beef** from his hometown + ~10 Nabeshima Saga sakes. Intimate room (counter 5 + table 6). Hours 18:00-24:00, closed Sun & public holidays
-  - **Booked via OMAKASE** (omakaseje.com/restaurants/bd545579) — **Tue Sep 22, 19:00 seating**
-  - Smart casual (no shorts/sandals); arrive 5 min early or auto-cancelled; ⚠️ **cannot accept fish allergies incl. bonito/dashi** — flag any dietary restriction in advance (no day-of requests)
-- **21:00** Birthday drinks at a cocktail bar — try **Bar High Five** (moved 2024 to B1F Efflore Ginza 5 Bldg, 5-4-15 Ginza). ⚠️ Walk-in is unreliable in recent reports — **reserve via Instagram DM or call +81 3-3571-5815**. Or a Roppongi bar
+## Day 5 — Wednesday, Sep 23: Explorer Day 🔴 Autumnal Equinox Day
 
----
+**Holiday:** Autumnal Equinox Day and the final day of Silver Week.
 
-## Day 5 — Wednesday, Sep 23: Explorer Day — Choose Your Track 🔴 Autumnal Equinox Day
+#### Recommended Track A — Gardens, Kanda and old commercial Tokyo
 
-**Theme: Off-beaten-path exploration — pick based on your mood!**
+- **09:00** **Koishikawa Korakuen** for 75–90 minutes.
+- **10:45** Continue to **Kanda Myojin Shrine**.
+- **11:30** Explore Ochanomizu’s musical-instrument shops and the exterior of **Nikolai Cathedral**; general tourist viewing inside is closed on national holidays.
+- **12:15** Lunch near Kanda or Ochanomizu: classic tonkatsu or a small soba restaurant.
+- **13:30** Continue to **Nihonbashi** for Coredo Muromachi and the original Mitsukoshi department store.
+- **15:30** Continue to Tokyo Station and Marunouchi for the restored red-brick station, KITTE and the Marunouchi streetscape.
+- **17:00** Return to Akasaka and rest.
 
-> ⚠️ Last day of Silver Week. Major parks and gardens (Shinjuku Gyoen, Ueno) will be extremely crowded. Both tracks below focus on areas less affected by holiday crowds.
+#### Alternative Track B — Canal, design and vintage neighbourhoods
 
-### 🅰️ Track A: Cultural Walk — Gardens, Temples & Hidden Tokyo
+- **09:00** **Nakameguro** canal walk and coffee at Onibus.
+- **10:30** Walk to **Daikanyama** for T-Site/Tsutaya Books, Log Road and optional Spring Valley Brewery.
+- **12:15** Lunch around Nakameguro or Daikanyama. Afuri’s yuzu-shio ramen remains an option if its branch and hours are convenient.
+- **13:30 — Choose one:** **Shimokitazawa** if skipped on Day 3, or **Koenji** for vintage and punk culture, including Sokkyou and Hayatochiri.
+- **16:30** Return to Akasaka.
 
-- **09:00** Head to **Koishikawa Korakuen** (小石川後楽園, ¥300) — one of Tokyo's oldest gardens, far less crowded than Shinjuku Gyoen even on holidays. Beautiful Edo-era strolling garden
-- **10:30** Walk to **Kanda area** — visit **Kanda Myojin Shrine** (anime-themed ema, important Edo-era shrine)
-- **11:30** Explore **Ochanomizu** — musical instrument shops lining the street, Nikolai Cathedral (unexpected Russian Orthodox church in Tokyo)
-- **12:00** Lunch: Classic tonkatsu near Kanda or a hidden soba shop
-- **13:30** Head to **Nihonbashi** (日本橋) — historic merchant district. Coredo Muromachi for modern Japanese craft goods. Visit the original Mitsukoshi department store (Japan's oldest, founded 1673)
-- **15:30** Walk to **Tokyo Station** area — explore the beautifully restored Marunouchi station building, browse KITTE shopping complex (former central post office)
-- **17:00** Return to hotel, rest
-- **19:00** Dinner: Akasaka local izakaya or Korean food (Akasaka has a great Korean food scene)
-- **21:00** Head to **Omoide Yokocho** for a farewell Silver Week yakitori
+**Evening for either track:** dinner near Akasaka — Korean-influenced food, yakitori or an izakaya — followed by at most one relaxed local drink.
 
-### 🅱️ Track B: Cool Neighborhoods — Vintage, Vinyl & Vibes
+## Day 6 — Thursday, Sep 24: Classic Tokyo and Grand Sumo
 
-- **09:00** Head to **Nakameguro** — canal-side walk, boutique browsing, coffee at Onibus
-- **10:30** Walk to **Daikanyama** — Tsutaya Books (stunning design bookstore), Log Road (converted rail line with craft beer at Spring Valley Brewery)
-- **12:00** Lunch: **Afuri ramen** in Nakameguro (yuzu shio — light, citrusy, legendary)
-- **13:30** Train to **Shimokitazawa** (下北沢) — 3 min from Shibuya. Vintage shops, record stores, quirky cafes, Bonus Track courtyard. Try Bear Pond Espresso (legendary coffee)
-- **15:30** Train to **Koenji** — even more vintage, more punk, more authentic. Browse Sokkyou and Hayatochiri for rare finds
-- **17:00** Return to hotel, rest
-- **19:00** Dinner: Korean-influenced restaurants on Akasaka's side streets (the area has a great Korean food scene)
-- **21:00** Return to Shinjuku for evening bars
+**Theme:** Asakusa, a focused museum visit, games and electronics in Akihabara, then the best part of the Aki Basho. Route: **Asakusa → Ueno → Akihabara → Ryogoku**.
 
----
+Before sightseeing, forward the main suitcase from Hotel Monterey directly to the Kyoto hotel, following the hotel’s confirmed collection cutoff. Pack it on the evening of Day 5 and retain one small bag for the final Tokyo night and both Shuzenji nights. Confirm that the Kyoto hotel will accept and hold it.
 
-## Day 6 — Thursday, Sep 24: Classic Tokyo — Post-Silver Week! ✅
+- **08:00** Arrive at **Senso-ji** and explore the temple grounds before the shopping street is fully active.
+- **Approximately 09:00–09:20** Walk through **Nakamise-dori** as shops begin opening.
+- **09:20** Visit the free observation level at the **Asakusa Culture Tourist Information Center**.
+- **Approximately 09:40** Travel to Ueno.
+- **10:15–11:45** **Tokyo National Museum** for a focused 90-minute visit to the Honkan Japanese Gallery. General collection admission is currently ¥1,000. Buy the flexible collection ticket online beforehand to avoid possible ticket-counter queues.
+- **12:00–12:45** Lunch at **Ameyoko Market**.
+- **13:00–14:45** **Akihabara**. Select only two anchors: Yodobashi Akiba for modern electronics; Super Potato for retro games; GiGO or TAITO Station in place of either if playing matters more than browsing; Mandarake Complex only if second-hand games, manga, figures or collectables are a particular interest.
+- **14:50** Start making your way to Akihabara Station.
+- **Approximately 15:00–15:15** Take the JR Chuo-Sobu local line to **Ryogoku** and walk to Ryogoku Kokugikan.
+- **15:15–15:30** Enter, find the seats and buy refreshments.
+- **15:30–18:00** Attend **Day 12 of the September Grand Sumo Tournament**. This window should normally capture the top-division ring-entering ceremony, the highest-ranked wrestlers and the closing bouts, although exact Day 12 minutes are not guaranteed.
+- **Approximately 18:45–19:00** Farewell Tokyo dinner in **Ryogoku**. Choose chanko-nabe or a nearby izakaya; reserve on a tournament evening.
 
-**Theme: Major attractions at normal crowd levels, then prepare for Izu**
+Kanda Myojin remains part of Day 5 Track A. If Track B is selected, accept that the shrine may be omitted rather than squeezing it between Akihabara and sumo.
 
-> 💡 Silver Week ended yesterday! Today is the first regular weekday — perfect for hitting Tokyo's most popular spots with manageable crowds.
-
-- **08:00** Head to **Senso-ji Temple** (浅草寺) via Metro (~25 min from Akasaka-mitsuke). On a Thursday morning, crowds are very reasonable. Walk through **Nakamise-dori** shopping street — pick up snacks and souvenirs
-- **09:30** Walk along the Sumida River to **Asakusa Culture Tourist Information Center** (free observation deck with Skytree views)
-- **10:00** Head to **Ueno** (5 min by Metro). Visit **Ueno Park** — choose one museum (Tokyo National Museum recommended for first-timers, ¥1,000)
-- **11:30** Lunch at **Ameyoko Market** (アメ横) — street food stalls, fresh seafood, grilled skewers. Busy but authentic market energy
-- **13:00** Metro to **Imperial Palace East Gardens** (皇居東御苑) — free, beautiful, peaceful. Definitely open on Thursdays. The serene gardens and Edo castle ruins are a highlight
-- **14:30** Walk to **Akihabara** (~15 min) — electronics, anime, manga, gaming. Explore Super Potato (retro games), Mandarake (manga/figures)
-- **16:00** Visit **Kanda Shrine** nearby — anime-themed ema (prayer plaques), peaceful contrast to Akihabara energy
-- **17:00** Pack a two-night bag for Shuzenji. Ask Hotel Monterey to forward the large cases directly to the Kyoto hotel; confirm delivery timing and keep medication/valuables with you
-- **19:00** Farewell Tokyo dinner — try something you haven't yet. Suggestion: **yakitori under the tracks at Yurakucho** (atmospheric!)
-
----
+**Tsukiji standby:** if it becomes a priority, use the September 24 regular business day and substitute it for either the Asakusa morning or the museum-and-Ameyoko section. Do not add it on top.
 
 ## Day 7 — Friday, Sep 25: Tokyo → Shuzenji Onsen
 
-**Theme: Tokaido transfer, historic Izu onsen town, Kikuya check-in**
+- **Morning** Breakfast and checkout from Hotel Monterey Akasaka. Carry only the two-night Shuzenji bag.
+- **Approximately 10:15–10:30** Leave Akasaka for Tokyo Station via the Marunouchi Line.
+- **Approximately 11:00** Arrive at Tokyo Station with time to navigate the platforms and buy an ekiben or drink.
+- **12:00 — Limited Express Odoriko 9:** Tokyo Station → Shuzenji Station.
+- **14:06** Arrive Shuzenji. The direct journey takes 2h06 and has reserved seating.
+- Take the local Tokai bus for approximately eight minutes and alight at **Shuzenji Onsen**, the stop named by Kikuya. The ryokan has no shuttle.
+- Arrive shortly before the **15:00** check-in.
 
-- **10:00** Check out of Hotel Monterey Akasaka. Forward large luggage directly to the Kyoto hotel and travel with a two-night bag
-- **10:00–11:00** Metro/taxi to Tokyo Station; allow time to collect food and find the Tokaido Shinkansen platforms
-- **~11:00** **Tokyo → Mishima** by Tokaido Shinkansen, about 60 min. SmartEX ordinary reserved fare currently **£23 pp (¥4,400)**
-- **~12:15** Lunch around Mishima Station, then take the **Izu-Hakone Railway Sunzu Line** to Shuzenji, about 30 min (**£3 pp / ¥550**)
-- **~14:00** Tokai Bus from Shuzenji Station to Kikuya, about 8 min. Confirm the exact alighting stop with the driver; the hotel does not operate a shuttle
-- **15:00** Check in at **Shuzenji Onsen Yukairou Kikuya**, 874-1 Shuzenji, Izu, Shizuoka 410-2416 · +81 558-72-2130
-- **Room/plan:** 35m² Japanese-style room with two futons (booking label: “twin”); dinner and breakfast included both nights; **£872 (¥165,600)** total, payable on site
-- **16:00** First bath. Kikuya has four free private source-fed baths, used without reservation when vacant; keep each session to about 40 min
-- **17:30 or 19:45** Included dinner at Kikuya; seating is selected at check-in, first come
-- **Evening** Quiet walk beside the Katsura River, then another private bath
-
-**Kikuya practicals:** normal check-out is 11:00. Private baths are available 24 hours; communal baths run 15:00–25:00 and 05:00–10:00. Kikuya publishes no explicit tattoo rule: use of the private baths does not prove communal-bath access — confirm directly before relying on the communal baths.
+The direct **09:00–11:08 Odoriko** is the early alternative if several hours around Shuzenji before check-in are deliberately preferred. The Tokaido Shinkansen to Mishima, Izuhakone Railway to Shuzenji and local bus remain the disruption fallback.
 
 ---
 
@@ -320,16 +311,16 @@ If the morning is gorgeous and you want forest-and-village atmosphere instead:
 | Route | Method | Time | Cost (per person) |
 |-------|--------|------|-------------------|
 | HND → Akasaka | Keikyu + Metro | ~50 min | ~¥700 |
-| Tokyo → Mishima | Tokaido Shinkansen (SmartEX reserved) | ~60 min | ¥4,400 |
-| Mishima → Shuzenji | Izu-Hakone Railway Sunzu Line | ~30 min | ¥550 |
-| Shuzenji Station ↔ Kikuya | Tokai Bus | ~8 min each way | confirm current fare |
+| Tokyo → Shuzenji | Limited Express Odoriko 9 (reserved) | 2h06 | confirm at booking |
+| Shuzenji Station ↔ Kikuya | Tokai Bus; Shuzenji Onsen stop | ~8 min each way | confirm current fare |
+| Shuzenji → Mishima | Izu-Hakone Railway Sunzu Line | ~30 min | ¥550 |
 | Mishima → Kyoto | Tokaido Shinkansen (SmartEX reserved) | varies by service | ¥11,110 |
 | Kyoto → Nara | JR or Kintetsu | 45 min | ¥720 |
 | Nara → Osaka | Kintetsu to Namba | 40 min | ¥570 |
 | Osaka → Tokyo (departure day) | Nozomi (reserved) | ~2h30m | ¥14,720 |
 | Tokyo Stn → HND | Keikyu / Monorail | ~35 min | ~¥500 |
 
-**Indicative intercity transit for 2: ~¥68,700**, plus the short Tokai Bus legs. Recheck exact Sep 25/27 trains and buses before booking.
+The exact Odoriko 9 fare remains to be confirmed at booking; the other listed fares are current planning figures. Recheck the September 25 and 27 services and the Tokai Bus timetable before travel.
 
 > ⚠️ **Oversized baggage rule:** On the Tokaido Shinkansen, bags exceeding 160cm total dimensions (length + width + height) require reserving a seat with "oversized baggage area." Book via SmartEX app. Standard suitcases (~157cm) usually fit under the limit, but measure yours before travelling.
 

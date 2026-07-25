@@ -12,13 +12,12 @@ One of the few Tokyo neighborhoods that survived WWII bombing. Old wooden houses
 
 ### Walking Route (~2 hours)
 
-1. Start at **Nippori Station** west exit
-2. Walk through **Yanaka Cemetery** — atmospheric, beautiful, many famous people buried here. Cherry trees line the paths
-3. Turn into the narrow residential lanes — spot old wooden houses and tiny shrines
-4. Emerge at **Yanaka Ginza** shopping street — the highlight. Small local shops, street food, handmade goods
-5. Try **menchi-katsu** (deep-fried meat patties) from a street vendor
-6. Walk south through quiet temple streets toward **Nezu Shrine**
-7. End at **Nezu Shrine** — one of Tokyo's oldest and most beautiful. Famous for its tunnel of vermillion torii gates (a smaller, uncrowded version of Fushimi Inari)
+1. Start at **Nezu Station** and walk to **Nezu Shrine** — one of Tokyo's oldest and most beautiful, with a tunnel of vermilion torii gates
+2. Continue north through the quiet temple-lined streets towards Yanaka
+3. Walk along the edge of **Yanaka Cemetery** — atmospheric and lined with cherry trees
+4. Explore the narrow residential lanes, old wooden houses and tiny shrines
+5. Finish at **Yanaka Ginza** shopping street once its small shops and food counters are open
+6. Try **menchi-katsu** (deep-fried meat patties) and browse the local shops
 
 ### Where to Eat
 

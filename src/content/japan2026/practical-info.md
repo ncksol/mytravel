@@ -24,7 +24,8 @@
 - **SmartEX app** — book Shinkansen tickets in English, use QR code at gates
 - **Taxis:** Metered, honest, doors open automatically. Use as backup when transit stops (~midnight)
 - **Walking:** Many neighborhoods are best explored on foot. Wear comfortable shoes
-- **Shuzenji transfer:** Tokyo→Mishima by Tokaido Shinkansen, Mishima→Shuzenji by Izu-Hakone Railway, then Tokai Bus to Kikuya (~8 min). There is no hotel shuttle; recheck exact Sep 25/27 services before travel
+- **Shuzenji transfer:** reserve **Odoriko 9, Tokyo 12:00 → Shuzenji 14:06**, then take the Tokai Bus for approximately eight minutes and alight at **Shuzenji Onsen**. There is no hotel shuttle. The Tokyo→Mishima→Shuzenji route is the disruption fallback
+- **Luggage forwarding:** pack the main suitcase on Sep 23 and hand it to Hotel Monterey before leaving on Sep 24, subject to the hotel’s collection cutoff. Forward it directly to the Kyoto hotel and carry only a two-night bag to Shuzenji. Confirm the Kyoto hotel’s acceptance and delivery timing
 
 ## Etiquette Basics
 - **Bowing:** A slight bow is appreciated when greeting, thanking, or saying goodbye

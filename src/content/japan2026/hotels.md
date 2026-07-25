@@ -24,7 +24,7 @@
 | Meals | Dinner and breakfast included both nights |
 | Payment | Full ¥165,600 balance on site · cash or credit card; no electronic/QR payment |
 | Check-in/out | 15:00 / 11:00 |
-| Access | Tokyo→Mishima Shinkansen ~60 min → Sunzu Line ~30 min → Tokai Bus ~8 min; no hotel shuttle |
+| Access | Odoriko 9 direct: Tokyo 12:00 → Shuzenji 14:06; Tokai Bus ~8 min to Shuzenji Onsen; no hotel shuttle. Mishima route retained as fallback |
 | Baths | Four free private source-fed baths, no reservation, ~40 min when vacant; communal baths also available |
 | Details still needed | Exact room bath, full Japanese room-category name, second-night menu variation and written tattoo policy |
 

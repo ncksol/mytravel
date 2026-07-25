@@ -7,13 +7,14 @@
 | Item | Status | Notes |
 |------|--------|-------|
 | 🎂 Birthday dinner — **Jushu** (Sep 22, 19:00) | ✅ **BOOKED** | Tue Sep 22, 19:00 seating. ~¥28,000 pp (Chef's OMAKASE course, £295 for two). Michelin 1★ 2023-2026, Nishi-Azabu (Omotesando 9-min walk). Booked via OMAKASE (omakaseje.com/restaurants/bd545579). ⚠️ Cannot accept fish allergies incl. bonito/dashi — flag any dietary restriction in advance. |
+| 🤼 Grand Sumo — **Day 12, Ryogoku** (Sep 24) | ⬜ Not booked | Sales open **Aug 8 at 10:00 JST / 02:00 BST** on the official English Ticket Oosumo site. Target weekday Chair B: **£37 pp (¥7,000)** including the mandatory ¥2,000 service fee; **£74 (¥14,000) for two**. Print at 7-Eleven in Japan; non-refundable. |
 | 🍱 Kawadoko lunch — **Ugenta**, Kibune (Sep 30) | ⬜ Not booked | **Time-critical — Sep 30 is the season's last day.** Riverside platform kaiseki, lunch from ¥9,900 pp. Book 3+ days ahead via ugenta.co.jp (window typically ~1 month out). Backup: **Hirobun** (nagashi-somen, no res, 1-2h queue). ⚠️ **Kifune Club is permanently closed.** |
 | Onsen stay — **Yukairou Kikuya**, Shuzenji (Sep 25-27) | ✅ **BOOKED** | Two nights / two adults · **35m² Japanese-style room with two futons** (booking label: “twin”) · dinner and breakfast both nights · **£872 (¥165,600)** · payable on site · check-in 15:00 / check-out 11:00. |
-| TeamLab Borderless (Sep 22 or flexible) | ⬜ Not booked | Azabudai Hills. Timed entry, ¥3,600 pp online + ¥200 on-site. Dynamic pricing — book early. Open daily 8:30-21:00 |
+| teamLab Borderless at Azabudai Hills (Sep 22 or flexible) | ⬜ Not booked | Timed entry, ¥3,600 pp online + ¥200 on-site. Dynamic pricing — book early. Open daily 8:30-21:00 |
 
 ### ♨️ Yukairou Kikuya — confirmed booking
 
-- Official access: Tokyo → Mishima by Tokaido Shinkansen (~60 min), Mishima → Shuzenji by Izu-Hakone Railway (~30 min), then Tokai Bus (~8 min). No hotel shuttle.
+- Arrival route: **Odoriko 9 direct, Tokyo 12:00 → Shuzenji 14:06**, then Tokai Bus for approximately eight minutes to **Shuzenji Onsen**. No hotel shuttle. The Mishima route is the disruption fallback.
 - Four private source-fed baths are free, first-come when vacant and limited to about 40 min; the official FAQ lists them as available 24 hours.
 - Communal bath hours: 15:00-25:00 and 05:00-10:00.
 - **Booked room:** 35m² Japanese-style room with two individual futons. The confirmation labels it “twin”; Nick confirmed this refers to the futon arrangement, not Western twin beds. The full Japanese room-category text did not render legibly.
@@ -31,8 +32,8 @@
 | Tokyo hotel — Akasaka (Sep 19-25, 6 nights) | ✅ Pre-booked | **Hotel Monterey Akasaka** — £137/night (free cancellation). ⚠️ Silver Week premium reflected in price |
 | Kyoto hotel (Sep 27-Oct 1, 4 nights) | ✅ Booked | **Mitsui Garden Hotel Kyoto Shinmachi Bettei** — £314.84 total / 4 nights (~£79/night), Standard Queen. Karasuma side, 7 min from Shijo |
 | Osaka hotel (Oct 1-3, 2 nights) | ✅ Booked | **Via Inn Prime Shinsaibashi Yotsubashi** — £181 total/2nt (~£91/night), Deluxe Double (180cm king), room-only. JR-West, Yotsubashi station 1 min; ~12 min walk / 1 metro stop to Dotonbori |
-| SmartEX Tokyo→Mishima (Sep 25) | ⬜ Not booked | Ordinary reserved fare currently **£23 pp (¥4,400)**. Then buy the Izu-Hakone Railway ticket to Shuzenji (**£3 pp / ¥550**) and Tokai Bus fare locally. Recheck exact Sep 25 services before booking. |
-| Shibuya Sky tickets (Sep 21) | ⬜ Not booked | ¥2,700 pp (online, before 15:00) / ¥3,400 (after 15:00). Timed entry — tickets release midnight JST 14 days ahead and sell out fast |
+| Odoriko 9 Tokyo→Shuzenji (Sep 25) | ⬜ Not booked | Reserve **Tokyo 12:00 → Shuzenji 14:06**; all ordinary-car seats can be reserved. Recheck the fare at purchase. Keep the Tokyo→Mishima→Shuzenji connection as disruption insurance. |
+| Shibuya Sky tickets (Sep 21) | ⬜ Not booked | Target approximately 16:30: **£18 pp (¥3,400)**. Tickets release **Sep 7 at 00:00 JST / Sep 6 at 16:00 BST**; recheck the policy shortly beforehand and book promptly. |
 
 ## 📝 Book 1 Week Ahead / On Arrival
 
@@ -40,7 +41,9 @@
 |------|--------|-------|
 | Shinkansen Mishima→Kyoto (Sep 27) | ⬜ Not booked | SmartEX ordinary reserved fare currently **£58 pp (¥11,110)**. Prefer a westbound Hikari that stops at Mishima; otherwise follow SmartEX's Kodama/transfer routing. ⚠️ Baggage 161-250cm requires an oversized-baggage seat. |
 | Nozomi Shin-Osaka→Tokyo (Oct 3, departure day) | ⬜ Not booked | ~¥14,720 pp reserved, ~11:00 or 12:00 departure for a 3h+ HND cushion. SmartEX app. ⚠️ Same oversized luggage rule |
-| Luggage forwarding (takkyubin) — Tokyo→Kyoto, Kyoto→Osaka | ⬜ Not booked | Forward large cases from Hotel Monterey directly to Kyoto on Sep 25; carry a two-night bag to Shuzenji. Confirm the Kyoto hotel's acceptance and delivery timing before sending. |
+| Luggage forwarding (takkyubin) — Tokyo→Kyoto, Kyoto→Osaka | ⬜ Not booked | Pack on Sep 23 and hand the large cases to Hotel Monterey before leaving on Sep 24, subject to its collection cutoff. Forward directly to Kyoto and carry a two-night bag to Shuzenji. Confirm the Kyoto hotel's acceptance and delivery timing before sending. |
+| Jushu public-holiday service | ⬜ Reconfirm | The Sep 22 reservation is confirmed, but the restaurant's general listing closes on public holidays. Reconfirm the exceptional service through OMAKASE or the restaurant one to two weeks before arrival. |
+| Tokyo National Museum collection ticket (Sep 24) | ⬜ Optional advance purchase | Buy the flexible collection ticket online to avoid a possible main-gate ticket-counter queue. |
 | Kikuya final checks | ⬜ Not done | Confirmation processed: 35m² Japanese-style futon room, half board, ¥165,600, pay on site. Ask Kikuya whether this exact room has an in-room bath and obtain written tattoo rules for private and communal baths. |
 
 ## 📱 Pre-Trip Setup

@@ -4,10 +4,10 @@
 
 | Restaurant | Area | Price/pp | Style | Notes |
 |-----------|------|----------|-------|-------|
-| **Jushu (壽修)** ✅ | Nishi-Azabu | ~¥28,000 pp | Kansai kaiseki | **BOOKED — Tue Sep 22, 19:00.** Michelin 1★ 2023-2026 (2★ 2018-2022). Chef Masaki Senzaki; signature Saga beef + Nabeshima Saga sake. Intimate (counter 5 + table 6). 18:00-24:00, closed Sun. Omotesando 9-min walk. Booked via OMAKASE (omakaseje.com/restaurants/bd545579) |
+| **Jushu (壽修)** ✅ | Nishi-Azabu | ~¥28,000 pp | Kansai kaiseki | **BOOKED — Tue Sep 22, 19:00.** Michelin 1★ 2023-2026 (2★ 2018-2022). Chef Masaki Senzaki; signature Saga beef + Nabeshima Saga sake. Intimate (counter 5 + table 6). Omotesando 9-min walk. General listing closes Sun/public holidays; reconfirm this exceptional holiday service one to two weeks ahead. Booked via OMAKASE (omakaseje.com/restaurants/bd545579) |
 | Sushi Yoshitake | Ginza | ¥56,000+ | Omakase sushi | *Alt (elite, big splurge).* **Delisted from Michelin Guide 2025** but still OAD/Tabelog top-tier. Booking is now **monthly rolling rounds via OMAKASE** (the old "noon JST on the 15th" rule is out of date) |
 
-**Booking tips:** Reserve as early as the window allows — Silver Week (Sep 19-23 are national holidays) makes premium tables brutal. Flag the birthday and any **fish/dashi allergy** — ⚠️ Jushu cannot accept fish allergies (incl. bonito/katsuodashi), no day-of requests. Smart casual; arrive 5 min early or risk auto-cancellation. **Bar High Five** for birthday drinks: moved 2024 to B1F Efflore Ginza 5 Bldg — **walk-in is unreliable in recent reports; reserve via Instagram DM or call +81 3-3571-5815.**
+**Booking tips:** Reserve as early as the window allows — Silver Week (Sep 19-23) makes premium tables difficult. Flag the birthday and any **fish/dashi allergy** — ⚠️ Jushu cannot accept fish allergies (incl. bonito/katsuodashi), and day-of requests are not accepted. Smart casual; arrive 5 min early or risk auto-cancellation. After dinner, either finish the birthday evening there or have one spontaneous drink around Nishi-Azabu, Roppongi or Akasaka.
 
 ---
 
@@ -17,9 +17,9 @@
 | Spot | Area | Specialty | Price |
 |------|------|-----------|-------|
 | **Fuunji** | Shinjuku | Tsukemen (dipping noodles) | ~¥1,000 |
-| **Iruca Tokyo** | Roppongi | Porcini shoyu, truffle | ~¥1,500 |
+| **Iruca Tokyo** | Roppongi | Porcini shoyu, truffle; Tue-Sun only, closed Monday | ~¥1,500 |
 | **Ginza Kagari** | Ginza | Chicken paitan (creamy) | ~¥1,200 |
-| **Ramen Matsui** | Shinjuku Gyoenmae | Art-level presentation | ~¥1,500 (reservation-only, 8 seats, via Instagram/X DM ~2 weeks ahead — or substitute walk-in Fuunji/Iruca) |
+| **Ramen Matsui** | Shinjuku Gyoenmae | Art-level presentation | ~¥1,500 (reservation-only, 8 seats, via Instagram/X DM ~2 weeks ahead — or substitute walk-in Fuunji; Iruca is not a Monday option) |
 
 ### Izakaya
 | Spot | Area | Known For | Price Range |
@@ -32,7 +32,7 @@
 ### Depachika (Department Store Food Halls)
 | Store | Highlights |
 |-------|-----------|
-| **Mitsukoshi Ginza B1** | Wagashi, onigiri, premium bento |
+| **Mitsukoshi Ginza B2-B3** | B2 wagashi, prepared food and bento; B3 premium fruit, fresh food, groceries, cheese and wine |
 | **Isetan Shinjuku B1** | Best overall — sushi, wagyu, sweets |
 | **Daimaru Tokyo Station** | Ekiben (train bento), karaage |
 

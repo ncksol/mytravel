@@ -21,8 +21,8 @@
 | Route | Cost (2 ppl) |
 |-------|-------------|
 | Airport transfer HND → Akasaka (arrival) | £7 · ¥1,400 |
-| SmartEX Tokyo→Mishima (reserved, 2 people) | £46 · ¥8,800 |
-| Izu-Hakone Railway Mishima↔Shuzenji (2 people) | £12 · ¥2,200 |
+| Odoriko 9 Tokyo→Shuzenji (2 people; planning allowance pending purchase) | £52 · ¥9,900 allowance |
+| Izu-Hakone Railway Shuzenji→Mishima (2 people) | £6 · ¥1,100 |
 | Tokai Bus Shuzenji Station↔Kikuya (planning allowance; verify current fare) | £6 · ¥1,200 allowance |
 | SmartEX Mishima→Kyoto (reserved, 2 people) | £117 · ¥22,220 |
 | Nozomi Shin-Osaka→Tokyo (departure day, reserved) | £155 · ¥29,440 |
@@ -51,8 +51,9 @@ Note: Kikuya's two dinners and two breakfasts are included in accommodation, so 
 | Item | Cost (2 ppl) |
 |------|-------------|
 | Tokyo National Museum | ¥2,000 · £11 |
-| Shibuya Sky (online, daytime) | ¥5,400 · £28 |
-| TeamLab Borderless (online) | ¥7,200 · £38 |
+| Shibuya Sky (online, 16:30 slot) | ¥6,800 · £36 |
+| teamLab Borderless at Azabudai Hills (online) | ¥7,200 · £38 |
+| Grand Sumo Day 12 — Chair B incl. English-site fees | ¥14,000 · £74 |
 | Koishikawa Korakuen | ¥600 · £3 |
 | Hamarikyu Gardens | ¥600 · £3 |
 | Kiyomizu-dera | ¥1,000 · £5 |
@@ -67,7 +68,7 @@ Note: Kikuya's two dinners and two breakfasts are included in accommodation, so 
 | Osaka Castle (new price from Apr 2025) | ¥2,400 · £13 |
 | Gekkeikan Sake Museum | ¥1,200 · £6 |
 | Various small temples | ¥3,000 · £16 |
-| **Activities Total** | **¥36,400 · £192** |
+| **Activities Total** | **¥51,800 · £273** |
 
 ## Miscellaneous
 
@@ -87,11 +88,11 @@ Note: Kikuya's two dinners and two breakfasts are included in accommodation, so 
 | Accommodation | ¥415,810 | £2,188 |
 | Transport | ¥94,840 | £499 |
 | Food | ¥248,300 | £1,307 |
-| Activities | ¥36,400 | £192 |
+| Activities | ¥51,800 | £273 |
 | Miscellaneous | ¥65,000 | £342 |
-| **TOTAL** | **¥860,350** | **£4,528** |
+| **TOTAL** | **¥875,750** | **£4,609** |
 
-### 💰 Buffer remaining: \~£472 (\~¥89,650)
+### 💰 Buffer remaining: \~£391 (\~¥74,250)
 
 This leaves a buffer for:
 - Extra shopping/souvenirs
@@ -103,5 +104,5 @@ This leaves a buffer for:
 - Birthday dinner is **~£295 for two at Jushu** (1★ Michelin 2023-2026, ~¥28,000 pp for the Chef's OMAKASE course) — the trip's standout meal
 - Kawadoko lunch at Ugenta (~£104 for two) is the second food splurge — end-of-season, Sep 30 only
 - Daily food budget outside splurges averages \~¥5,200 pp (\~£27) — very comfortable in Japan
-- Transport uses individual SmartEX tickets plus the Izu-Hakone Railway; a JR Pass does not fit the date spread or cover the private Izu connection
+- Transport uses the direct Odoriko 9 to Shuzenji, the one-way Izu-Hakone Railway return to Mishima and individual SmartEX tickets; a JR Pass does not fit the date spread or fully cover the private Izu connection
 - All Shinkansen prices are for reserved seats (recommended for comfort, especially with luggage)
