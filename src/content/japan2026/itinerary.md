@@ -113,7 +113,7 @@ Reconfirm Jushu’s exceptional public-holiday service through OMAKASE or the re
 
 **Theme:** Asakusa, a focused museum visit, games and electronics in Akihabara, then the best part of the Aki Basho. Route: **Asakusa → Ueno → Akihabara → Ryogoku**.
 
-Before sightseeing, forward the main suitcase from Hotel Monterey directly to the Kyoto hotel, following the hotel’s confirmed collection cutoff. Pack it on the evening of Day 5 and retain one small bag for the final Tokyo night and both Shuzenji nights. Confirm that the Kyoto hotel will accept and hold it.
+Before sightseeing, hand the main suitcase to Hotel Monterey’s front desk for **prepaid Yamato TA-Q-BIN** delivery to Mitsui Garden Hotel Kyoto Shinmachi Bettei. Pack it on the evening of Day 5 and retain one small bag for the final Tokyo night and both Shuzenji nights. Request delivery on Sep 26 for the Sep 27 check-in. Do not dispatch until the Kyoto hotel has confirmed that it will accept and hold the prepaid case.
 
 - **08:00** Arrive at **Senso-ji** and explore the temple grounds before the shopping street is fully active.
 - **Approximately 09:00–09:20** Walk through **Nakamise-dori** as shops begin opening.
@@ -260,7 +260,7 @@ If the morning is gorgeous and you want forest-and-village atmosphere instead:
 
 **Theme: Kyoto checkout, Nara's giant Buddha + deer, then settle into Osaka**
 
-- **10:00** Check out of Kyoto hotel (forward luggage to Osaka hotel via takkyubin, or use coin lockers)
+- **10:00** Check out of the Kyoto hotel with the small travelling bag. The main suitcase should already be with Yamato en route to Haneda Terminal 3, having been handed over on Sep 30—or Sep 29 if the route-specific cutoff required it
 - **10:30** Train to **Nara** (~45 min, ¥720 by JR or Kintetsu)
 - **11:30** **Nara Park** — the famous bowing deer (deer crackers ¥200/stack)
 - **12:00** **Todai-ji** (東大寺, ¥800) — the giant bronze Buddha, jaw-dropping
@@ -296,11 +296,11 @@ If the morning is gorgeous and you want forest-and-village atmosphere instead:
 
 **Theme: Direct Osaka-to-airport departure day**
 
-- **09:00** Relaxed checkout from Via Inn Prime. Last Osaka breakfast / Shinsaibashi stroll
-- **~10:15** Walk ~7 min to **Shinsaibashi** → **Midōsuji line direct to Shin-Osaka** (~15 min, no transfer) with luggage
-- **~11:00-12:00** **Nozomi Shin-Osaka → Tokyo** (~2h30m, ~¥14,720 pp reserved). ⚠️ Oversized luggage (>160cm total) needs a special seat — book via SmartEX. *(Either the 11:00 or 12:00 departure leaves a 3h+ cushion before the evening flight.)*
+- **09:00** Relaxed checkout from Via Inn Prime with the small travelling bag. Last Osaka breakfast / Shinsaibashi stroll
+- **~10:15** Walk ~7 min to **Shinsaibashi** → **Midōsuji line direct to Shin-Osaka** (~15 min, no transfer)
+- **~11:00-12:00** **Nozomi Shin-Osaka → Tokyo** (~2h30m, ~¥14,720 pp reserved). The main suitcase should be waiting at Haneda, so no oversized-baggage seat is needed. If direct airport forwarding could not be confirmed and the case is travelling with you, reserve the correct seat for any case totalling 161-250cm
 - **~14:30** Arrive Tokyo → transfer to **Haneda (HND)**. From Tokyo Station: ~30-40 min via Keikyu/monorail
-- **~16:00** At HND with comfortable buffer. Dinner airside / last konbini haul
+- **~16:15** At HND Terminal 3. Collect the main suitcase from the **Yamato receipt counter, 2F Arrival Lobby**, using the sender receipt; then take it to Air China check-in. Dinner airside / last konbini haul
 - **19:15** ✈️ Depart **CA168 HND → PEK** (Air China, T3) → CA851 PEK 02:50 → LGW 06:35 (Oct 4)
   - ⚠️ Confirm CA168 exact departure with the airline — your booking shows 19:20, schedule databases show 19:15. Either is fine for buffer, but worth a clean check-in window
 
@@ -322,7 +322,7 @@ If the morning is gorgeous and you want forest-and-village atmosphere instead:
 
 The exact Odoriko 9 fare remains to be confirmed at booking; the other listed fares are current planning figures. Recheck the September 25 and 27 services and the Tokai Bus timetable before travel.
 
-> ⚠️ **Oversized baggage rule:** On the Tokaido Shinkansen, bags exceeding 160cm total dimensions (length + width + height) require reserving a seat with "oversized baggage area." Book via SmartEX app. Standard suitcases (~157cm) usually fit under the limit, but measure yours before travelling.
+> ⚠️ **Oversized baggage fallback:** The main case should be forwarded to Haneda and therefore absent from the Oct 3 Shinkansen. If it must travel with you instead, a bag totalling 161-250cm requires a seat with an oversized-baggage area/compartment; measure it before booking.
 
 ## JR Pass Verdict: ❌ Skip It
 

@@ -29,8 +29,8 @@
 | Tokyo Station → HND (departure day) | £5 · ¥1,000 |
 | Kyoto→Nara→Osaka trains | £14 · ¥2,580 |
 | Local transit (Metro/bus, ~¥1,000 pp/day × 11 days) | £116 · ¥22,000 |
-| Luggage forwarding (takkyubin) | £21 · ¥4,000 |
-| **Transport Total** | **£499 · ¥94,840** |
+| Luggage forwarding — Tokyo→Kyoto + Kyoto→Haneda | £32 · ¥6,000 allowance |
+| **Transport Total** | **£510 · ¥96,840** |
 
 ## Food
 
@@ -86,13 +86,13 @@ Note: Kikuya's two dinners and two breakfasts are included in accommodation, so 
 | Category | JPY | GBP |
 |----------|-----|-----|
 | Accommodation | ¥415,810 | £2,188 |
-| Transport | ¥94,840 | £499 |
+| Transport | ¥96,840 | £510 |
 | Food | ¥248,300 | £1,307 |
 | Activities | ¥51,800 | £273 |
 | Miscellaneous | ¥65,000 | £342 |
-| **TOTAL** | **¥875,750** | **£4,609** |
+| **TOTAL** | **¥877,750** | **£4,620** |
 
-### 💰 Buffer remaining: \~£391 (\~¥74,250)
+### 💰 Buffer remaining: \~£380 (\~¥72,250)
 
 This leaves a buffer for:
 - Extra shopping/souvenirs
@@ -105,4 +105,5 @@ This leaves a buffer for:
 - Kawadoko lunch at Ugenta (~£104 for two) is the second food splurge — end-of-season, Sep 30 only
 - Daily food budget outside splurges averages \~¥5,200 pp (\~£27) — very comfortable in Japan
 - Transport uses the direct Odoriko 9 to Shuzenji, the one-way Izu-Hakone Railway return to Mishima and individual SmartEX tickets; a JR Pass does not fit the date spread or fully cover the private Izu connection
+- Luggage forwarding carries a conservative **¥6,000 allowance** for Hotel Monterey→Kyoto and Kyoto→Haneda. Published Size 140-160 planning fares total approximately ¥5,280-5,920 before any hotel handling fee
 - All Shinkansen prices are for reserved seats (recommended for comfort, especially with luggage)
