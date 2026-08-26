@@ -21,16 +21,16 @@
 | Route | Cost (2 ppl) |
 |-------|-------------|
 | Airport transfer HND → Akasaka (arrival) | £7 · ¥1,400 |
-| Odoriko 9 Tokyo→Shuzenji (2 people; planning allowance pending purchase) | £52 · ¥9,900 allowance |
+| Odoriko 9 Tokyo→Shuzenji (paid application, 2 people) | £88 · ¥16,769 |
 | Izu-Hakone Railway Shuzenji→Mishima (2 people) | £6 · ¥1,100 |
 | Tokai Bus Shuzenji Station↔Kikuya (planning allowance; verify current fare) | £6 · ¥1,200 allowance |
-| SmartEX Mishima→Kyoto (reserved, 2 people) | £117 · ¥22,220 |
-| Nozomi Shin-Osaka→Tokyo (departure day, reserved) | £155 · ¥29,440 |
-| Tokyo Station → HND (departure day) | £5 · ¥1,000 |
+| SmartEX Mishima→Kyoto Green Car request (2 people) | £155 · ¥29,540 |
+| SmartEX Nozomi Shin-Osaka→Shinagawa request (2 people) | £153 · ¥29,040 |
+| Shinagawa → HND T3 (departure day) | £5 · ¥1,000 allowance |
 | Kyoto→Nara→Osaka trains | £14 · ¥2,580 |
 | Local transit (Metro/bus, ~¥1,000 pp/day × 11 days) | £116 · ¥22,000 |
 | Luggage forwarding — Tokyo→Kyoto + Kyoto→Haneda | £32 · ¥6,000 allowance |
-| **Transport Total** | **£510 · ¥96,840** |
+| **Transport Total** | **£582 · ¥110,629** |
 
 ## Food
 
@@ -53,7 +53,6 @@ Note: Kikuya's two dinners and two breakfasts are included in accommodation, so 
 | Tokyo National Museum | ¥2,000 · £11 |
 | Shibuya Sky (online, 16:30 slot) | ¥6,800 · £36 |
 | teamLab Borderless at Azabudai Hills (online) | ¥7,200 · £38 |
-| Grand Sumo Day 12 — Chair B incl. English-site fees | ¥14,000 · £74 |
 | Koishikawa Korakuen | ¥600 · £3 |
 | Hamarikyu Gardens | ¥600 · £3 |
 | Kiyomizu-dera | ¥1,000 · £5 |
@@ -68,7 +67,7 @@ Note: Kikuya's two dinners and two breakfasts are included in accommodation, so 
 | Osaka Castle (new price from Apr 2025) | ¥2,400 · £13 |
 | Gekkeikan Sake Museum | ¥1,200 · £6 |
 | Various small temples | ¥3,000 · £16 |
-| **Activities Total** | **¥51,800 · £273** |
+| **Activities Total** | **¥37,800 · £199** |
 
 ## Miscellaneous
 
@@ -86,13 +85,13 @@ Note: Kikuya's two dinners and two breakfasts are included in accommodation, so 
 | Category | JPY | GBP |
 |----------|-----|-----|
 | Accommodation | ¥415,810 | £2,188 |
-| Transport | ¥96,840 | £510 |
+| Transport | ¥110,629 | £582 |
 | Food | ¥248,300 | £1,307 |
-| Activities | ¥51,800 | £273 |
+| Activities | ¥37,800 | £199 |
 | Miscellaneous | ¥65,000 | £342 |
-| **TOTAL** | **¥877,750** | **£4,620** |
+| **TOTAL** | **¥877,539** | **£4,619** |
 
-### 💰 Buffer remaining: \~£380 (\~¥72,250)
+### 💰 Buffer remaining: \~£381 (\~¥72,461)
 
 This leaves a buffer for:
 - Extra shopping/souvenirs
@@ -104,6 +103,6 @@ This leaves a buffer for:
 - Birthday dinner is **~£295 for two at Jushu** (1★ Michelin 2023-2026, ~¥28,000 pp for the Chef's OMAKASE course) — the trip's standout meal
 - Kawadoko lunch at Ugenta (~£104 for two) is the second food splurge — end-of-season, Sep 30 only
 - Daily food budget outside splurges averages \~¥5,200 pp (\~£27) — very comfortable in Japan
-- Transport uses the direct Odoriko 9 to Shuzenji, the one-way Izu-Hakone Railway return to Mishima and individual SmartEX tickets; a JR Pass does not fit the date spread or fully cover the private Izu connection
+- Transport includes the **¥16,769 paid Odoriko application**, the one-way Izu-Hakone Railway return to Mishima and two **booked SmartEX advance requests**: Mishima→Kyoto Green Car at ¥29,540 and Shin-Osaka→Shinagawa at ¥29,040. The Odoriko ticket arrangement and both SmartEX train/seat assignments remain pending
 - Luggage forwarding carries a conservative **¥6,000 allowance** for Hotel Monterey→Kyoto and Kyoto→Haneda. Published Size 140-160 planning fares total approximately ¥5,280-5,920 before any hotel handling fee
 - All Shinkansen prices are for reserved seats (recommended for comfort, especially with luggage)

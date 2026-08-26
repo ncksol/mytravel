@@ -24,8 +24,8 @@
 - **SmartEX app** — book Shinkansen tickets in English, use QR code at gates
 - **Taxis:** Metered, honest, doors open automatically. Use as backup when transit stops (~midnight)
 - **Walking:** Many neighborhoods are best explored on foot. Wear comfortable shoes
-- **Shuzenji transfer:** reserve **Odoriko 9, Tokyo 12:00 → Shuzenji 14:06**, then take the Tokai Bus for approximately eight minutes and alight at **Shuzenji Onsen**. There is no hotel shuttle. The Tokyo→Mishima→Shuzenji route is the disruption fallback
-- **Luggage forwarding:** use two prepaid Yamato sends: Hotel Monterey Akasaka → Kyoto on Sep 24, then Kyoto → Haneda Airport on Sep 29 or 30. The main case therefore bypasses Shuzenji, Nara, Osaka and the final Shinkansen
+- **Shuzenji transfer:** **Odoriko 9, Tokyo 12:00 → Shuzenji 14:06** is a paid NAVITIME application awaiting ticket arrangement and paper-ticket collection details. Then take the Tokai Bus for approximately eight minutes and alight at **Shuzenji Onsen**. There is no hotel shuttle. The Tokyo→Mishima→Shuzenji route is the disruption fallback
+- **Luggage forwarding:** use two prepaid Yamato sends: Hotel Monterey Akasaka → Kyoto at checkout on Sep 25, then Kyoto → Haneda Airport on Sep 29 or 30. The main case therefore bypasses Shuzenji, Nara, Osaka and the final Shinkansen
 
 ## 🧳 Luggage Forwarding — Complete Guide
 
@@ -76,11 +76,11 @@ Official restrictions: [dangerous and prohibited items](https://www.kuronekoyama
 
 ### Transfer 1 — Tokyo → Kyoto, bypassing Shuzenji
 
-**Pack:** Wednesday Sep 23 before bed. The small bag must cover Thursday night in Tokyo and both Kikuya nights.
+**Pack:** Thursday Sep 24 after shopping. Put the Tokyo purchases into the main case; the small bag must cover both Kikuya nights and the journey to Kyoto.
 
-**Confirm before dispatch:** Mitsui Garden Hotel Kyoto Shinmachi Bettei must agree to accept a **prepaid Yamato suitcase** arriving Sep 25 or 26 for the Sep 27 reservation, hold it without a fee and confirm the label wording. Its official static pages advertise baggage support but do not publish the ordinary advance-receipt rule, so do not send until the hotel says yes.
+**Confirm at Hotel Monterey check-in on Sep 19:** ask the front desk to confirm its Sep 25 Yamato courier cutoff and contact Mitsui Garden Hotel Kyoto Shinmachi Bettei on **+81-75-257-1131**. Obtain a clear yes that the Kyoto hotel will accept the prepaid case arriving Sep 26, hold it until Sep 27 without a storage fee and accept the proposed label. If Monterey cannot obtain a definite answer, use the Kyoto hotel’s [official English inquiry form](https://support.gardenhotels.co.jp/hc/en-us/requests/new?ticket_form_id=360000555071&hoteltag=garden-kyoto-shinmachi-bettei).
 
-**Hand over:** Thursday Sep 24 before leaving for Asakusa. Hotel Monterey’s [official luggage FAQ](https://bot.talkappi.com/faq/cat?facility_cd=monterey-akasaka-qa&cd=03) says its front desk can arrange Yamato 24 hours a day.
+**Hand over:** Friday Sep 25 at checkout, after Hotel Monterey confirms that the morning handover meets that day’s courier cutoff. Its [official luggage FAQ](https://bot.talkappi.com/faq/cat?facility_cd=monterey-akasaka-qa&cd=03) says the front desk can arrange Yamato 24 hours a day. Yamato’s [official accommodation postcode tool](http://date.kuronekoyamato.co.jp/date/Main?LINK=LT), queried for 107-0052 → 604-8212 on Sep 25, gives Sep 26 delivery and permits accommodation use from Sep 27. Use Sep 24 only if either hotel cannot support the Sep 25 plan.
 
 **Waybill destination:**
 

@@ -12,7 +12,7 @@
 
 ---
 
-> ⚠️ **SILVER WEEK 2026 — September 19–23 is a rare and irregular five-day holiday sequence, the first equivalent run since 2015.** Use the holiday for neighbourhood exploration and reserve Asakusa, Ueno, Akihabara and Ryogoku for Thursday, September 24.
+> ⚠️ **SILVER WEEK 2026 — September 19–23 is a rare and irregular five-day holiday sequence, the first equivalent run since 2015.** Use the holiday for neighbourhood exploration and reserve Asakusa, Ueno, Akihabara and the main shopping block for Thursday, September 24.
 
 ## Day 1 — Saturday, Sep 19: Arrival
 
@@ -109,11 +109,11 @@ Reconfirm Jushu’s exceptional public-holiday service through OMAKASE or the re
 
 **Evening for either track:** dinner near Akasaka — Korean-influenced food, yakitori or an izakaya — followed by at most one relaxed local drink.
 
-## Day 6 — Thursday, Sep 24: Classic Tokyo and Grand Sumo
+## Day 6 — Thursday, Sep 24: Classic Tokyo and Shopping
 
-**Theme:** Asakusa, a focused museum visit, games and electronics in Akihabara, then the best part of the Aki Basho. Route: **Asakusa → Ueno → Akihabara → Ryogoku**.
+**Theme:** Asakusa, a focused museum visit, games and electronics in Akihabara, then Ueno/Okachimachi shopping with Ginza available if the first cluster leaves gaps. Route: **Asakusa → Ueno → Akihabara → Okachimachi/Ueno → optional Ginza**.
 
-Before sightseeing, hand the main suitcase to Hotel Monterey’s front desk for **prepaid Yamato TA-Q-BIN** delivery to Mitsui Garden Hotel Kyoto Shinmachi Bettei. Pack it on the evening of Day 5 and retain one small bag for the final Tokyo night and both Shuzenji nights. Request delivery on Sep 26 for the Sep 27 check-in. Do not dispatch until the Kyoto hotel has confirmed that it will accept and hold the prepaid case.
+Keep the main case in Tokyo through the shopping day. At Hotel Monterey check-in on Sep 19, ask the front desk to confirm its Sep 25 Yamato cutoff and contact Mitsui Garden Hotel Kyoto Shinmachi Bettei to confirm receipt and holding. Pack the shopping into the main case that evening; hand it over at checkout on Sep 25 with Sep 26 as the preferred delivery date. Use a Sep 24 handover only if either hotel cannot confirm the Sep 25 plan.
 
 - **08:00** Arrive at **Senso-ji** and explore the temple grounds before the shopping street is fully active.
 - **Approximately 09:00–09:20** Walk through **Nakamise-dori** as shops begin opening.
@@ -122,22 +122,25 @@ Before sightseeing, hand the main suitcase to Hotel Monterey’s front desk for 
 - **10:15–11:45** **Tokyo National Museum** for a focused 90-minute visit to the Honkan Japanese Gallery. General collection admission is currently ¥1,000. Buy the flexible collection ticket online beforehand to avoid possible ticket-counter queues.
 - **12:00–12:45** Lunch at **Ameyoko Market**.
 - **13:00–14:45** **Akihabara**. Select only two anchors: Yodobashi Akiba for modern electronics; Super Potato for retro games; GiGO or TAITO Station in place of either if playing matters more than browsing; Mandarake Complex only if second-hand games, manga, figures or collectables are a particular interest.
-- **14:50** Start making your way to Akihabara Station.
-- **Approximately 15:00–15:15** Take the JR Chuo-Sobu local line to **Ryogoku** and walk to Ryogoku Kokugikan.
-- **15:15–15:30** Enter, find the seats and buy refreshments.
-- **15:30–18:00** Attend **Day 12 of the September Grand Sumo Tournament**. This window should normally capture the top-division ring-entering ceremony, the highest-ranked wrestlers and the closing bouts, although exact Day 12 minutes are not guaranteed.
-- **Approximately 18:45–19:00** Farewell Tokyo dinner in **Ryogoku**. Choose chanko-nabe or a nearby izakaya; reserve on a tournament evening.
+- **14:45** Return one stop from Akihabara to Okachimachi.
+- **15:00–15:30** **GU Okachimachi** for value jeans, casualwear and T-shirts. Skip promptly if the current range does not appeal.
+- **15:35–16:05** **mita sneakers** for specialist trainers, collaborations and Japan-exclusive releases.
+- **16:10–17:05** **HINOYA Main Store** for Japanese denim and heritage casualwear. This is the priority fitting block; allow longer if comparing several denim cuts.
+- **17:10 — Decision point:**
+  - **Continue in Ueno:** use **@cosme STORE Ueno Marui** for beauty and **JINS atré Ueno** for sunglasses, then take the Ginza Line directly to Akasaka-mitsuke.
+  - **Ginza backup:** if bags, mainstream basics, another trainer range or deeper beauty shopping remain, take the Hibiya Line from Ueno or Naka-okachimachi to Ginza. Prioritise **PORTER GINZA** and **Onitsuka Tiger Ginza** before their 20:00 closing, then use **UNIQLO Ginza** or **GU Ginza**, **JINS Ginza**, and **Matsumoto Kiyoshi GINZA FLAG** as needed.
+- **Evening:** eat in the selected shopping district or return to Akasaka for an easy final Tokyo dinner. Keep this flexible rather than adding another reservation.
 
-Kanda Myojin remains part of Day 5 Track A. If Track B is selected, accept that the shrine may be omitted rather than squeezing it between Akihabara and sumo.
+Kanda Myojin remains part of Day 5 Track A. If Track B is selected, accept that the shrine may be omitted rather than squeezing it between Akihabara and the afternoon shopping block.
 
 **Tsukiji standby:** if it becomes a priority, use the September 24 regular business day and substitute it for either the Asakusa morning or the museum-and-Ameyoko section. Do not add it on top.
 
 ## Day 7 — Friday, Sep 25: Tokyo → Shuzenji Onsen
 
-- **Morning** Breakfast and checkout from Hotel Monterey Akasaka. Carry only the two-night Shuzenji bag.
+- **Morning** Breakfast, pack the Sep 24 purchases into the main case and hand it to Hotel Monterey for prepaid Yamato delivery to Kyoto. Use the Sep 27 stay date and reservation name on the waybill and request Sep 26 delivery. Check out carrying only the two-night Shuzenji bag.
 - **Approximately 10:15–10:30** Leave Akasaka for Tokyo Station via the Marunouchi Line.
 - **Approximately 11:00** Arrive at Tokyo Station with time to navigate the platforms and buy an ekiben or drink.
-- **12:00 — Limited Express Odoriko 9:** Tokyo Station → Shuzenji Station.
+- **12:00 — Limited Express Odoriko 9 — PAID APPLICATION:** Tokyo Station → Shuzenji Station. Two ordinary reserved seats have been requested through Japan Travel by NAVITIME for **¥16,769 total**; ticket arrangement, QR issuance and carriage/seat numbers remain pending. The eventual QR must be exchanged for all paper tickets before boarding.
 - **14:06** Arrive Shuzenji. The direct journey takes 2h06 and has reserved seating.
 - Take the local Tokai bus for approximately eight minutes and alight at **Shuzenji Onsen**, the stop named by Kikuya. The ryokan has no shuttle.
 - Arrive shortly before the **15:00** check-in.
@@ -167,7 +170,7 @@ The direct **09:00–11:08 Odoriko** is the early alternative if several hours a
 
 - **Morning** Included final Kikuya breakfast; one last private bath
 - **10:00** Check out comfortably before the 11:00 deadline. Tokai Bus to Shuzenji Station (~8 min), then the Izu-Hakone Railway to Mishima (~30 min)
-- **Late morning / noon** **Mishima → Kyoto** by westbound Tokaido Shinkansen. Prefer a Hikari that stops at Mishima; otherwise take a Kodama and make the connection shown by SmartEX. Current SmartEX ordinary reserved fare: **£58 pp (¥11,110)**
+- **11:46–13:37 — SmartEX booked advance request:** **Hikari 709, Mishima → Kyoto, Green Car**, **¥29,540 total for two**. The requested train and seats remain provisional until SmartEX processes the request on Aug 27; check the final assignment before travel.
 - **~14:00** Arrive Kyoto Station and have a quick station lunch if needed
 - **~15:00** Check into **Mitsui Garden Hotel Kyoto Shinmachi Bettei** (361 Rokkaku-cho, Shinmachi-dori — Karasuma side, 7 min from Shijo station)
 - **15:30** If energy and stall hours allow, walk through **Nishiki Market** (錦市場) — "Kyoto's Kitchen." Individual stalls vary and many close early on Sundays, so treat this as a short orientation rather than a guaranteed grazing session
@@ -296,10 +299,10 @@ If the morning is gorgeous and you want forest-and-village atmosphere instead:
 
 **Theme: Direct Osaka-to-airport departure day**
 
-- **09:00** Relaxed checkout from Via Inn Prime with the small travelling bag. Last Osaka breakfast / Shinsaibashi stroll
-- **~10:15** Walk ~7 min to **Shinsaibashi** → **Midōsuji line direct to Shin-Osaka** (~15 min, no transfer)
-- **~11:00-12:00** **Nozomi Shin-Osaka → Tokyo** (~2h30m, ~¥14,720 pp reserved). The main suitcase should be waiting at Haneda, so no oversized-baggage seat is needed. If direct airport forwarding could not be confirmed and the case is travelling with you, reserve the correct seat for any case totalling 161-250cm
-- **~14:30** Arrive Tokyo → transfer to **Haneda (HND)**. From Tokyo Station: ~30-40 min via Keikyu/monorail
+- **10:00** Check out from Via Inn Prime with the small travelling bag.
+- **~10:15** Walk ~7 min to **Shinsaibashi** → **Midōsuji Line direct to Shin-Osaka** (~15 min, no transfer).
+- **11:15–13:38 — SmartEX booked advance request:** **Nozomi 126, Shin-Osaka → Shinagawa**, ordinary reserved seats, **¥29,040 total for two**. The train and seats remain provisional until SmartEX processes the request on Sep 3. The main suitcase should be waiting at Haneda; if the fallback leaves a 161–250cm case travelling with you, change to the required oversized-baggage seat type after normal sales open, subject to availability.
+- **~13:45** Transfer at Shinagawa to the Keikyu Line for **Haneda Airport Terminal 3**.
 - **~16:15** At HND Terminal 3. Collect the main suitcase from the **Yamato receipt counter, 2F Arrival Lobby**, using the sender receipt; then take it to Air China check-in. Dinner airside / last konbini haul
 - **19:15** ✈️ Depart **CA168 HND → PEK** (Air China, T3) → CA851 PEK 02:50 → LGW 06:35 (Oct 4)
   - ⚠️ Confirm CA168 exact departure with the airline — your booking shows 19:20, schedule databases show 19:15. Either is fine for buffer, but worth a clean check-in window
@@ -311,16 +314,16 @@ If the morning is gorgeous and you want forest-and-village atmosphere instead:
 | Route | Method | Time | Cost (per person) |
 |-------|--------|------|-------------------|
 | HND → Akasaka | Keikyu + Metro | ~50 min | ~¥700 |
-| Tokyo → Shuzenji | Limited Express Odoriko 9 (reserved) | 2h06 | confirm at booking |
+| Tokyo → Shuzenji | Limited Express Odoriko 9 (paid application; issuance pending) | 2h06 | ~¥8,385 pp equivalent; ¥16,769 total |
 | Shuzenji Station ↔ Kikuya | Tokai Bus; Shuzenji Onsen stop | ~8 min each way | confirm current fare |
 | Shuzenji → Mishima | Izu-Hakone Railway Sunzu Line | ~30 min | ¥550 |
-| Mishima → Kyoto | Tokaido Shinkansen (SmartEX reserved) | varies by service | ¥11,110 |
+| Mishima → Kyoto | SmartEX Green Car request targeting Hikari 709 | 1h51 | ¥14,770 pp; ¥29,540 total |
 | Kyoto → Nara | JR or Kintetsu | 45 min | ¥720 |
 | Nara → Osaka | Kintetsu to Namba | 40 min | ¥570 |
-| Osaka → Tokyo (departure day) | Nozomi (reserved) | ~2h30m | ¥14,720 |
-| Tokyo Stn → HND | Keikyu / Monorail | ~35 min | ~¥500 |
+| Shin-Osaka → Shinagawa (departure day) | SmartEX request targeting Nozomi 126 | 2h23m | ¥14,520 pp; ¥29,040 total |
+| Shinagawa → HND T3 | Keikyu Line | ~20 min | verify live fare |
 
-The exact Odoriko 9 fare remains to be confirmed at booking; the other listed fares are current planning figures. Recheck the September 25 and 27 services and the Tokai Bus timetable before travel.
+Odoriko 9 is paid but awaiting ticket arrangement and paper-ticket collection details. Both SmartEX journeys are booked advance requests; recheck the final train and seat assignments after processing on Aug 27 and Sep 3. Recheck the Tokai Bus timetable before travel.
 
 > ⚠️ **Oversized baggage fallback:** The main case should be forwarded to Haneda and therefore absent from the Oct 3 Shinkansen. If it must travel with you instead, a bag totalling 161-250cm requires a seat with an oversized-baggage area/compartment; measure it before booking.
 
