@@ -40,9 +40,8 @@
 | Lunch (casual — ramen, market food, etc.) | ¥4,000 · £21 | 13 | ¥52,000 · £274 |
 | Dinner (regular nights — izakaya, restaurants) | ¥8,000 · £42 | 10 | ¥80,000 · £421 |
 | 🎂 Birthday dinner — Jushu (2 ppl) | — | 1 | ¥56,000 · £295 |
-| Kawadoko lunch — Ugenta, Kibune (2 ppl) | — | 1 | ¥19,800 · £104 |
 | Snacks, drinks, coffee, konbini | ¥1,500 · £8 | 14 | ¥21,000 · £111 |
-| **Food Total** | | | **¥248,300 · £1,307** |
+| **Food Total** | | | **¥228,500 · £1,203** |
 
 Note: Kikuya's two dinners and two breakfasts are included in accommodation, so no separate ryokan-meal contingency is required.
 
@@ -86,12 +85,12 @@ Note: Kikuya's two dinners and two breakfasts are included in accommodation, so 
 |----------|-----|-----|
 | Accommodation | ¥415,810 | £2,188 |
 | Transport | ¥110,629 | £582 |
-| Food | ¥248,300 | £1,307 |
+| Food | ¥228,500 | £1,203 |
 | Activities | ¥37,800 | £199 |
 | Miscellaneous | ¥65,000 | £342 |
-| **TOTAL** | **¥877,539** | **£4,619** |
+| **TOTAL** | **¥857,739** | **£4,514** |
 
-### 💰 Buffer remaining: \~£381 (\~¥72,461)
+### 💰 Buffer remaining: \~£486 (\~¥92,261)
 
 This leaves a buffer for:
 - Extra shopping/souvenirs
@@ -101,7 +100,6 @@ This leaves a buffer for:
 ### Budget Notes
 - Kikuya costs **£872 (¥165,600)** for two nights with dinner and breakfast; those four included meals are carried in accommodation rather than the food subtotal
 - Birthday dinner is **~£295 for two at Jushu** (1★ Michelin 2023-2026, ~¥28,000 pp for the Chef's OMAKASE course) — the trip's standout meal
-- Kawadoko lunch at Ugenta (~£104 for two) is the second food splurge — end-of-season, Sep 30 only
 - Daily food budget outside splurges averages \~¥5,200 pp (\~£27) — very comfortable in Japan
 - Transport includes the **¥16,769 paid Odoriko application**, the one-way Izu-Hakone Railway return to Mishima and two **booked SmartEX advance requests**: Mishima→Kyoto Green Car at ¥29,540 and Shin-Osaka→Shinagawa at ¥29,040. The Odoriko ticket arrangement and both SmartEX train/seat assignments remain pending
 - Luggage forwarding carries a conservative **¥6,000 allowance** for Hotel Monterey→Kyoto and Kyoto→Haneda. Published Size 140-160 planning fares total approximately ¥5,280-5,920 before any hotel handling fee

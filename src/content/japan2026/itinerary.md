@@ -210,7 +210,7 @@ The direct **09:00–11:08 Odoriko** is the early alternative if several hours a
 - **15:30** JR Nara line back toward Kyoto, alight at **Tōfuku-ji** (~15 min)
 - **15:50** **Tōfuku-ji** (東福寺) — one of the Five Great Zen Temples, founded 1236. Highlight: the **Hōjō Garden by Mirei Shigemori (1939)** — the chequerboard moss-and-stone modernist masterpiece. Hōjō garden ¥600. ⚠️ Last entry **15:30 sharp** (Apr-Oct 9:00-16:00) — be on the earlier train. ~60 min
 - **17:00** Train back to Kyoto centre
-- **~19:00** Light/mid dinner — Pontocho obanzai (Kyoto home cooking), or Nishiki area. **Not** another splurge (birthday + the Shuzenji stay + Wed kawadoko already cover the high-end experiences)
+- **~19:00** Light/mid dinner — Pontocho obanzai (Kyoto home cooking), or Nishiki area. **Not** another splurge (the birthday and Shuzenji stay already cover the high-end experiences)
 
 **Critical timing:** Tōfuku-ji last entry is 15:30 — keep the Uji morning efficient. If short on time, Tōfuku-ji is the drop; Uji alone is a complete day. All walk-up — no bookings needed.
 
@@ -237,9 +237,7 @@ If the morning is gorgeous and you want forest-and-village atmosphere instead:
 
 ## Day 12 — Wednesday, Sep 30: Kurama → Kibune Mountain Day
 
-**Theme: ancient cedar forest, mountain-temple history, kawadoko lunch over the river**
-
-> 🍁 **This is the last day of the 2026 kawadoko season** — the riverside dining platforms come down on Oct 1. It's now or never for this experience. Day return from your Kyoto base (you keep the Kyoto room — checkout is tomorrow).
+**Theme: ancient cedar forest, mountain-temple history and Kifune Shrine**
 
 - **10:00** Walk/Keihan to Demachiyanagi → **Eizan Railway** to Kurama (~30 min, ¥470 pp)
 - **10:50** Arrive **Kurama**. Optional cable car ¥200 to skip the first steep stretch, or walk the full path
@@ -247,15 +245,13 @@ If the morning is gorgeous and you want forest-and-village atmosphere instead:
 - **11:30** **Kurama-dera** main hall — founded 770 AD, Tengu legend, mountain-temple atmosphere. ~45 min
 - **12:15** Begin the **Kurama-to-Kibune trail** — ~1h forest hike, well-marked, mossy roots and ancient cedars
 - **13:15** Arrive **Kibune**. **Kifune Shrine** — lantern-lined stone stairway, water fortune-telling. ~20 min
-- **13:45** 🍱 **Kawadoko lunch at Ugenta** *(book 3+ days ahead via official site — 2026 season confirmed May 1 - Sep 30, lunch from ¥9,900 pp)*. Backup: **Hirobun** (nagashi-somen ¥2,000, no reservation, 1-2h queue — different, lower-key experience). ⚠️ **Kifune Club is permanently closed — do not use.**
+- **13:45** Flexible late lunch in Kibune; verify a suitable current option and its hours during the final pre-trip check
 - **15:30** Walk to Kibuneguchi → Eizan Railway back toward Demachiyanagi (~30 min)
 - **16:00** Alight at Demachiyanagi → 5 min walk to **Shimogamo Shrine** — UNESCO, set in the **Tadasu no Mori** primeval forest. Free, ~45 min
 - **17:00** Back to hotel area, rest
-- **~19:00** Light dinner — depachika bento at Takashimaya/Daimaru, or 300-year-old soba at **Honke Owariya** (~¥1,200 pp). **Not** a third sit-down splurge — kawadoko was the splurge
+- **~19:00** Light dinner — depachika bento at Takashimaya/Daimaru, or soba near the hotel
 
-**Weather contingency:** Ugenta and Hirobun move indoors if it rains; valley + temple + hike still work in light rain. Heavy rain = swap to Plan B (Daitoku-ji sub-temples + Walden Woods coffee + early Pontocho stroll). Decide morning-of from the JMA forecast.
-
-**Booking action:** Lock **Ugenta** the moment their Sep 30 window opens (typically ~1 month ahead). Site: ugenta.co.jp. This is the time-critical booking after the birthday omakase.
+**Weather contingency:** The valley, temple and hike can work in light rain. Heavy rain = swap to Plan B (Daitoku-ji sub-temples + Walden Woods coffee + early Pontocho stroll). Decide morning-of from the JMA forecast.
 
 ---
 
