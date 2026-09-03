@@ -37,8 +37,8 @@
 
 | Item | Status | Notes |
 |------|--------|-------|
-| Shinkansen Mishima→Kyoto (Sep 27) | ✅ **BOOKED ADVANCE REQUEST** | SmartEX Green Car request targeting **Hikari 709, 11:46–13:37**, **¥29,540 total for two**. Train and seats remain provisional until processing on Aug 27; check the final assignment. Only the small Shuzenji bag travels with you. |
-| Nozomi Shin-Osaka→Shinagawa (Oct 3) | ✅ **BOOKED ADVANCE REQUEST** | SmartEX ordinary reserved-seat request targeting **Nozomi 126, 11:15–13:38**, **¥29,040 total for two**. Train and seats remain provisional until processing on Sep 3. Continue by Keikyu to HND T3. |
+| Shinkansen Mishima→Kyoto (Sep 27) | ✅ **CONFIRMED** | SmartEX **Hikari 709, 11:46–13:37**, Green Car 10, seats **4-C and 4-D**, **¥29,540 total for two**. Only the small Shuzenji bag travels with you. |
+| Nozomi Shin-Osaka→Shinagawa (Oct 3) | ✅ **CONFIRMED** | SmartEX **Nozomi 126, 11:15–13:38**, ordinary Car 4, seats **19-D and 19-E**, **¥29,040 total for two**. Continue by Keikyu to HND T3. |
 | Luggage forwarding 1 — Tokyo→Kyoto | ⬜ Confirm hotels, then send | At Hotel Monterey check-in on Sep 19, ask its front desk to confirm the Sep 25 courier cutoff and contact the Kyoto hotel to confirm receipt/holding. Pack after Sep 24 shopping; hand the prepaid case over at checkout on Sep 25 and request Sep 26 delivery. Use Sep 24 only if the Sep 25 plan cannot be confirmed. |
 | Luggage forwarding 2 — Kyoto→Haneda T3 | ⬜ Confirm cutoff, then send | At Kyoto check-in on Sep 27, confirm the route-specific Airport TA-Q-BIN cutoff. Send on Sep 30, or Sep 29 if required, for Oct 3 collection. Use the airport-specific waybill with live CA168 time/terminal; keep the sender receipt. Fallback: ordinary prepaid TA-Q-BIN to Via Inn, then carry the case on the Nozomi. |
 | Jushu public-holiday service | ⬜ Reconfirm | The Sep 22 reservation is confirmed, but the restaurant's general listing closes on public holidays. Reconfirm the exceptional service through OMAKASE or the restaurant one to two weeks before arrival. |
@@ -53,6 +53,6 @@
 | Mobile Suica (iPhone) or buy Suica at airport | ⬜ Not done | For all local transit + konbini payments |
 | eSIM or pocket WiFi | ⬜ Not done | Order before departure. Ubigi, Airalo, or rent pocket WiFi |
 | Download offline maps (Google Maps) | ⬜ Not done | Download Tokyo, Shuzenji/Izu, Kyoto, Osaka and Nara |
-| SmartEX app | ✅ Set up | Advance requests submitted for Sep 27 and Oct 3; check final train and seat assignments after processing |
+| SmartEX app | ✅ Set up | Sep 27 and Oct 3 reservations confirmed with final train and seat assignments |
 | Tableall or Pocket Concierge account | ⬜ Not done | For restaurant reservations in English |
 | Download Tabelog app | ⬜ Not done | Japan's trusted restaurant reviews. 3.5+ = good, 3.7+ = excellent |

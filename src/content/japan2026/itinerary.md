@@ -170,7 +170,7 @@ The direct **09:00–11:08 Odoriko** is the early alternative if several hours a
 
 - **Morning** Included final Kikuya breakfast; one last private bath
 - **10:00** Check out comfortably before the 11:00 deadline. Tokai Bus to Shuzenji Station (~8 min), then the Izu-Hakone Railway to Mishima (~30 min)
-- **11:46–13:37 — SmartEX booked advance request:** **Hikari 709, Mishima → Kyoto, Green Car**, **¥29,540 total for two**. The requested train and seats remain provisional until SmartEX processes the request on Aug 27; check the final assignment before travel.
+- **11:46–13:37 — SmartEX confirmed:** **Hikari 709, Mishima → Kyoto**, Green Car 10, seats **4-C and 4-D**, **¥29,540 total for two**.
 - **~14:00** Arrive Kyoto Station and have a quick station lunch if needed
 - **~15:00** Check into **Mitsui Garden Hotel Kyoto Shinmachi Bettei** (361 Rokkaku-cho, Shinmachi-dori — Karasuma side, 7 min from Shijo station)
 - **15:30** If energy and stall hours allow, walk through **Nishiki Market** (錦市場) — "Kyoto's Kitchen." Individual stalls vary and many close early on Sundays, so treat this as a short orientation rather than a guaranteed grazing session
@@ -297,7 +297,7 @@ If the morning is gorgeous and you want forest-and-village atmosphere instead:
 
 - **10:00** Check out from Via Inn Prime with the small travelling bag.
 - **~10:15** Walk ~7 min to **Shinsaibashi** → **Midōsuji Line direct to Shin-Osaka** (~15 min, no transfer).
-- **11:15–13:38 — SmartEX booked advance request:** **Nozomi 126, Shin-Osaka → Shinagawa**, ordinary reserved seats, **¥29,040 total for two**. The train and seats remain provisional until SmartEX processes the request on Sep 3. The main suitcase should be waiting at Haneda; if the fallback leaves a 161–250cm case travelling with you, change to the required oversized-baggage seat type after normal sales open, subject to availability.
+- **11:15–13:38 — SmartEX confirmed:** **Nozomi 126, Shin-Osaka → Shinagawa**, ordinary Car 4, seats **19-D and 19-E**, **¥29,040 total for two**. The main suitcase should be waiting at Haneda; if the fallback leaves a 161–250cm case travelling with you, change to the required oversized-baggage seat type, subject to availability.
 - **~13:45** Transfer at Shinagawa to the Keikyu Line for **Haneda Airport Terminal 3**.
 - **~16:15** At HND Terminal 3. Collect the main suitcase from the **Yamato receipt counter, 2F Arrival Lobby**, using the sender receipt; then take it to Air China check-in. Dinner airside / last konbini haul
 - **19:15** ✈️ Depart **CA168 HND → PEK** (Air China, T3) → CA851 PEK 02:50 → LGW 06:35 (Oct 4)
@@ -313,13 +313,13 @@ If the morning is gorgeous and you want forest-and-village atmosphere instead:
 | Tokyo → Shuzenji | Limited Express Odoriko 9 (paid application; issuance pending) | 2h06 | ~¥8,385 pp equivalent; ¥16,769 total |
 | Shuzenji Station ↔ Kikuya | Tokai Bus; Shuzenji Onsen stop | ~8 min each way | confirm current fare |
 | Shuzenji → Mishima | Izu-Hakone Railway Sunzu Line | ~30 min | ¥550 |
-| Mishima → Kyoto | SmartEX Green Car request targeting Hikari 709 | 1h51 | ¥14,770 pp; ¥29,540 total |
+| Mishima → Kyoto | SmartEX confirmed: Hikari 709, Green Car 10, seats 4-C/4-D | 1h51 | ¥14,770 pp; ¥29,540 total |
 | Kyoto → Nara | JR or Kintetsu | 45 min | ¥720 |
 | Nara → Osaka | Kintetsu to Namba | 40 min | ¥570 |
-| Shin-Osaka → Shinagawa (departure day) | SmartEX request targeting Nozomi 126 | 2h23m | ¥14,520 pp; ¥29,040 total |
+| Shin-Osaka → Shinagawa (departure day) | SmartEX confirmed: Nozomi 126, ordinary Car 4, seats 19-D/19-E | 2h23m | ¥14,520 pp; ¥29,040 total |
 | Shinagawa → HND T3 | Keikyu Line | ~20 min | verify live fare |
 
-Odoriko 9 is paid but awaiting ticket arrangement and paper-ticket collection details. Both SmartEX journeys are booked advance requests; recheck the final train and seat assignments after processing on Aug 27 and Sep 3. Recheck the Tokai Bus timetable before travel.
+Odoriko 9 is paid but awaiting ticket arrangement and paper-ticket collection details. Both SmartEX journeys are confirmed with final train and seat assignments. Recheck the Tokai Bus timetable before travel.
 
 > ⚠️ **Oversized baggage fallback:** The main case should be forwarded to Haneda and therefore absent from the Oct 3 Shinkansen. If it must travel with you instead, a bag totalling 161-250cm requires a seat with an oversized-baggage area/compartment; measure it before booking.
 

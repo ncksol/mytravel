@@ -24,8 +24,8 @@
 | Odoriko 9 Tokyo→Shuzenji (paid application, 2 people) | £88 · ¥16,769 |
 | Izu-Hakone Railway Shuzenji→Mishima (2 people) | £6 · ¥1,100 |
 | Tokai Bus Shuzenji Station↔Kikuya (planning allowance; verify current fare) | £6 · ¥1,200 allowance |
-| SmartEX Mishima→Kyoto Green Car request (2 people) | £155 · ¥29,540 |
-| SmartEX Nozomi Shin-Osaka→Shinagawa request (2 people) | £153 · ¥29,040 |
+| SmartEX Hikari 709 Mishima→Kyoto, Green Car (2 people) | £155 · ¥29,540 |
+| SmartEX Nozomi 126 Shin-Osaka→Shinagawa, ordinary (2 people) | £153 · ¥29,040 |
 | Shinagawa → HND T3 (departure day) | £5 · ¥1,000 allowance |
 | Kyoto→Nara→Osaka trains | £14 · ¥2,580 |
 | Local transit (Metro/bus, ~¥1,000 pp/day × 11 days) | £116 · ¥22,000 |
@@ -101,6 +101,6 @@ This leaves a buffer for:
 - Kikuya costs **£872 (¥165,600)** for two nights with dinner and breakfast; those four included meals are carried in accommodation rather than the food subtotal
 - Birthday dinner is **~£295 for two at Jushu** (1★ Michelin 2023-2026, ~¥28,000 pp for the Chef's OMAKASE course) — the trip's standout meal
 - Daily food budget outside splurges averages \~¥5,200 pp (\~£27) — very comfortable in Japan
-- Transport includes the **¥16,769 paid Odoriko application**, the one-way Izu-Hakone Railway return to Mishima and two **booked SmartEX advance requests**: Mishima→Kyoto Green Car at ¥29,540 and Shin-Osaka→Shinagawa at ¥29,040. The Odoriko ticket arrangement and both SmartEX train/seat assignments remain pending
+- Transport includes the **¥16,769 paid Odoriko application**, the one-way Izu-Hakone Railway return to Mishima and two **confirmed SmartEX reservations**: Hikari 709 Mishima→Kyoto in Green Car 10, seats 4-C and 4-D, at ¥29,540; and Nozomi 126 Shin-Osaka→Shinagawa in ordinary Car 4, seats 19-D and 19-E, at ¥29,040. The Odoriko ticket arrangement remains pending
 - Luggage forwarding carries a conservative **¥6,000 allowance** for Hotel Monterey→Kyoto and Kyoto→Haneda. Published Size 140-160 planning fares total approximately ¥5,280-5,920 before any hotel handling fee
 - All Shinkansen prices are for reserved seats (recommended for comfort, especially with luggage)
