@@ -31,7 +31,7 @@ Akasaka is the recommended plan if jet lag is noticeable. Omoide Yokocho will be
 
 ## Day 2 — Sunday, Sep 20: Hidden Tokyo Neighbourhoods 🔴 Silver Week
 
-**Theme:** Older residential Tokyo, shrine lanes, bookshops and retro cafés. This is a moderate full day; Ochanomizu remains optional.
+**Theme:** Older residential Tokyo, shrine lanes, bookshops, retro cafés and a focused electronics-store visit. This is a full day.
 
 - **08:30** Breakfast at the hotel or pick up onigiri, fruit and coffee from a konbini.
 - **09:00** Travel from Akasaka to **Nezu Shrine** and explore its grounds and vermilion torii tunnel.
@@ -42,11 +42,12 @@ Akasaka is the recommended plan if jet lag is noticeable. Omoide Yokocho will be
 - **13:30** Explore Hyogo Yokocho, Kakurenbo Yokocho, small shrines and surviving ryotei façades.
 - **14:30** Continue to **Jimbocho** and browse vintage bookshops, including larger stores with foreign-language sections.
 - **15:30** Stop at **Ladrio**, the Sunday-opening traditional kissaten known for its Showa-era atmosphere and Wiener coffee.
-- **16:30 — Optional:** continue to **Ochanomizu** for musical-instrument shops and the Byzantine-style exterior of **Nikolai Cathedral**.
-- **17:30** Return to Akasaka and rest.
-- **19:00** Dinner near the hotel: yakitori, an izakaya or Korean food.
+- **16:20** Continue to Akihabara.
+- **16:30–17:30 — Bic Camera AKIBA:** focused browse of the seven retail floors. Prioritise the departments that actually interest you rather than attempting the whole store; computers and Apple are on 1F, gaming PCs and peripherals on 2F, phones/audio on 3F, cameras and watches on 5F, and games/toys on 7F.
+- **17:30–18:15** Return to Akasaka and rest.
+- **19:15** Dinner near the hotel: yakitori, an izakaya or Korean food.
 
-If Day 5 Track B is selected, Kanda Myojin may be added after Ochanomizu. Do not add Akihabara to this already varied day.
+Keep this to Bic Camera rather than extending into a second Akihabara shopping circuit. Ochanomizu remains covered on September 23.
 
 ## Day 3 — Monday, Sep 21: Meiji Shrine, Harajuku and Shibuya 🔴 Respect for the Aged Day
 
@@ -54,17 +55,19 @@ If Day 5 Track B is selected, Kanda Myojin may be added after Ochanomizu. Do not
 **Theme:** Modern Tokyo, fashion and pop culture.
 
 - **07:30** Arrive at **Meiji Shrine** and walk through the forested approach at its quietest.
-- **09:00** Walk towards **Omotesando** for architecture, streetscape and coffee before most shops open.
-- **10:00** Explore Harajuku: Takeshita Street, Omotesando and Cat Street.
-- **11:30** Lunch in the Omotesando/Harajuku area. **Maisen** remains the tonkatsu option, avoiding a later backtrack.
-- **12:45** Walk or take the train to **Shibuya** for Hachiko, the scramble crossing and browsing.
-- **13:45 — Decision point:** if energy is good, take the Keio Inokashira Line to **Shimokitazawa** for vintage shops, records, cafés and Bonus Track. Bear Pond Espresso is optional. If crowds or jet lag are tiring, return to the hotel instead.
-- **15:45** If visiting Shimokitazawa, return to Shibuya.
-- **Approximately 16:30** Timed entry to **Shibuya Sky**, positioned around sunset. Ordinary admission should release at **00:00 JST on September 7 — 16:00 BST on September 6**. Recheck the policy shortly beforehand and book promptly. The rooftop may close in poor weather; indoor observation areas normally remain available.
-- **18:00** Return to the hotel and rest.
-- **19:30** Dinner in **Roppongi**: a bookable izakaya or ramen restaurant with confirmed Monday public-holiday hours.
+- **09:00–09:45** Walk towards **Omotesando** for architecture, streetscape and coffee before most shops open. Finish within 500 metres of Tokyu Plaza Harajuku “Harakado”; both adults should already have LINE installed and the [official Tamagotchi Factory account](https://lin.ee/VJKQ4Yi) added. Check the [official entry and stock feed](https://x.com/TMGC_f_Info) before leaving the area.
+- **10:00 — Tamagotchi Factory digital ticket:** with LINE location permission enabled, each adult applies from within the 500-metre Harakado geofence. Do not form a physical queue; there is no waiting area before opening.
+- **10:00–11:00** Explore nearby Harajuku — Takeshita Street, Omotesando and Cat Street — while staying close enough to return when LINE sends the admission call.
+- **From 11:00 — Tamagotchi Factory:** enter when your ticket number is called. The permanent experience-led shop is on **Harakado 3F**, 6-31-21 Jingumae, and publishes 11:00–21:00 hours. Allow approximately 45–60 minutes for the shop, customisable merchandise and the shop-exclusive Mini Tama bottle-filling activity. The ticket controls admission but does not guarantee stock.
+- **Approximately 12:15** Lunch in the Omotesando/Harajuku area. **Maisen** remains the tonkatsu option, avoiding a later backtrack.
+- **Approximately 13:30** Walk or take the train to **Shibuya** for Hachiko, the scramble crossing and browsing.
+- **14:15 — Decision point:** if the Tamagotchi visit finished on time and energy is good, take the Keio Inokashira Line to **Shimokitazawa** for a compact vintage, records and Bonus Track circuit. Leave by **15:35** for Shibuya. If the LINE call ran late, skip Shimokitazawa and remain in Harajuku/Shibuya.
+- **16:20 — Shibuya Sky ✅ BOOKED.** This gives 80 minutes before Tokyo’s 17:40 sunset and enough margin for admission, the ascent and rooftop crowds. The rooftop may close in poor weather; indoor observation areas normally remain available.
+- **18:10–18:20** Leave after sunset and early blue-hour/night views.
+- **Approximately 19:00** Return to the hotel for a short rest.
+- **19:45** Dinner in **Roppongi**: a bookable izakaya or ramen restaurant with confirmed Monday public-holiday hours.
 
-Do not add Daikanyama or Nakameguro. If a sunset Shibuya Sky slot is unavailable, a daytime visit is still worthwhile without distorting the whole day.
+The Tamagotchi Factory visit and the fixed Shibuya Sky booking take priority over Shimokitazawa. Do not add Daikanyama or Nakameguro to this day.
 
 ## Day 4 — Tuesday, Sep 22: 🎂 Birthday 🔴 Silver Week Holiday
 
@@ -89,15 +92,21 @@ Reconfirm Jushu’s exceptional public-holiday service through OMAKASE or the re
 
 **Holiday:** Autumnal Equinox Day and the final day of Silver Week.
 
-#### Recommended Track A — Gardens, Kanda and old commercial Tokyo
+#### Recommended Track A — St Mary’s Cathedral, gardens, Kanda and old commercial Tokyo
 
-- **09:00** **Koishikawa Korakuen** for 75–90 minutes.
-- **10:45** Continue to **Kanda Myojin Shrine**.
-- **11:30** Explore Ochanomizu’s musical-instrument shops and the exterior of **Nikolai Cathedral**; general tourist viewing inside is closed on national holidays.
-- **12:15** Lunch near Kanda or Ochanomizu: classic tonkatsu or a small soba restaurant.
-- **13:30** Continue to **Nihonbashi** for Coredo Muromachi and the original Mitsukoshi department store.
-- **15:30** Continue to Tokyo Station and Marunouchi for the restored red-brick station, KITTE and the Marunouchi streetscape.
-- **17:00** Return to Akasaka and rest.
+- **08:20** Leave Hotel Monterey Akasaka and walk to the Akasaka-mitsuke/Nagatacho station complex.
+- Take the Yurakucho Line directly from **Nagatacho to Gokokuji**. Use Exit 6, then walk approximately ten minutes.
+- **09:00–09:45** Visit **St Mary’s Cathedral, Tokyo**, Kenzo Tange’s 1964 cathedral of curved concrete shells and stainless-steel cladding. See the exterior, detached bell tower and cross-lit main interior. Entry is conditional on there being no Mass or private event; keep quiet around worshippers.
+- **09:45–10:25** Return to Gokokuji Station, take the Yurakucho Line to Iidabashi and walk to **Koishikawa Korakuen**.
+- **10:30–11:45** Explore Koishikawa Korakuen.
+- **12:15** Continue to **Kanda Myojin Shrine**.
+- **12:45** Lunch near Kanda or Ochanomizu: classic tonkatsu or a small soba restaurant.
+- **13:30** Browse Ochanomizu’s musical-instrument shops and see the exterior of **Nikolai Cathedral**; general tourist viewing inside is closed on national holidays.
+- **14:30** Continue to **Nihonbashi** for Coredo Muromachi and the original Mitsukoshi department store.
+- **16:15–17:00** Continue to Tokyo Station and Marunouchi for the restored red-brick station, KITTE and the Marunouchi streetscape.
+- **17:00–17:15** Walk south through the Marunouchi/Kyobashi corridor to **AOKI Ginza flagship**, 1-11-1 Ginza.
+- **17:15–18:15** Try the **AOKI Pajama Suit** range. This is an officially designated large-format branch; allow the full hour for comparing fits, colours and separates. Exact size and colour stock should be checked or reserved shortly before visiting.
+- **18:15** Walk to Kyobashi Station and take the Ginza Line directly to Akasaka-mitsuke; reach the hotel around **18:45**.
 
 #### Alternative Track B — Canal, design and vintage neighbourhoods
 

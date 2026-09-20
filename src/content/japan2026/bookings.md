@@ -31,12 +31,13 @@
 | Kyoto hotel (Sep 27-Oct 1, 4 nights) | ✅ Booked | **Mitsui Garden Hotel Kyoto Shinmachi Bettei** — £314.84 total / 4 nights (~£79/night), Standard Queen. Karasuma side, 7 min from Shijo |
 | Osaka hotel (Oct 1-3, 2 nights) | ✅ Booked | **Via Inn Prime Shinsaibashi Yotsubashi** — £181 total/2nt (~£91/night), Deluxe Double (180cm king), room-only. JR-West, Yotsubashi station 1 min; ~12 min walk / 1 metro stop to Dotonbori |
 | Odoriko 9 Tokyo→Shuzenji (Sep 25) | 🟡 **PAID — AWAITING ISSUANCE** | Japan Travel by NAVITIME application for two ordinary reserved seats, **Tokyo 12:00 → Shuzenji 14:06**, **¥16,769 total**. Await ticket arrangement, QR issuance and carriage/seat numbers. Exchange the eventual QR for all paper tickets before boarding. Keep the Tokyo→Mishima→Shuzenji connection as disruption insurance. |
-| Shibuya Sky tickets (Sep 21) | ⬜ Not booked | Target approximately 16:30: **£18 pp (¥3,400)**. Tickets release **Sep 7 at 00:00 JST / Sep 6 at 16:00 BST**; recheck the policy shortly beforehand and book promptly. |
+| Shibuya Sky tickets (Sep 21) | ✅ **BOOKED** | Timed entry confirmed for **16:20**. Keep the ticket QR accessible; the recorded itinerary protects the sunset and early-night viewing window. |
 
 ## 📝 Book 1 Week Ahead / On Arrival
 
 | Item | Status | Notes |
 |------|--------|-------|
+| Tamagotchi Factory digital ticket (Sep 21) | ⚠️ **Same day at 10:00** | Both adults need LINE and the [official Factory account](https://lin.ee/VJKQ4Yi). Apply separately at 10:00 while within 500 metres of Harakado with location enabled. Admission is called through LINE from 11:00; do not form a physical queue. |
 | Shinkansen Mishima→Kyoto (Sep 27) | ✅ **CONFIRMED** | SmartEX **Hikari 709, 11:46–13:37**, Green Car 10, seats **4-C and 4-D**, **¥29,540 total for two**. Only the small Shuzenji bag travels with you. |
 | Nozomi Shin-Osaka→Shinagawa (Oct 3) | ✅ **CONFIRMED** | SmartEX **Nozomi 126, 11:15–13:38**, ordinary Car 4, seats **19-D and 19-E**, **¥29,040 total for two**. Continue by Keikyu to HND T3. |
 | Luggage forwarding 1 — Tokyo→Kyoto | ⬜ Confirm hotels, then send | At Hotel Monterey check-in on Sep 19, ask its front desk to confirm the Sep 25 courier cutoff and contact the Kyoto hotel to confirm receipt/holding. Pack after Sep 24 shopping; hand the prepaid case over at checkout on Sep 25 and request Sep 26 delivery. Use Sep 24 only if the Sep 25 plan cannot be confirmed. |
@@ -50,9 +51,13 @@
 
 | Item | Status | Notes |
 |------|--------|-------|
-| Mobile Suica (iPhone) or buy Suica at airport | ⬜ Not done | For all local transit + konbini payments |
-| eSIM or pocket WiFi | ⬜ Not done | Order before departure. Ubigi, Airalo, or rent pocket WiFi |
-| Download offline maps (Google Maps) | ⬜ Not done | Download Tokyo, Shuzenji/Izu, Kyoto, Osaka and Nara |
-| SmartEX app | ✅ Set up | Sep 27 and Oct 3 reservations confirmed with final train and seat assignments |
-| Tableall or Pocket Concierge account | ⬜ Not done | For restaurant reservations in English |
-| Download Tabelog app | ⬜ Not done | Japan's trusted restaurant reviews. 3.5+ = good, 3.7+ = excellent |
+| Japanese IC card | ⬜ Confirm | On iPhone, add Suica/PASMO/ICOCA directly in Apple Wallet; otherwise obtain a physical interoperable IC card |
+| Mobile data | ⬜ Confirm | Live data is important because offline Google Maps does not provide walking or public-transport directions |
+| Google Maps + Translate | ⬜ Confirm | Download the Tokyo, Izu/Shuzenji, Kyoto, Osaka and Nara map areas; download Japanese in Translate for offline camera/menu use |
+| Japan Travel by NAVITIME | ✅ Account used | Check the Odoriko issuance/collection status in My Page. Its collection QR cannot board the train; exchange it for paper tickets outside the gates |
+| SmartEX browser access | ✅ Set up | Save each passenger’s separate QR ticket and print both as backup. The app is not required |
+| Visit Japan Web | ⬜ Confirm | This is a web service at `vjw.digital.go.jp`, not an app; avoid imitation apps |
+| GO taxi + Uber fallback | ⬜ Confirm | If GO blocks foreign-number registration outside Japan, register after landing with precise location enabled and the home SIM able to receive its SMS code |
+| Safety tips | ⬜ Confirm | Enable English location-based earthquake, tsunami and severe-weather notifications |
+| LINE | ⚠️ Required Sep 21 | Required for each adult’s same-day Tamagotchi Factory digital ticket |
+| Tabelog English + TableCheck | ⬜ Bookmark | Use Google Maps for nearby discovery, Tabelog English as the Japanese-review cross-check and the restaurant’s official link or TableCheck for reservations |

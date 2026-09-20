@@ -20,9 +20,9 @@
 
 ## Getting Around
 - **Trains are king.** Tokyo Metro, JR lines, private railways cover everything
-- **Google Maps** works perfectly for transit directions in Japan — trust it for routes and times
-- **SmartEX app** — book Shinkansen tickets in English, use QR code at gates
-- **Taxis:** Metered, honest, doors open automatically. Use as backup when transit stops (~midnight)
+- **Google Maps** is the primary tool for live transit and walking routes; downloaded maps do not provide offline transit or walking directions
+- **SmartEX** works in the mobile browser. Save the separate QR ticket for each passenger and print both as backup
+- **Taxis:** GO is the main local dispatch app. If foreign-number registration is blocked outside Japan, register after landing with location enabled and the home SIM able to receive the SMS code; keep Uber as the immediate fallback
 - **Walking:** Many neighborhoods are best explored on foot. Wear comfortable shoes
 - **Shuzenji transfer:** **Odoriko 9, Tokyo 12:00 → Shuzenji 14:06** is a paid NAVITIME application awaiting ticket arrangement and paper-ticket collection details. Then take the Tokai Bus for approximately eight minutes and alight at **Shuzenji Onsen**. There is no hotel shuttle. The Tokyo→Mishima→Shuzenji route is the disruption fallback
 - **Luggage forwarding:** use two prepaid Yamato sends: Hotel Monterey Akasaka → Kyoto at checkout on Sep 25, then Kyoto → Haneda Airport on Sep 29 or 30. The main case therefore bypasses Shuzenji, Nara, Osaka and the final Shinkansen
@@ -194,14 +194,20 @@ Collect it in Osaka and take it on the Oct 3 Shinkansen. If length + width + hei
 
 | App | Purpose | Essential? |
 |-----|---------|-----------|
-| **Google Maps** | Navigation, train routes, walking directions. Works brilliantly in Japan with real-time transit data | YES |
-| **Google Translate** | Camera translation for menus and signs. Download Japanese offline pack before departure | YES |
-| **Suica app / Apple Wallet** | IC card on your phone for all transit and konbini payments | YES (iPhone) |
-| **SmartEX** | Book Shinkansen tickets online with English interface. Reserve specific seats | YES |
-| **Tabelog** | Japan's trusted restaurant review site (more reliable than Google reviews). 3.5+ = good, 3.7+ = excellent | Highly recommended |
-| **PayPay** | Japan's dominant mobile payment, but **not practical for tourists** — registration requires Japanese identity documents (MyNumber card, driver's licence, or residence card). Rely on cash, IC cards, and international credit cards instead | Skip |
-| **Navitime** | Alternative transit navigation. Sometimes better than Google for local trains | Optional |
-| **XE Currency** | Quick currency conversion | Helpful |
+| **Google Maps** | Live navigation, train routes, walking directions and nearby restaurant discovery. Download map areas as a basemap fallback, but offline transit and walking routing are unavailable | YES |
+| **Google Translate** | Camera translation for menus and signs. Download Japanese before travel for offline use | YES |
+| **Apple Wallet / physical IC card** | On iPhone, add Suica, PASMO or ICOCA directly in Wallet. Otherwise obtain a physical interoperable IC card | YES |
+| **Japan Travel by NAVITIME** | Japan-specific rail planning and access to the Odoriko booking account. The Odoriko collection QR must be exchanged for paper tickets | YES |
+| **SmartEX mobile website** | Access the confirmed Shinkansen reservations and each passenger’s separate QR ticket; the app is not required | YES |
+| **GO taxi / Uber** | Register GO after arrival if the foreign-number geofence blocks setup abroad; keep Uber as the ready-to-use fallback | Helpful |
+| **Safety tips** | English push alerts for earthquakes, tsunami and severe weather; enable location and notifications | YES |
+| **LINE** | Required for each adult’s Tamagotchi Factory digital ticket at 10:00 on September 21 | YES for Sep 21 |
+| **Tabelog English / TableCheck** | Use Google Maps for discovery, Tabelog for a local-review cross-check and TableCheck or the official site for reservations | Helpful |
+| **Visit Japan Web** | Official browser service for arrival procedures; use `vjw.digital.go.jp` rather than installing an imitation app | Web, not app |
+
+### Finding a casual dinner
+
+Search the exact dish near the day’s endpoint in Google Maps, shortlist two or three places, then inspect recent menu photos and the newest substantive reviews. Cross-check the restaurant on Tabelog’s English site: its score is weighted rather than a simple average, and 3.50–3.99 is already approximately the top 3%, so 3.5 is a strong positive rather than a minimum cutoff. Verify current opening and last-order times through the restaurant’s official channel or live booking page.
 
 ---
 
@@ -237,7 +243,7 @@ Beyond keeping quiet:
 On the Tokaido–Sanyo Shinkansen (Tokyo ↔ Kyoto ↔ Osaka):
 - The planned main suitcase is forwarded around both relevant Shinkansen legs, so these rules matter only if the luggage plan changes
 - Bags exceeding **160cm total dimensions** (length + width + height) must be stored in an **"oversized baggage area"** at the back of designated cars
-- You must **reserve a seat with oversized baggage** when booking your ticket (via SmartEX app or at the station)
+- You must **reserve a seat with oversized baggage** when booking your ticket (through SmartEX in the browser or at the station)
 - There is **no extra charge** for the oversized area — you just need to reserve the right seat type
 - Standard carry-on suitcases (~157cm) usually fit under the limit, but **measure yours before travelling**
 - Bringing oversized baggage without a reservation may result in a ¥1,000 fee
