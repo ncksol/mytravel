@@ -37,7 +37,6 @@
 
 | Item | Status | Notes |
 |------|--------|-------|
-| Tamagotchi Factory digital ticket (Sep 21) | ⚠️ **Same day at 10:00** | Both adults need LINE and the [official Factory account](https://lin.ee/VJKQ4Yi). Apply separately at 10:00 while within 500 metres of Harakado with location enabled. Admission is called through LINE from 11:00; do not form a physical queue. |
 | Shinkansen Mishima→Kyoto (Sep 27) | ✅ **CONFIRMED** | SmartEX **Hikari 709, 11:46–13:37**, Green Car 10, seats **4-C and 4-D**, **¥29,540 total for two**. Only the small Shuzenji bag travels with you. |
 | Nozomi Shin-Osaka→Shinagawa (Oct 3) | ✅ **CONFIRMED** | SmartEX **Nozomi 126, 11:15–13:38**, ordinary Car 4, seats **19-D and 19-E**, **¥29,040 total for two**. Continue by Keikyu to HND T3. |
 | Luggage forwarding 1 — Tokyo→Kyoto | ⬜ Confirm hotels, then send | At Hotel Monterey check-in on Sep 19, ask its front desk to confirm the Sep 25 courier cutoff and contact the Kyoto hotel to confirm receipt/holding. Pack after Sep 24 shopping; hand the prepaid case over at checkout on Sep 25 and request Sep 26 delivery. Use Sep 24 only if the Sep 25 plan cannot be confirmed. |
@@ -59,5 +58,4 @@
 | Visit Japan Web | ⬜ Confirm | This is a web service at `vjw.digital.go.jp`, not an app; avoid imitation apps |
 | GO taxi + Uber fallback | ⬜ Confirm | If GO blocks foreign-number registration outside Japan, register after landing with precise location enabled and the home SIM able to receive its SMS code |
 | Safety tips | ⬜ Confirm | Enable English location-based earthquake, tsunami and severe-weather notifications |
-| LINE | ⚠️ Required Sep 21 | Required for each adult’s same-day Tamagotchi Factory digital ticket |
 | Tabelog English + TableCheck | ⬜ Bookmark | Use Google Maps for nearby discovery, Tabelog English as the Japanese-review cross-check and the restaurant’s official link or TableCheck for reservations |

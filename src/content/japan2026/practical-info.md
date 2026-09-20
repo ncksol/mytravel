@@ -201,7 +201,6 @@ Collect it in Osaka and take it on the Oct 3 Shinkansen. If length + width + hei
 | **SmartEX mobile website** | Access the confirmed Shinkansen reservations and each passenger’s separate QR ticket; the app is not required | YES |
 | **GO taxi / Uber** | Register GO after arrival if the foreign-number geofence blocks setup abroad; keep Uber as the ready-to-use fallback | Helpful |
 | **Safety tips** | English push alerts for earthquakes, tsunami and severe weather; enable location and notifications | YES |
-| **LINE** | Required for each adult’s Tamagotchi Factory digital ticket at 10:00 on September 21 | YES for Sep 21 |
 | **Tabelog English / TableCheck** | Use Google Maps for discovery, Tabelog for a local-review cross-check and TableCheck or the official site for reservations | Helpful |
 | **Visit Japan Web** | Official browser service for arrival procedures; use `vjw.digital.go.jp` rather than installing an imitation app | Web, not app |
 

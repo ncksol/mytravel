@@ -55,19 +55,18 @@ Keep this to Bic Camera rather than extending into a second Akihabara shopping c
 **Theme:** Modern Tokyo, fashion and pop culture.
 
 - **07:30** Arrive at **Meiji Shrine** and walk through the forested approach at its quietest.
-- **09:00–09:45** Walk towards **Omotesando** for architecture, streetscape and coffee before most shops open. Finish within 500 metres of Tokyu Plaza Harajuku “Harakado”; both adults should already have LINE installed and the [official Tamagotchi Factory account](https://lin.ee/VJKQ4Yi) added. Check the [official entry and stock feed](https://x.com/TMGC_f_Info) before leaving the area.
-- **10:00 — Tamagotchi Factory digital ticket:** with LINE location permission enabled, each adult applies from within the 500-metre Harakado geofence. Do not form a physical queue; there is no waiting area before opening.
-- **10:00–11:00** Explore nearby Harajuku — Takeshita Street, Omotesando and Cat Street — while staying close enough to return when LINE sends the admission call.
-- **From 11:00 — Tamagotchi Factory:** enter when your ticket number is called. The permanent experience-led shop is on **Harakado 3F**, 6-31-21 Jingumae, and publishes 11:00–21:00 hours. Allow approximately 45–60 minutes for the shop, customisable merchandise and the shop-exclusive Mini Tama bottle-filling activity. The ticket controls admission but does not guarantee stock.
-- **Approximately 12:15** Lunch in the Omotesando/Harajuku area. **Maisen** remains the tonkatsu option, avoiding a later backtrack.
-- **Approximately 13:30** Walk or take the train to **Shibuya** for Hachiko, the scramble crossing and browsing.
-- **14:15 — Decision point:** if the Tamagotchi visit finished on time and energy is good, take the Keio Inokashira Line to **Shimokitazawa** for a compact vintage, records and Bonus Track circuit. Leave by **15:35** for Shibuya. If the LINE call ran late, skip Shimokitazawa and remain in Harajuku/Shibuya.
+- **09:00** Walk towards **Omotesando** for architecture, streetscape and coffee before most shops open.
+- **10:00** Explore Harajuku: Takeshita Street, Omotesando and Cat Street.
+- **11:30** Lunch in the Omotesando/Harajuku area. **Maisen** remains the tonkatsu option, avoiding a later backtrack.
+- **12:45** Walk or take the train to **Shibuya** for Hachiko, the scramble crossing and browsing.
+- **13:45 — Decision point:** if energy is good, take the Keio Inokashira Line to **Shimokitazawa** for vintage shops, records, cafés and Bonus Track. Bear Pond Espresso is optional. If crowds or jet lag are tiring, return to the hotel instead.
+- **15:45** If visiting Shimokitazawa, return to Shibuya.
 - **16:20 — Shibuya Sky ✅ BOOKED.** This gives 80 minutes before Tokyo’s 17:40 sunset and enough margin for admission, the ascent and rooftop crowds. The rooftop may close in poor weather; indoor observation areas normally remain available.
 - **18:10–18:20** Leave after sunset and early blue-hour/night views.
 - **Approximately 19:00** Return to the hotel for a short rest.
 - **19:45** Dinner in **Roppongi**: a bookable izakaya or ramen restaurant with confirmed Monday public-holiday hours.
 
-The Tamagotchi Factory visit and the fixed Shibuya Sky booking take priority over Shimokitazawa. Do not add Daikanyama or Nakameguro to this day.
+Do not add Daikanyama or Nakameguro to this day.
 
 ## Day 4 — Tuesday, Sep 22: 🎂 Birthday 🔴 Silver Week Holiday
 
