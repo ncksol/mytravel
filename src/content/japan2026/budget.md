@@ -50,7 +50,7 @@ Note: Kikuya's two dinners and two breakfasts are included in accommodation, so 
 | Item | Cost (2 ppl) |
 |------|-------------|
 | Tokyo National Museum | ¥2,000 · £11 |
-| Shibuya Sky (online, **16:20 booked slot**) | ¥6,800 · £36 |
+| Shibuya Sky ✅ booked (**16:20 slot; actual charge not supplied**) | ¥6,800 · £36 planning allowance |
 | teamLab Borderless at Azabudai Hills (online) | ¥7,200 · £38 |
 | Koishikawa Korakuen | ¥600 · £3 |
 | Hamarikyu Gardens | ¥600 · £3 |

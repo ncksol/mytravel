@@ -43,7 +43,7 @@ Akasaka is the recommended plan if jet lag is noticeable. Omoide Yokocho will be
 - **14:30** Continue to **Jimbocho** and browse vintage bookshops, including larger stores with foreign-language sections.
 - **15:30** Stop at **Ladrio**, the Sunday-opening traditional kissaten known for its Showa-era atmosphere and Wiener coffee.
 - **16:20** Continue to Akihabara.
-- **16:30–17:30 — Bic Camera AKIBA:** focused browse of the seven retail floors. Prioritise the departments that actually interest you rather than attempting the whole store; computers and Apple are on 1F, gaming PCs and peripherals on 2F, phones/audio on 3F, cameras and watches on 5F, and games/toys on 7F.
+- **16:30–17:30 — Bic Camera AKIBA:** focused browse of the seven retail floors. Prioritise the departments that actually interest you rather than attempting the whole store; computers and Apple are on 1F, gaming PCs and peripherals on 2F, phones/audio on 3F, cameras and watches on 5F, and games/toys on 7F. The branch is open daily until 22:00 and lists tax-free shopping.
 - **17:30–18:15** Return to Akasaka and rest.
 - **19:15** Dinner near the hotel: yakitori, an izakaya or Korean food.
 

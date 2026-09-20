@@ -55,7 +55,7 @@
 | Mobile data | ⬜ Confirm | Live data is important because offline Google Maps does not provide walking or public-transport directions |
 | Google Maps + Translate | ⬜ Confirm | Download the Tokyo, Izu/Shuzenji, Kyoto, Osaka and Nara map areas; download Japanese in Translate for offline camera/menu use |
 | Japan Travel by NAVITIME | ✅ Account used | Check the Odoriko issuance/collection status in My Page. Its collection QR cannot board the train; exchange it for paper tickets outside the gates |
-| SmartEX browser access | ✅ Set up | Save each passenger’s separate QR ticket and print both as backup. The app is not required |
+| SmartEX browser access | 🟡 Reservations confirmed | Save each passenger’s separate QR ticket and print both as backup. The app is not required |
 | Visit Japan Web | ⬜ Confirm | This is a web service at `vjw.digital.go.jp`, not an app; avoid imitation apps |
 | GO taxi + Uber fallback | ⬜ Confirm | If GO blocks foreign-number registration outside Japan, register after landing with precise location enabled and the home SIM able to receive its SMS code |
 | Safety tips | ⬜ Confirm | Enable English location-based earthquake, tsunami and severe-weather notifications |
