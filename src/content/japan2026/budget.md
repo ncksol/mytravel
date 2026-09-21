@@ -51,7 +51,6 @@ Note: Kikuya's two dinners and two breakfasts are included in accommodation, so 
 |------|-------------|
 | Tokyo National Museum | ¥2,000 · £11 |
 | Shibuya Sky ✅ booked (**Sep 24, 12:40–12:59 entry; quantity and actual charge not supplied**) | ¥6,800 · £36 planning allowance retained |
-| teamLab Borderless at Azabudai Hills (online) | ¥7,200 · £38 |
 | Koishikawa Korakuen | ¥600 · £3 |
 | Hamarikyu Gardens | ¥600 · £3 |
 | Kiyomizu-dera | ¥1,000 · £5 |
@@ -66,7 +65,7 @@ Note: Kikuya's two dinners and two breakfasts are included in accommodation, so 
 | Osaka Castle (new price from Apr 2025) | ¥2,400 · £13 |
 | Gekkeikan Sake Museum | ¥1,200 · £6 |
 | Various small temples | ¥3,000 · £16 |
-| **Activities Total** | **¥37,800 · £199** |
+| **Activities Total** | **¥30,600 · £161** |
 
 ## Miscellaneous
 
@@ -86,11 +85,11 @@ Note: Kikuya's two dinners and two breakfasts are included in accommodation, so 
 | Accommodation | ¥415,810 | £2,188 |
 | Transport | ¥110,629 | £582 |
 | Food | ¥228,500 | £1,203 |
-| Activities | ¥37,800 | £199 |
+| Activities | ¥30,600 | £161 |
 | Miscellaneous | ¥65,000 | £342 |
-| **TOTAL** | **¥857,739** | **£4,514** |
+| **TOTAL** | **¥850,539** | **£4,477** |
 
-### 💰 Buffer remaining: \~£486 (\~¥92,261)
+### 💰 Buffer remaining: \~£523 (\~¥99,461)
 
 This leaves a buffer for:
 - Extra shopping/souvenirs

@@ -8,7 +8,6 @@
 |------|--------|-------|
 | 🎂 Birthday dinner — **Jushu** (Sep 22, 19:00) | ✅ **BOOKED** | Tue Sep 22, 19:00 seating. ~¥28,000 pp (Chef's OMAKASE course, £295 for two). Michelin 1★ 2023-2026, Nishi-Azabu (Omotesando 9-min walk). Booked via OMAKASE (omakaseje.com/restaurants/bd545579). ⚠️ Cannot accept fish allergies incl. bonito/dashi — flag any dietary restriction in advance. |
 | Onsen stay — **Yukairou Kikuya**, Shuzenji (Sep 25-27) | ✅ **BOOKED** | Two nights / two adults · **35m² Japanese-style room with two futons** (booking label: “twin”) · dinner and breakfast both nights · **£872 (¥165,600)** · payable on site · check-in 15:00 / check-out 11:00. |
-| teamLab Borderless at Azabudai Hills (Sep 22) | ⬜ Not booked | Timed admission from ¥3,600 per adult; online advance purchase required. Dynamic pricing applies. Currently scheduled 08:30–21:00 on September 22; reconfirm shortly before travel. September 22 is not among the currently announced Borderless closure dates. |
 
 ### ♨️ Yukairou Kikuya — confirmed booking
 
