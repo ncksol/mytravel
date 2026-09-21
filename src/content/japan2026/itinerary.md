@@ -60,9 +60,7 @@ Keep this to Bic Camera rather than extending into a second Akihabara shopping c
 - **11:30** Lunch in the Omotesando/Harajuku area. **Maisen** remains the tonkatsu option, avoiding a later backtrack.
 - **12:45** Walk or take the train to **Shibuya** for Hachiko, the scramble crossing and browsing.
 - **13:45 — Decision point:** if energy is good, take the Keio Inokashira Line to **Shimokitazawa** for vintage shops, records, cafés and Bonus Track. Bear Pond Espresso is optional. If crowds or jet lag are tiring, return to the hotel instead.
-- **15:45** If visiting Shimokitazawa, return to Shibuya.
-- **16:20 — Shibuya Sky ✅ BOOKED.** This gives 80 minutes before Tokyo’s 17:40 sunset and enough margin for admission, the ascent and rooftop crowds. The rooftop may close in poor weather; indoor observation areas normally remain available.
-- **18:10–18:20** Leave after sunset and early blue-hour/night views.
+- **15:45** If visiting Shimokitazawa, return to Shibuya; otherwise continue browsing central Shibuya at an easy pace.
 - **Approximately 19:00** Return to the hotel for a short rest.
 - **19:45** Dinner in **Roppongi**: a bookable izakaya or ramen restaurant with confirmed Monday public-holiday hours.
 
@@ -119,24 +117,25 @@ Reconfirm Jushu’s exceptional public-holiday service through OMAKASE or the re
 
 ## Day 6 — Thursday, Sep 24: Classic Tokyo and Shopping
 
-**Theme:** Asakusa, a focused museum visit, games and electronics in Akihabara, then Ueno/Okachimachi shopping with Ginza available if the first cluster leaves gaps. Route: **Asakusa → Ueno → Akihabara → Okachimachi/Ueno → optional Ginza**.
+**Theme:** Asakusa, a focused museum visit, Shibuya Sky, games and electronics in Akihabara, then Ueno/Okachimachi shopping. Route: **Asakusa → Ueno → Shibuya → Akihabara → Okachimachi/Ueno**.
 
 Keep the main case in Tokyo through the shopping day. At Hotel Monterey check-in on Sep 19, ask the front desk to confirm its Sep 25 Yamato cutoff and contact Mitsui Garden Hotel Kyoto Shinmachi Bettei to confirm receipt and holding. Pack the shopping into the main case that evening; hand it over at checkout on Sep 25 with Sep 26 as the preferred delivery date. Use a Sep 24 handover only if either hotel cannot confirm the Sep 25 plan.
 
 - **08:00** Arrive at **Senso-ji** and explore the temple grounds before the shopping street is fully active.
 - **Approximately 09:00–09:20** Walk through **Nakamise-dori** as shops begin opening.
 - **09:20** Visit the free observation level at the **Asakusa Culture Tourist Information Center**.
-- **Approximately 09:40** Travel to Ueno.
-- **10:15–11:45** **Tokyo National Museum** for a focused 90-minute visit to the Honkan Japanese Gallery. General collection admission is currently ¥1,000. Buy the flexible collection ticket online beforehand to avoid possible ticket-counter queues.
-- **12:00–12:45** Lunch at **Ameyoko Market**.
-- **13:00–14:45** **Akihabara**. Select only two anchors: Yodobashi Akiba for modern electronics; Super Potato for retro games; GiGO or TAITO Station in place of either if playing matters more than browsing; Mandarake Complex only if second-hand games, manga, figures or collectables are a particular interest.
-- **14:45** Return one stop from Akihabara to Okachimachi.
-- **15:00–15:30** **GU Okachimachi** for value jeans, casualwear and T-shirts. Skip promptly if the current range does not appeal.
-- **15:35–16:05** **mita sneakers** for specialist trainers, collaborations and Japan-exclusive releases.
-- **16:10–17:05** **HINOYA Main Store** for Japanese denim and heritage casualwear. This is the priority fitting block; allow longer if comparing several denim cuts.
-- **17:10 — Decision point:**
-  - **Continue in Ueno:** use **@cosme STORE Ueno Marui** for beauty and **JINS atré Ueno** for sunglasses, then take the Ginza Line directly to Akasaka-mitsuke.
-  - **Ginza backup:** if bags, mainstream basics, another trainer range or deeper beauty shopping remain, take the Hibiya Line from Ueno or Naka-okachimachi to Ginza. Prioritise **PORTER GINZA** and **Onitsuka Tiger Ginza** before their 20:00 closing, then use **UNIQLO Ginza** or **GU Ginza**, **JINS Ginza**, and **Matsumoto Kiyoshi GINZA FLAG** as needed.
+- **Approximately 09:35** Travel to Ueno.
+- **10:00–11:00** **Tokyo National Museum:** make this a tightly focused Honkan Japanese Gallery visit. General collection admission is currently ¥1,000; buy the flexible collection ticket online beforehand to avoid possible ticket-counter queues.
+- **11:15–11:40** Quick lunch near Ueno Station or the station-facing end of Ameyoko.
+- **Approximately 11:45** Take the JR Yamanote Line directly from Ueno to Shibuya. Allow time to navigate Shibuya Station and reach the 14th-floor entrance before the booked window.
+- **12:40–12:59 — Shibuya Sky ✅ BOOKED:** enter during this window and allow approximately 80–90 minutes for the indoor gallery and rooftop, subject to live rooftop operation.
+- **Approximately 14:20** Leave Shibuya for Akihabara on the JR Yamanote Line.
+- **15:00–16:30** **Akihabara**. Prioritise Yodobashi Akiba and only one secondary anchor: Super Potato for retro games, GiGO or TAITO Station for playing, or Mandarake Complex for second-hand games, manga, figures and collectables.
+- **Approximately 16:35** Travel one stop to Okachimachi.
+- **16:45–17:15** **mita sneakers** for specialist trainers, collaborations and Japan-exclusive releases.
+- **17:20–18:20** **HINOYA Main Store** for Japanese denim and heritage casualwear. This remains the priority fitting block.
+- **18:25–18:55** **GU Okachimachi** for value jeans, casualwear and T-shirts. Skip promptly if the current range does not appeal.
+- **19:00 — Decision point:** use **@cosme STORE Ueno Marui** or **JINS atré Ueno** only if still useful and open, otherwise go directly to dinner.
 - **Evening:** eat in the selected shopping district or return to Akasaka for an easy final Tokyo dinner. Keep this flexible rather than adding another reservation.
 
 Kanda Myojin remains part of Day 5 Track A. If Track B is selected, accept that the shrine may be omitted rather than squeezing it between Akihabara and the afternoon shopping block.

@@ -31,7 +31,7 @@
 | Kyoto hotel (Sep 27-Oct 1, 4 nights) | ✅ Booked | **Mitsui Garden Hotel Kyoto Shinmachi Bettei** — £314.84 total / 4 nights (~£79/night), Standard Queen. Karasuma side, 7 min from Shijo |
 | Osaka hotel (Oct 1-3, 2 nights) | ✅ Booked | **Via Inn Prime Shinsaibashi Yotsubashi** — £181 total/2nt (~£91/night), Deluxe Double (180cm king), room-only. JR-West, Yotsubashi station 1 min; ~12 min walk / 1 metro stop to Dotonbori |
 | Odoriko 9 Tokyo→Shuzenji (Sep 25) | 🟡 **PAID — AWAITING ISSUANCE** | Japan Travel by NAVITIME application for two ordinary reserved seats, **Tokyo 12:00 → Shuzenji 14:06**, **¥16,769 total**. Await ticket arrangement, QR issuance and carriage/seat numbers. Exchange the eventual QR for all paper tickets before boarding. Keep the Tokyo→Mishima→Shuzenji connection as disruption insurance. |
-| Shibuya Sky tickets (Sep 21) | ✅ **BOOKED** | Timed entry confirmed for **16:20**. Keep the ticket QR accessible; the recorded itinerary protects the sunset and early-night viewing window. |
+| Shibuya Sky tickets (Sep 24) | ✅ **BOOKED** | Enter during the confirmed **12:40–12:59** window. Keep the ticket QR accessible and check live rooftop operation before travelling from Ueno. |
 
 ## 📝 Book 1 Week Ahead / On Arrival
 
@@ -43,7 +43,7 @@
 | Luggage forwarding 2 — Kyoto→Haneda T3 | ⬜ Confirm cutoff, then send | At Kyoto check-in on Sep 27, confirm the route-specific Airport TA-Q-BIN cutoff. Send on Sep 30, or Sep 29 if required, for Oct 3 collection. Use the airport-specific waybill with live CA168 time/terminal; keep the sender receipt. Fallback: ordinary prepaid TA-Q-BIN to Via Inn, then carry the case on the Nozomi. |
 | Jushu public-holiday service | ⬜ Reconfirm | The Sep 22 reservation is confirmed, but the restaurant's general listing closes on public holidays. Reconfirm the exceptional service through OMAKASE or the restaurant one to two weeks before arrival. |
 | Tokyo National Museum collection ticket (Sep 24) | ⬜ Optional advance purchase | Buy the flexible collection ticket online to avoid a possible main-gate ticket-counter queue. |
-| Sep 24 shopping-hours check | ⬜ Recheck from Sep 17 | Main route: GU Okachimachi → mita sneakers → HINOYA, then @cosme Ueno/JINS or Ginza backup. Recheck every selected store’s official hours and Maps status; PORTER and Onitsuka Ginza currently close at 20:00. |
+| Sep 24 shopping-hours check | ⬜ Recheck from Sep 17 | After the booked Shibuya Sky visit, the main route is Akihabara → mita sneakers → HINOYA → GU Okachimachi, with @cosme Ueno/JINS only if time and energy remain. Recheck every selected store’s official hours and Maps status. |
 | Kikuya final checks | ⬜ Not done | Confirmation processed: 35m² Japanese-style futon room, half board, ¥165,600, pay on site. Ask Kikuya whether this exact room has an in-room bath and obtain written tattoo rules for private and communal baths. |
 
 ## 📱 Pre-Trip Setup
