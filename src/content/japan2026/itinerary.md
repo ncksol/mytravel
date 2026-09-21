@@ -49,41 +49,38 @@ Akasaka is the recommended plan if jet lag is noticeable. Omoide Yokocho will be
 
 Keep this to Bic Camera rather than extending into a second Akihabara shopping circuit. Ochanomizu remains covered on September 23.
 
-## Day 3 — Monday, Sep 21: Meiji Shrine, Harajuku and Shibuya 🔴 Respect for the Aged Day
+## Day 3 — Monday, Sep 21: Meiji Shrine and Ginza 🔴 Respect for the Aged Day
 
 **Holiday:** Respect for the Aged Day.
-**Theme:** Modern Tokyo, fashion and pop culture.
+**Theme:** Meiji Shrine followed by an indoor Ginza programme during severe rain.
 
-- **07:30** Arrive at **Meiji Shrine** and walk through the forested approach at its quietest.
-- **09:00** Walk towards **Omotesando** for architecture, streetscape and coffee before most shops open.
-- **10:00** Explore Harajuku: Takeshita Street, Omotesando and Cat Street.
-- **11:30** Lunch in the Omotesando/Harajuku area. **Maisen** remains the tonkatsu option, avoiding a later backtrack.
-- **12:45** Walk or take the train to **Shibuya** for Hachiko, the scramble crossing and browsing.
-- **13:45 — Decision point:** if energy is good, take the Keio Inokashira Line to **Shimokitazawa** for vintage shops, records, cafés and Bonus Track. Bear Pond Espresso is optional. If crowds or jet lag are tiring, return to the hotel instead.
-- **15:45** If visiting Shimokitazawa, return to Shibuya; otherwise continue browsing central Shibuya at an easy pace.
-- **Approximately 19:00** Return to the hotel for a short rest.
-- **19:45** Dinner in **Roppongi**: a bookable izakaya or ramen restaurant with confirmed Monday public-holiday hours.
-
-Do not add Daikanyama or Nakameguro to this day.
+- **Completed:** **Meiji Shrine** in the morning.
+- **Completed:** moved indoors to **Ginza** because of the severe weather, covering **GINZA SIX**, **Ginza Mitsukoshi** and the **AOKI Ginza flagship**.
+- **Not completed:** Omotesando, Harajuku and Shibuya move to Sep 22. Optional Shimokitazawa is dropped from the main plan.
+- **Shibuya Sky:** the Sep 21 booking was cancelled after the rooftop closed; the replacement booking is on Sep 24 with a 12:40–12:59 entry window.
 
 ## Day 4 — Tuesday, Sep 22: 🎂 Birthday 🔴 Silver Week Holiday
 
 **Holiday:** Statutory holiday between Respect for the Aged Day and the Autumnal Equinox.
-**Theme:** Garden, Ginza, digital art and a special kaiseki dinner.
+**Theme:** Hamarikyu, west Tokyo and a special kaiseki dinner.
 
 - **08:30** Birthday breakfast at the hotel or a café near Akasaka.
-- **09:30** Visit **Hamarikyu Gardens**.
-- **10:30** Have matcha and wagashi at **Nakajima no Ochaya**, the teahouse on the pond.
-- **11:30** Continue to **Ginza** for Ginza Six, Mitsukoshi and Sony’s current Ginza exhibition/showroom if of interest.
-- **13:00** Depachika lunch in the **Mitsukoshi Ginza basement food halls, primarily B2**. Browse wagashi, prepared foods and bento; use B3 for premium fruit, fresh food, groceries, cheese or wine.
-- **14:00 — Choose one:**
-  - **Recovery plan — recommended:** return to the Akasaka hotel for a meaningful rest, shower and change.
-  - **Borderless plan:** visit **teamLab Borderless at Azabudai Hills** with a timed **15:00–16:30** ticket, then return to the hotel for a shorter rest and change.
+- **09:00–10:10** Visit **Hamarikyu Gardens**, retaining the Edo-period landscape and tidal pond from the original birthday plan.
+- **10:10–10:40** Have matcha and wagashi at **Nakajima no Ochaya**, the teahouse on the pond.
+- **10:40–11:20** Walk to Shimbashi and take the Ginza Line directly to Omote-sando.
+- **11:20–12:00** Explore **Omotesando** for its architecture and streetscape.
+- **12:00–12:50** Lunch in the Omotesando/Harajuku area; **Maisen** remains the tonkatsu option.
+- **12:50–14:30** Explore **Harajuku**, prioritising Takeshita Street and Cat Street.
+- **14:30–15:00** Walk towards Shibuya.
+- **15:00–16:15** Visit **Shibuya** for Hachiko, the scramble crossing and browsing. Shibuya Sky is not part of this visit; the replacement booking is on Sep 24.
+- **16:15** Return to the Akasaka hotel for a meaningful rest, shower and change.
 - **Approximately 18:15** Leave the hotel for Nishi-Azabu.
 - **19:00 — Jushu (壽修) ✅ BOOKED:** Kansai-style kaiseki at 1F Saita Building, 2-16-1 Nishi-Azabu, Minato-ku, approximately nine minutes on foot from Omotesando Station. Five counter seats and six table seats; chef Masaki Senzaki; ingredient-led seafood, vegetables and Saga beef; approximately ten Nabeshima sakes may be available. Smart casual; no shorts or sandals; avoid strong perfume; arrive at least five minutes early. Submit dietary restrictions in advance; day-of requests are not accepted. Fish/bonito/dashi and soy-related allergies require particular care.
 - **After dinner — optional:** finish the evening after the kaiseki or have one spontaneous drink around Nishi-Azabu, Roppongi or Akasaka.
 
 Reconfirm Jushu’s exceptional public-holiday service through OMAKASE or the restaurant one to two weeks before travel.
+
+**Dropped:** Shimokitazawa. Do not re-add Ginza Six, Mitsukoshi, the depachika, Sony Park or AOKI; those Ginza priorities were either completed on Sep 21 or deliberately removed to protect the birthday pace.
 
 ## Day 5 — Wednesday, Sep 23: Explorer Day 🔴 Autumnal Equinox Day
 
@@ -100,10 +97,8 @@ Reconfirm Jushu’s exceptional public-holiday service through OMAKASE or the re
 - **12:45** Lunch near Kanda or Ochanomizu: classic tonkatsu or a small soba restaurant.
 - **13:30** Browse Ochanomizu’s musical-instrument shops and see the exterior of **Nikolai Cathedral**; general tourist viewing inside is closed on national holidays.
 - **14:30** Continue to **Nihonbashi** for Coredo Muromachi and the original Mitsukoshi department store.
-- **16:15–17:00** Continue to Tokyo Station and Marunouchi for the restored red-brick station, KITTE and the Marunouchi streetscape.
-- **17:00–17:15** Walk south through the Marunouchi/Kyobashi corridor to **AOKI Ginza flagship**, 1-11-1 Ginza.
-- **17:15–18:15** Try the **AOKI Pajama Suit** range. This is an officially designated large-format branch; allow the full hour for comparing fits, colours and separates. Exact size and colour stock should be checked or reserved shortly before visiting.
-- **18:15** Walk to Kyobashi Station and take the Ginza Line directly to Akasaka-mitsuke; reach the hotel around **18:45**.
+- **16:15–17:15** Continue to Tokyo Station and Marunouchi for the restored red-brick station, KITTE and the Marunouchi streetscape.
+- **After 17:15** Return to Akasaka at an easy pace. The former AOKI Ginza block is removed because the flagship visit was completed on Sep 21.
 
 #### Alternative Track B — Canal, design and vintage neighbourhoods
 
