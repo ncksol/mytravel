@@ -85,19 +85,23 @@ Reconfirm Jushu’s exceptional public-holiday service through OMAKASE or the re
 
 **Holiday:** Autumnal Equinox Day and the final day of Silver Week.
 
-#### Recommended Track A — St Mary’s Cathedral, gardens, Kanda and old commercial Tokyo
+#### Plan — St Mary’s Cathedral, Kanda, the Imperial Palace, teamLab and Tokyo Tower
 
 - **08:20** Leave Hotel Monterey Akasaka and walk to the Akasaka-mitsuke/Nagatacho station complex.
 - Take the Yurakucho Line directly from **Nagatacho to Gokokuji**. Use Exit 6, then walk approximately ten minutes.
 - **09:00–09:45 — St Mary’s Cathedral, Tokyo:** Kenzo Tange's 1964 cathedral of curved concrete shells and stainless-steel cladding. It earns its place as one of Tokyo's strongest works of modern architecture; see the exterior, detached bell tower and cross-lit main interior. Entry is conditional on there being no Mass or private event; keep quiet around worshippers.
-- **09:45–10:25** Return to Gokokuji Station, take the Yurakucho Line to Iidabashi and walk to **Koishikawa Korakuen**.
-- **10:30–11:45 — Koishikawa Korakuen:** One of Tokyo's oldest surviving daimyo, or feudal-lord, gardens, combining ponds, borrowed scenery and miniature references to Japanese and Chinese landscapes. It earns its place as a more intimate historical garden counterpoint to Hamarikyu.
-- **12:15 — Kanda Myojin Shrine:** A long-established shrine associated with central Tokyo, local business and the nearby electronics district. It connects the day's older religious landscape to modern commercial Tokyo.
-- **12:45 — Kanda or Ochanomizu lunch:** Choose tonkatsu (breaded pork cutlet) for a substantial classic or soba (buckwheat noodles) for a lighter meal. Both are fast, dependable formats that fit the route without turning lunch into an event.
-- **13:30 — Ochanomizu and Nikolai Cathedral:** Ochanomizu is Tokyo's concentrated musical-instrument district, useful for browsing guitars and specialist shops. Nikolai Cathedral is a nineteenth-century Japanese Orthodox landmark whose domed exterior adds an unexpected architectural contrast; general tourist viewing inside is closed on national holidays.
-- **14:30–16:00 — Nihonbashi:** Tokyo's historic commercial centre and the traditional starting point of Japan's road network. Coredo Muromachi packages contemporary Japanese food and craft retail, while the original Mitsukoshi represents the grand department-store tradition; the pairing shows how old merchant Tokyo evolved.
-- **16:15–17:30 — Tokyo Station and Marunouchi:** The restored red-brick station anchors Tokyo's formal business district. KITTE's converted postal building and the ordered Marunouchi streetscape earn the stop for architecture and urban design rather than another shopping session.
-- **17:30** Return to Akasaka; allow an easy evening near the hotel.
+- **09:45–10:30** Return to Gokokuji Station, take the Yurakucho Line to Iidabashi, change for Ochanomizu and walk to **Kanda Myojin**.
+- **10:30–11:10 — Kanda Myojin Shrine:** A long-established shrine associated with central Tokyo, local business and the nearby electronics district. It connects the day's older religious landscape to modern commercial Tokyo.
+- **11:15–12:00 — Ochanomizu and Nikolai Cathedral:** Ochanomizu is Tokyo's concentrated musical-instrument district, useful for browsing guitars and specialist shops. Nikolai Cathedral is a nineteenth-century Japanese Orthodox landmark whose domed exterior adds an unexpected architectural contrast; general tourist viewing inside is closed on national holidays.
+- **12:00–13:00 — Ochanomizu lunch:** Choose tonkatsu (breaded pork cutlet) for a substantial classic or soba (buckwheat noodles) for a lighter meal. Both are fast, dependable formats that fit the route without turning lunch into an event.
+- **13:00–13:30** Continue to the Imperial Palace's **Kitahanebashi-mon Gate**.
+- **13:30–15:00 — Imperial Palace East Gardens:** The publicly accessible former Honmaru and Ninomaru compounds of Edo Castle, including stone ramparts, guardhouses, the old keep base and a Japanese garden. This supplies the palace's real historical substance even though the residential palace is not open for independent visits; the national-holiday guided tour does not operate. Enter through Kitahanebashi-mon and exit through Ote-mon towards Tokyo Station. Admission is free.
+- **15:15–16:00 — Tokyo Station and Marunouchi:** The restored red-brick station anchors Tokyo's formal business district. KITTE's converted postal building and the ordered Marunouchi streetscape earn the stop for architecture and urban design rather than another shopping session.
+- **16:00–16:45** Travel to Kamiyacho and follow the underground signs to Azabudai Hills Garden Plaza B. Arrive before the booked window.
+- **17:00–17:30 entry — teamLab Borderless ✅ BOOKED:** A mapless immersive digital-art museum in which light-based works move and interact across rooms. Allow approximately two hours; it earns its place as Tokyo's strongest contemporary visual experience and contrasts with the day's religious and imperial architecture. Keep the ticket QR accessible. Quantity, price and reservation reference were not supplied.
+- **Approximately 19:00–19:15** Walk roughly 1 km from Azabudai Hills to Tokyo Tower.
+- **19:15–19:45 — Tokyo Tower exterior and Shiba Park:** Tokyo's 1958 red-and-white broadcasting tower is one of the defining images of post-war Tokyo. See it illuminated from the park rather than paying for another observation deck; Shibuya Sky already provides the trip's panoramic ascent.
+- **Evening:** Have dinner around Azabudai, Toranomon or Akasaka, then return to the hotel.
 
 ## Day 6 — Thursday, Sep 24: Classic Tokyo and Shopping
 

@@ -51,7 +51,7 @@ Note: Kikuya's two dinners and two breakfasts are included in accommodation, so 
 |------|-------------|
 | Tokyo National Museum | ¥2,000 · £11 |
 | Shibuya Sky ✅ booked (**Sep 24, 12:40–12:59 entry; quantity and actual charge not supplied**) | ¥6,800 · £36 planning allowance retained |
-| Koishikawa Korakuen | ¥600 · £3 |
+| teamLab Borderless ✅ booked (**Sep 23, 17:00–17:30 entry; quantity and actual charge not supplied**) | Not included pending actual charge |
 | Hamarikyu Gardens | ¥600 · £3 |
 | Kiyomizu-dera | ¥1,000 · £5 |
 | Ginkaku-ji (¥500 now → ¥1,000 from Apr 2026) | ¥2,000 · £11 |
@@ -65,7 +65,7 @@ Note: Kikuya's two dinners and two breakfasts are included in accommodation, so 
 | Osaka Castle (new price from Apr 2025) | ¥2,400 · £13 |
 | Gekkeikan Sake Museum | ¥1,200 · £6 |
 | Various small temples | ¥3,000 · £16 |
-| **Activities Total** | **¥30,600 · £161** |
+| **Known Activities Total** | **¥30,000 · £158**, excluding teamLab charge |
 
 ## Miscellaneous
 
@@ -85,11 +85,11 @@ Note: Kikuya's two dinners and two breakfasts are included in accommodation, so 
 | Accommodation | ¥415,810 | £2,188 |
 | Transport | ¥110,629 | £582 |
 | Food | ¥228,500 | £1,203 |
-| Activities | ¥30,600 | £161 |
+| Known activities | ¥30,000 | £158 |
 | Miscellaneous | ¥65,000 | £342 |
-| **TOTAL** | **¥850,539** | **£4,477** |
+| **KNOWN TOTAL** | **¥849,939** | **£4,473** |
 
-### 💰 Buffer remaining: \~£523 (\~¥99,461)
+### 💰 Known buffer before the unreported teamLab charge: \~£527 (\~¥100,061)
 
 This leaves a buffer for:
 - Extra shopping/souvenirs
@@ -97,6 +97,7 @@ This leaves a buffer for:
 - Optional activities (cooking class, tea ceremony, etc.)
 
 ### Budget Notes
+- teamLab Borderless is booked for Sep 23, but the quantity and actual charge were not supplied. Its cost is excluded until the booking total is provided; the known total and buffer are therefore provisional.
 - Kikuya costs **£872 (¥165,600)** for two nights with dinner and breakfast; those four included meals are carried in accommodation rather than the food subtotal
 - Birthday dinner is **~£295 for two at Jushu** (1★ Michelin 2023-2026, ~¥28,000 pp for the Chef's OMAKASE course) — the trip's standout meal
 - Daily food budget outside splurges averages \~¥5,200 pp (\~£27) — very comfortable in Japan

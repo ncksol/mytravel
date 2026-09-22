@@ -30,6 +30,7 @@
 | Kyoto hotel (Sep 27-Oct 1, 4 nights) | ✅ Booked | **Mitsui Garden Hotel Kyoto Shinmachi Bettei** — £314.84 total / 4 nights (~£79/night), Standard Queen. Karasuma side, 7 min from Shijo |
 | Osaka hotel (Oct 1-3, 2 nights) | ✅ Booked | **Via Inn Prime Shinsaibashi Yotsubashi** — £181 total/2nt (~£91/night), Deluxe Double (180cm king), room-only. JR-West, Yotsubashi station 1 min; ~12 min walk / 1 metro stop to Dotonbori |
 | Odoriko 9 Tokyo→Shuzenji (Sep 25) | 🟡 **PAID — AWAITING ISSUANCE** | Japan Travel by NAVITIME application for two ordinary reserved seats, **Tokyo 12:00 → Shuzenji 14:06**, **¥16,769 total**. Await ticket arrangement, QR issuance and carriage/seat numbers. Exchange the eventual QR for all paper tickets before boarding. Keep the Tokyo→Mishima→Shuzenji connection as disruption insurance. |
+| teamLab Borderless tickets (Sep 23) | ✅ **BOOKED** | Enter during the confirmed **17:00–17:30** window at Azabudai Hills. Keep the ticket QR accessible. Quantity, actual charge and reservation reference were not supplied. |
 | Shibuya Sky tickets (Sep 24) | ✅ **BOOKED** | Enter during the confirmed **12:40–12:59** window. Keep the ticket QR accessible and check live rooftop operation before travelling from Ueno. |
 
 ## 📝 Book 1 Week Ahead / On Arrival
