@@ -1,5 +1,13 @@
 # Japan trip itinerary: Sep 19 to Oct 3, 2026
 
+**Jump to day:**
+
+[Day 2 (20 Sep)](#day-2-sunday-sep-20-hidden-tokyo-neighbourhoods-silver-week) · [Day 3 (21 Sep)](#day-3-monday-sep-21-meiji-shrine-and-ginza-respect-for-the-aged-day) · [Day 4 (22 Sep)](#day-4-tuesday-sep-22-birthday-silver-week-holiday) · [Day 5 (23 Sep)](#day-5-wednesday-sep-23-explorer-day-autumnal-equinox-day) · [Day 6 (24 Sep)](#day-6-thursday-sep-24-classic-tokyo-and-shopping)
+
+[Day 7 (25 Sep)](#day-7-friday-sep-25-tokyo-to-shuzenji-onsen) · [Day 8 (26 Sep)](#day-8-saturday-sep-26-shuzenji-onsen-slow-day) · [Day 9 (27 Sep)](#day-9-sunday-sep-27-shuzenji-to-kyoto) · [Day 10 (28 Sep)](#day-10-monday-sep-28-east-kyoto-temples-and-traditions) · [Day 11 (29 Sep)](#day-11-tuesday-sep-29-uji-and-tōfuku-ji)
+
+[Day 12 (30 Sep)](#day-12-wednesday-sep-30-kurama-to-kibune-mountain-day) · [Day 13 (1 Oct)](#day-13-thursday-oct-1-kyoto-to-nara-to-osaka) · [Day 14 (2 Oct)](#day-14-friday-oct-2-osaka-neighbourhoods) · [Day 15 (3 Oct)](#day-15-saturday-oct-3-osaka-to-haneda-and-departure)
+
 ## At a glance
 
 | Dates | Location | Nights | Accommodation |
