@@ -156,7 +156,9 @@ Temple history, river-town atmosphere and time to enjoy the ryokan.
 Travel day and first Kyoto evening.
 
 - **Morning** Included final Kikuya breakfast; one last private bath
-- **10:00** Check out comfortably before the 11:00 deadline. Tokai Bus to Shuzenji Station (~8 min), then the Izu-Hakone Railway to Mishima (~30 min)
+- **10:00** Check out and take the Tokai Bus to Shuzenji Station (~8 min). Be at the station before the 10:30 train.
+- **10:30–11:09: Shuzenji to Mishima:** Izu-Hakone Sunzu Line, direct local train, 39 minutes. About £2.90 (¥550) per person.
+- **11:09–11:46: Mishima transfer:** Follow signs to the Shinkansen gates for Hikari 709. There are 37 minutes between trains.
 - **11:46–13:37: SmartEX confirmed:** **Hikari 709, Mishima to Kyoto**, Green Car 10, seats **4-C and 4-D**, **¥29,540 total for two**.
 - **~14:00: Kyoto Station lunch if needed:** Use an ekiben (a regional boxed railway meal), noodle counter or station food hall.
 - **~15:00** Check into **Mitsui Garden Hotel Kyoto Shinmachi Bettei** (361 Rokkaku-cho, Shinmachi-dori, Karasuma side, 7 min from Shijo station). Arrange Yamato delivery of the main suitcase to Haneda Terminal 3 with reception for the Oct 3 flight. Agree the handover time for Sep 30, or Sep 29 if the hotel requires it.
@@ -279,7 +281,7 @@ Direct Osaka-to-airport departure day.
 | HND to Akasaka | Keikyu + Metro | ~50 min | ~¥700 |
 | Tokyo to Shuzenji | Limited Express Odoriko 9 | 2h06 | ~¥8,385 pp equivalent; ¥16,769 total |
 | Shuzenji Station to/from Kikuya | Tokai Bus; Shuzenji Onsen stop | ~8 min each way | |
-| Shuzenji to Mishima | Izu-Hakone Railway Sunzu Line | ~30 min | ¥550 |
+| Shuzenji to Mishima | Izu-Hakone Sunzu Line, 10:30–11:09 | 39 min | £2.90 (¥550) |
 | Mishima to Kyoto | SmartEX confirmed: Hikari 709, Green Car 10, seats 4-C/4-D | 1h51 | ¥14,770 pp; ¥29,540 total |
 | Kyoto to Nara | JR or Kintetsu | 45 min | ¥720 |
 | Nara to Osaka | Kintetsu to Namba | 40 min | ¥570 |
