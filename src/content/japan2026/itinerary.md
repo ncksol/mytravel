@@ -235,9 +235,12 @@ Eastern Kyoto temple circuit. Timings after Fushimi Inari are approximate.
 - **Before lunch: Kodai-ji or Yasaka Shrine:** Kodai-ji is a refined Zen memorial temple with gardens and links to Toyotomi Hideyoshi's widow; Yasaka is Gion's lively guardian shrine. Choose Kodai-ji for designed tranquillity or Yasaka for a shorter, more energetic stop.
   - *In rain:* this is an easy stop to drop if the morning runs late.
 - **Around 12:30: Yudofu lunch in Gion:** Yudofu is gently simmered tofu served with simple accompaniments, a Kyoto temple-cuisine speciality. Gion is the historic geiko district in Higashiyama.
-- **Around 14:00: Philosopher's Path and Ginkaku-ji:** The Philosopher's Path is a two-kilometre canal walk linking quiet residential north-east Kyoto to Ginkaku-ji. Visit the "Silver Pavilion" for its carefully composed dry garden, moss and villa landscape, a calmer stop after busy Kiyomizu.
+- **Around 14:00: Ginkaku-ji, then the Philosopher’s Path:** Arrive at [Ginkaku-ji](https://goo.gl/maps/LReDWmJFvwF2) first. Visit the "Silver Pavilion" for its dry garden, moss and villa landscape; allow **30–45 minutes**.
+  - Walk back down the temple’s shopping approach to **Ginkakuji-bashi bridge**, where it meets the canal: allow **5–10 minutes**. This is the northern starting point of the Philosopher’s Path.
+  - Turn **south** and follow the canal for approximately **2 km**, ending at **Nyakuoji Bridge beside Kumano Nyakuoji Shrine**. Allow **40–50 minutes** for the canal walk, without café or temple detours.
+  - Continue **south to Nanzen-ji**, allowing another **10–15 minutes**. These are walking allowances; the shrine is an endpoint landmark, not an extra visit. [Path route](https://www.japan-guide.com/e/e3906.html) · [Southern endpoint](https://www.gpsmycity.com/attractions/philosophers-path-south-end-58857.html)
   - *In rain:* cut the canal walk first and use a taxi between Ginkaku-ji and Nanzen-ji. In persistent rain, Ginkaku-ji’s outdoor garden visit can also be dropped; go straight to Nanzen-ji after lunch.
-- **15:30: Nanzen-ji:** A major Zen temple complex with broad precincts and a striking nineteenth-century brick aqueduct crossing the grounds. The grounds pair a Zen landscape with nineteenth-century industrial engineering; the aqueduct area is free to visit.
+- **Around 15:45–16:00: Nanzen-ji:** A major Zen temple complex with broad precincts and a striking nineteenth-century brick aqueduct crossing the grounds. The grounds pair a Zen landscape with nineteenth-century industrial engineering; the aqueduct area is free to visit.
   - *In rain:* shorten the aqueduct and grounds visit. The optional paid Hōjō has roofed garden-viewing areas; if you have had enough, skip Nanzen-ji and return to the hotel.
 - **17:00** Return to hotel, rest
 - **18:30: Mid-range kaiseki dinner in Gion:** Kaiseki is a seasonal multi-course format balancing flavour, technique, tableware and presentation.
