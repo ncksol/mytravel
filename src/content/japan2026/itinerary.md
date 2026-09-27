@@ -225,96 +225,24 @@ In steady or heavy rain, return to the hotel directly after dinner. Gion is also
 
 ## Day 10: Monday, Sep 28: east Kyoto temples and traditions
 
-[Fushimi Inari](#0730-fushimi-inari) · [Kiyomizu and Gion](#1000-kiyomizu-dera-and-the-old-lanes) · [Afternoon choices](#after-lunch-choose-the-afternoon) · [Dinner](#1830-dinner-in-gion)
+Eastern Kyoto temple circuit. Timings after Fushimi Inari are approximate.
 
-Times are targets, not bookings. Allow longer for transfers in rain; shorten the optional stops if the day slips.
+- **07:30: Fushimi Inari Taisha:** The head shrine of Inari, the Shinto deity associated with rice and prosperity, famous for thousands of donated vermilion torii shrine gates climbing Mount Inari. Hike only to the Yotsutsuji intersection for city views; the Senbon Torii double rows appear near the beginning, so there is no need to summit.
+  - *In rain:* skip the climb to Yotsutsuji and turn back at Okusha, just beyond the Senbon Torii gate rows.
+- **After Fushimi Inari:** Breakfast near Fushimi Inari or grab coffee on the way to the next stop
+- **Late morning: Kiyomizu-dera, Sannenzaka and Ninenzaka:** Kiyomizu-dera is a major hillside Buddhist temple whose wooden stage opens over eastern Kyoto; the preserved sloping lanes below retain traditional shopfronts and townscape. Together, they combine temple architecture, city views and historic-street atmosphere in one stop.
+  - *In rain:* shorten the Sannenzaka/Ninenzaka browsing; keep Kiyomizu-dera unless you want to cut the exposed hillside visit too.
+- **Before lunch: Kodai-ji or Yasaka Shrine:** Kodai-ji is a refined Zen memorial temple with gardens and links to Toyotomi Hideyoshi's widow; Yasaka is Gion's lively guardian shrine. Choose Kodai-ji for designed tranquillity or Yasaka for a shorter, more energetic stop.
+  - *In rain:* this is an easy stop to drop if the morning runs late.
+- **Around 12:30: Yudofu lunch in Gion:** Yudofu is gently simmered tofu served with simple accompaniments, a Kyoto temple-cuisine speciality. Gion is the historic geiko district in Higashiyama.
+- **Around 14:00: Philosopher's Path and Ginkaku-ji:** The Philosopher's Path is a two-kilometre canal walk linking quiet residential north-east Kyoto to Ginkaku-ji. Visit the "Silver Pavilion" for its carefully composed dry garden, moss and villa landscape, a calmer stop after busy Kiyomizu.
+  - *In rain:* cut the canal walk first and use a taxi between Ginkaku-ji and Nanzen-ji. In persistent rain, Ginkaku-ji’s outdoor garden visit can also be dropped; go straight to Nanzen-ji after lunch.
+- **15:30: Nanzen-ji:** A major Zen temple complex with broad precincts and a striking nineteenth-century brick aqueduct crossing the grounds. The grounds pair a Zen landscape with nineteenth-century industrial engineering; the aqueduct area is free to visit.
+  - *In rain:* shorten the aqueduct and grounds visit. The optional paid Hōjō has roofed garden-viewing areas; if you have had enough, skip Nanzen-ji and return to the hotel.
+- **17:00** Return to hotel, rest
+- **18:30: Mid-range kaiseki dinner in Gion:** Kaiseki is a seasonal multi-course format balancing flavour, technique, tableware and presentation.
 
-### Before leaving
-
-Check [JMA’s rain and lightning radar](https://www.jma.go.jp/bosai/nowc/#lang=en). Take an umbrella, shoes with grip and a waterproof pouch for your phone.
-
-- **Light or manageable rain:** aim to arrive at Fushimi Inari at **07:30**. Ask hotel reception to arrange a taxi and advise the pickup time. Eat before leaving, or bring breakfast with you. If the taxi is delayed, move the morning times back and drop the optional Kodai-ji/Yasaka stop first.
-- **Heavy rain or thunder:** stay at the hotel for breakfast and reassess around 08:30. Once conditions improve, take a taxi towards Kiyomizu-dera and begin there, skipping Fushimi Inari that morning. If bad weather continues, delay further; the afternoon sights are optional.
-
-Hotel breakfast is served **06:30–11:00, last entry 10:00**. If your room rate does not include it, the published adult price is about **£15.60 (¥2,970)**. [Hotel breakfast](https://www.gardenhotels.co.jp/kyoto-shinmachi/eng/breakfast/)
-
-If thunder starts while you are out, go into a substantial enclosed building or a hard-topped vehicle. Torii gates, trees and open verandas are not lightning shelter. [Lightning guidance](https://www.weather.gov/ind/LightningSafetyAwareness)
-
-### 07:30: Fushimi Inari
-
-The shrine’s donated vermilion gates climb Mount Inari. Walk through the main shrine and the double rows of **Senbon Torii to Okusha**, the prayer building at their far end, then return. Allow **60–90 minutes** for this shorter visit.
-
-In wet weather, Okusha is the turnaround. If conditions improve and you want the longer walk, continue towards Yotsutsuji for city views, then return by the same route. Let Kiyomizu and lunch move later; omit the optional late-morning stop and choose just one afternoon temple. The gates do not keep the rain out.
-
-[Official map](https://inari.jp/en/map/) · [Okusha](https://inari.jp/en/map/spot_08/)
-
-### Around 09:00: onwards to Higashiyama
-
-After the shorter shrine walk, stop for a drink or snack if you want one, then head to Higashiyama. If you need a full breakfast here, let the next stop move later rather than rushing it.
-
-Take a taxi towards **Kiyomizu-dera**, then walk the final approach. For a rail alternative, walk about five minutes to **Keihan Fushimi-inari Station**, travel to **Kiyomizu-Gojo**, then allow about **25 minutes uphill on foot**. Use the taxi option if avoiding that exposed walk matters more than the fare.
-
-[Fushimi station access](https://inari.jp/en/access/) · [Kiyomizu approaches](https://www.kiyomizudera.or.jp/en/location/)
-
-### 10:00: Kiyomizu-dera and the old lanes
-
-Visit the hillside Buddhist temple and its wooden stage overlooking eastern Kyoto. Afterwards, descend through **Sannenzaka and Ninenzaka**, the sloping streets of traditional shopfronts.
-
-Allow roughly **90 minutes to two hours** for the temple and lanes. In steady rain, keep the temple and shorten the browsing. The approaches and much of the grounds are outdoors. Normal opening hours are **06:00–18:00**. [Visitor guide](https://www.kiyomizudera.or.jp/en/location/)
-
-### Late morning: optional Kodai-ji or Yasaka Shrine
-
-If you finish the lanes with time and energy to spare, choose one:
-
-- **Kodai-ji:** Nene’s memorial temple for Toyotomi Hideyoshi, with gardens and historic buildings. Allow roughly an hour, then continue to Gion; lunch may be later.
-- **Yasaka Shrine:** a shorter shrine visit on the way into Gion, with a vermilion gate facing Shijo Street.
-
-Skip this stop if wet, hungry or running late. [Kodai-ji](https://www.kodaiji.com/e_index.html) · [Yasaka Shrine](https://www.yasaka-jinja.or.jp/en/)
-
-### Around 12:30: lunch in Gion
-
-Sit down for lunch and a dry break. Yudofu, gently simmered tofu with accompaniments, is the Kyoto-style choice. Allow about an hour; choose the afternoon after eating, rather than cutting lunch short to meet a departure time.
-
-### After lunch: choose the afternoon
-
-If lunch finishes after **14:00**, choose one afternoon temple: Ginkaku-ji followed by the hotel, or Nanzen-ji as in option B. Leave out the canal walk and the second temple.
-
-#### A. Dry or occasional light showers
-
-Take a taxi from Gion to **Ginkaku-ji**. Aim for around **14:00**, allowing the arrival to slip with lunch or traffic. Its Silver Pavilion stands among sand gardens and moss; the normal visit is through the gardens, not inside the pavilion. Allow **30–45 minutes**. [Official visitor FAQ](https://www.shokoku-ji.jp/en/ginkakuji/faq/)
-
-Then choose your transfer to Nanzen-ji:
-
-- **Want the walk:** follow the approximately **two-kilometre Philosopher’s Path south**, then continue to Nanzen-ji. Allow roughly **50–60 minutes** from Ginkaku-ji, including the approach beyond the canal. This is a walking allowance, without café or temple detours.
-- **Want less exposure:** take a taxi from the Ginkaku-ji area directly to Nanzen-ji, skipping the canal walk.
-
-Aim for **Nanzen-ji around 15:30**. If you are leaving Ginkaku-ji after 14:45, take the taxi or finish sightseeing there and return to the hotel. [Canal route](https://www.japan-guide.com/e/e3906.html)
-
-#### B. Persistent rain, but you want another temple
-
-Take a taxi **directly from Gion to Nanzen-ji**, skipping Ginkaku-ji and the canal walk. Make the **Hōjō Garden** the main visit: connected temple buildings and broad verandas overlook dry-landscape gardens, with painted sliding screens inside. Much of the viewing is roofed; the approach remains exposed.
-
-Allow roughly an hour here, then return to the hotel whenever you are ready.
-
-#### C. Heavy rain, thunder or enough walking
-
-Return to **Mitsui Garden Hotel Kyoto Shinmachi Bettei** after lunch. If thunder is active, stay indoors while arranging transport.
-
-### Nanzen-ji: buildings, gardens and the aqueduct
-
-The Zen temple’s grounds contain a nineteenth-century brick aqueduct, part of the Lake Biwa canal system. The aqueduct area is free and outdoors; take a short look if conditions allow.
-
-The paid **Hōjō Garden** costs about **£3.20 (¥600) per adult**. Opening is **08:40–17:00, final admission 16:40**. In rain, prioritise the roofed building and garden-viewing areas over lingering around the aqueduct.
-
-For the full afternoon, **leave around 16:20** and take a taxi back to the hotel, aiming for rest around **17:00**, traffic permitting. If you arrive late at Nanzen-ji, choose the Hōjō or a brief grounds visit rather than squeezing in both.
-
-[Hōjō architecture](https://nanzenji.or.jp/equipment/houjo) · [Hours and fees](https://nanzenji.or.jp/about_rinzaishu/visit) · [Aqueduct](https://www.japan.travel/en/spot/1175/)
-
-### 18:30: dinner in Gion
-
-Head back to Gion for a mid-range **kaiseki** dinner: seasonal courses served with attention to flavour, presentation and tableware. Take a taxi if it is still raining. Allow time to get there after the hotel break; 18:30 is the dinner target.
-
-*Sterling prices use the trip’s approximate budgeting rate of ¥190 to £1.*
+[Fushimi Inari map](https://inari.jp/en/map/) · [Kiyomizu-dera](https://www.kiyomizudera.or.jp/en/location/) · [Ginkaku-ji visitor information](https://www.shokoku-ji.jp/en/ginkakuji/faq/) · [Nanzen-ji Hōjō](https://nanzenji.or.jp/equipment/houjo)
 
 ## Day 11: Tuesday, Sep 29: Uji and Tōfuku-ji
 
