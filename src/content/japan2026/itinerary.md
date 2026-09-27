@@ -162,10 +162,66 @@ Travel day and first Kyoto evening.
 - **11:46–13:37: SmartEX confirmed:** **Hikari 709, Mishima to Kyoto**, Green Car 10, seats **4-C and 4-D**, **¥29,540 total for two**.
 - **~14:00: Kyoto Station lunch if needed:** Use an ekiben (a regional boxed railway meal), noodle counter or station food hall.
 - **~15:00** Check into **Mitsui Garden Hotel Kyoto Shinmachi Bettei** (361 Rokkaku-cho, Shinmachi-dori, Karasuma side, 7 min from Shijo station). Arrange Yamato delivery of the main suitcase to Haneda Terminal 3 with reception for the Oct 3 flight. Agree the handover time for Sep 30, or Sep 29 if the hotel requires it.
-- **15:30: Nishiki Market:** A narrow covered food street known as "Kyoto's Kitchen", with vendors selling pickles, tea, sweets, seafood and kitchen goods. Use it as a short introduction to local food culture. Individual stalls vary and many close early on Sundays, so do not rely on it as a full grazing session.
-- **17:00: Pontocho Alley:** A narrow lantern-lined restaurant alley running parallel to the Kamo River. Scout it for its compressed old-Kyoto atmosphere and practical cluster of dinner options.
-- **18:30: Obanzai dinner around Pontocho or Kiyamachi:** Obanzai is Kyoto home-style cooking built from seasonal vegetables, tofu and small dishes. Kiyamachi is the livelier canal-side restaurant street parallel to Pontocho, giving more informal choice when the tiny alley is busy.
-- **20:00: Gion:** Kyoto's historic geiko district, known for preserved machiya wooden townhouses and evening lanterns. Walk through after the day visitors thin out. Treat any geiko (traditional performing artist) or apprentice maiko sighting as incidental, never something to chase or photograph intrusively.
+
+[Leave the hotel](#1615-leave-for-nishiki) · [Dinner](#18001830-pontocho-and-dinner) · [After dinner](#around-2000-optional-gion-stroll)
+
+### Now until around 16:15: hotel rest
+
+Stay at **Mitsui Garden Hotel Kyoto Shinmachi Bettei**, unpack and unwind. Leave luggage and the kimono purchases in your room.
+
+Before heading out, ask reception to help arrange an **indoor obanzai dinner around Pontocho or Kiyamachi for roughly 18:30**. Obanzai is Kyoto home-style cooking served as seasonal small dishes. If there is no suitable table, keep the dinner area flexible rather than spending the evening in a queue.
+
+### Weather check before leaving
+
+The latest JMA forecast retrieved at 15:30, issued at 13:00, gives southern Kyoto **cloud with intermittent rain and possible local thunder**. Rain probability is **50% for both 12:00–18:00 and 18:00–24:00**. There is no dependable dry-evening window in that forecast.
+
+Check [JMA’s radar](https://www.jma.go.jp/bosai/nowc/#lang=en) and conditions outside. In light or moderate rain, take an umbrella and follow the route below. In heavy rain or thunder, stay at the hotel longer. If you are not ready to leave until around 17:00 or later, skip Nishiki.
+
+If bad weather continues near dinner time, ask reception to arrange a taxi from the hotel entrance straight to your restaurant, with a pickup time suited to your table and traffic. Wait indoors for it. If transport is delayed or the journey is unsafe, contact the restaurant to move or cancel the table. Without a reservation, you can stay at the hotel longer and ask reception about a nearby indoor dinner option once conditions allow.
+
+[Official forecast](https://www.jma.go.jp/bosai/forecast/data/forecast/260000.json)
+
+### 16:15: leave for Nishiki
+
+Head to the **western end of Nishiki Market near Takakura Street**, allowing roughly **15–20 minutes on foot** from the hotel. This is a planning allowance; the approach is outdoors. If the rain makes that walk unpleasant, use a taxi to a nearby accessible street and walk the final approach.
+
+**Around 16:30–17:15:** browse east through the market towards Teramachi. The arcade is a compact introduction to Kyoto food: pickles, sweets, dried ingredients and kitchenware. Have a small snack if you fancy one, eating at the stall or its seating area, and leave room for dinner.
+
+Shop hours vary, with typical hours around **10:00–18:00** and some Sunday closures. Treat this as a short browse of what is still open. If the market is already winding down, continue to the covered shopping arcades rather than waiting around.
+
+[Hotel access](https://www.gardenhotels.co.jp/kyoto-shinmachi/eng/access/) · [Nishiki Market](https://www.kyoto-nishiki.or.jp/en/) · [Shop-hour guidance](https://www.japan-guide.com/e/e3931.html)
+
+### Around 17:15: a break near Teramachi
+
+At Nishiki’s eastern end, turn north into the **Teramachi covered arcade**. The parallel **Shinkyogoku arcade** is another option for a short browse. These streets mix everyday shops, souvenirs and places to eat; you do not need to buy anything.
+
+Take a seated café break if you want one. Aim to leave for dinner around **17:50–18:00**, adjusted to the restaurant’s location and any table time arranged by reception.
+
+- **Dry or light showers:** continue towards Pontocho for a short walk before dinner.
+- **Persistent rain:** stay under cover longer, then go directly to dinner. The arcades do not provide a covered route all the way to Pontocho.
+- **Thunder:** stay inside a substantial enclosed building while arranging transport; an open-sided arcade is not lightning shelter.
+
+[Shopping-arcade geography](https://www.japan-guide.com/e/e3958.html) · [Lightning guidance](https://www.weather.gov/ind/LightningSafetyAwareness)
+
+### 18:00–18:30: Pontocho and dinner
+
+From the arcades, head east towards **Pontocho**, the narrow restaurant lane just west of the Kamo River, running between Sanjo and Shijo. Allow roughly **15–25 minutes** for the approach and a brief alley stroll, depending on where you finish your break.
+
+The wooden restaurant fronts and lanterns are the attraction here. Keep the walk short and finish at your dinner venue; you do not need to walk the alley twice. **Kiyamachi** is the nearby alternative dinner area.
+
+If it is pouring, omit the stroll and head straight to your indoor table. If no table has been arranged, check menus and indoor availability before committing to a queue. Dinner takes priority over ticking off the alley.
+
+[Pontocho](https://www.japan-guide.com/e/e3921.html)
+
+### Around 20:00: optional Gion stroll
+
+If the rain has eased and you still feel like walking, cross the Kamo River into **Gion**. Choose the **Shirakawa canal area**, with willow-lined water and traditional wooden buildings, for a short evening loop. Allow roughly **30–40 minutes from the Pontocho area**, including the approach, then take a taxi back to the hotel if you have had enough walking.
+
+If you particularly want the traditional merchant-house street instead, choose **Hanami-koji** in place of Shirakawa. Follow public streets and respect signs restricting entry or photography.
+
+In steady or heavy rain, return to the hotel directly after dinner. Gion is also on Monday’s route. Aim to be back around **20:30–21:00**, with an earlier finish if you skip the walk.
+
+[Gion and its two walking areas](https://www.japan-guide.com/e/e3902.html) · [Local visitor guidance](https://kyoto.travel/en/responsible-travel/gion-manner-message-from-southern-gionmachi/)
 
 ## Day 10: Monday, Sep 28: east Kyoto temples and traditions
 
