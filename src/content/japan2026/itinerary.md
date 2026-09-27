@@ -225,27 +225,36 @@ In steady or heavy rain, return to the hotel directly after dinner. Gion is also
 
 ## Day 10: Monday, Sep 28: east Kyoto temples and traditions
 
-Eastern Kyoto temple circuit. Timings after Fushimi Inari are approximate.
+Eastern Kyoto temple circuit. Timings after Fushimi Inari are approximate; transfer times below are planning allowances.
+
+**Hotel to Fushimi Inari: transport.** Allow **45–60 minutes** by subway and JR train via Kyoto Station, including station walks and the change. A taxi is an alternative.
 
 - **07:30: Fushimi Inari Taisha:** The head shrine of Inari, the Shinto deity associated with rice and prosperity, famous for thousands of donated vermilion torii shrine gates climbing Mount Inari. Hike only to the Yotsutsuji intersection for city views; the Senbon Torii double rows appear near the beginning, so there is no need to summit.
   - *In rain:* skip the climb to Yotsutsuji and turn back at Okusha, just beyond the Senbon Torii gate rows.
-- **After Fushimi Inari:** Breakfast near Fushimi Inari or grab coffee on the way to the next stop
+- **After Fushimi Inari:** Breakfast near Fushimi Inari or grab coffee on the way to the next stop.
+  - **To Kiyomizu-dera: transport.** Allow **45–60 minutes** by Keihan train to Kiyomizu-Gojo and walking; the final uphill walk is about 25 minutes. A taxi shortens the walking approach.
 - **Late morning: Kiyomizu-dera, Sannenzaka and Ninenzaka:** Kiyomizu-dera is a major hillside Buddhist temple whose wooden stage opens over eastern Kyoto; the preserved sloping lanes below retain traditional shopfronts and townscape. Together, they combine temple architecture, city views and historic-street atmosphere in one stop.
+  - **To the old lanes: walk.** About **10 minutes downhill**, plus browsing time.
   - *In rain:* shorten the Sannenzaka/Ninenzaka browsing; keep Kiyomizu-dera unless you want to cut the exposed hillside visit too.
+  - **From Ninenzaka to Kodai-ji or Yasaka: walk.** Allow **10–20 minutes**, depending on which stop you choose.
 - **Before lunch: Kodai-ji or Yasaka Shrine:** Kodai-ji is a refined Zen memorial temple with gardens and links to Toyotomi Hideyoshi's widow; Yasaka is Gion's lively guardian shrine. Choose Kodai-ji for designed tranquillity or Yasaka for a shorter, more energetic stop.
   - *In rain:* this is an easy stop to drop if the morning runs late.
+  - **To lunch in Gion: walk.** Allow **5–15 minutes** from Yasaka or **10–20 minutes** from Kodai-ji, depending on the restaurant.
 - **Around 12:30: Yudofu lunch in Gion:** Yudofu is gently simmered tofu served with simple accompaniments, a Kyoto temple-cuisine speciality. Gion is the historic geiko district in Higashiyama.
-- **Around 14:00: Ginkaku-ji, then the Philosopher’s Path:** Arrive at [Ginkaku-ji](https://goo.gl/maps/LReDWmJFvwF2) first. Visit the "Silver Pavilion" for its dry garden, moss and villa landscape; allow **30–45 minutes**.
-  - Walk back down the temple’s shopping approach to **Ginkakuji-bashi bridge**, where it meets the canal: allow **5–10 minutes**. This is the northern starting point of the Philosopher’s Path.
-  - Turn **south** and follow the canal for approximately **2 km**, ending at **Nyakuoji Bridge beside Kumano Nyakuoji Shrine**. Allow **40–50 minutes** for the canal walk, without café or temple detours.
-  - Continue **south to Nanzen-ji**, allowing another **10–15 minutes**. These are walking allowances; the shrine is an endpoint landmark, not an extra visit. [Path route](https://www.japan-guide.com/e/e3906.html) · [Southern endpoint](https://www.gpsmycity.com/attractions/philosophers-path-south-end-58857.html)
+  - **To Ginkaku-ji: transport.** Allow **45–60 minutes** by train/bus and walking, via Demachiyanagi. A taxi is the simpler alternative.
+- **Around 14:00: Ginkaku-ji, then Philosopher’s Path:** Visit the [Silver Pavilion](https://goo.gl/maps/LReDWmJFvwF2) for its dry garden, moss and villa landscape. Allow **30–45 minutes**.
+  - **To Nanzen-ji: walk.** Join the canal near Ginkaku-ji and follow the Philosopher’s Path **south towards Nanzen-ji**, allowing **about an hour** for the walk. [Path route](https://www.japan-guide.com/e/e3906.html)
   - *In rain:* cut the canal walk first and use a taxi between Ginkaku-ji and Nanzen-ji. In persistent rain, Ginkaku-ji’s outdoor garden visit can also be dropped; go straight to Nanzen-ji after lunch.
 - **Around 15:45–16:00: Nanzen-ji:** A major Zen temple complex with broad precincts and a striking nineteenth-century brick aqueduct crossing the grounds. The grounds pair a Zen landscape with nineteenth-century industrial engineering; the aqueduct area is free to visit.
   - *In rain:* shorten the aqueduct and grounds visit. The optional paid Hōjō has roofed garden-viewing areas; if you have had enough, skip Nanzen-ji and return to the hotel.
 - **17:00** Return to hotel, rest
+  - **Nanzen-ji to hotel: transport.** Allow **35–45 minutes** by subway from Keage to Karasuma Oike, including walks at both ends. A taxi is an alternative.
+  - **Hotel to dinner in Gion: walk or taxi.** Allow **30–40 minutes on foot**, depending on the restaurant; take a taxi if you prefer.
 - **18:30: Mid-range kaiseki dinner in Gion:** Kaiseki is a seasonal multi-course format balancing flavour, technique, tableware and presentation.
 
 [Fushimi Inari map](https://inari.jp/en/map/) · [Kiyomizu-dera](https://www.kiyomizudera.or.jp/en/location/) · [Ginkaku-ji visitor information](https://www.shokoku-ji.jp/en/ginkakuji/faq/) · [Nanzen-ji Hōjō](https://nanzenji.or.jp/equipment/houjo)
+
+[Kyoto transport guidance](https://kyoto.travel/en/getting-around/comfortable-access-to-ginkaku-ji-temple-philosophers-path/) · [Nanzen-ji access](https://kyoto.travel/en/getting-around/comfortable-access-to-okazaki/) · [Higashiyama walking route](https://kyoto.travel/en/itineraries/higashiyama-at-dawn/)
 
 ## Day 11: Tuesday, Sep 29: Uji and Tōfuku-ji
 
