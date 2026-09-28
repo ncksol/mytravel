@@ -4,7 +4,7 @@
 
 [Day 2 (20 Sep)](#day-2-sunday-sep-20-hidden-tokyo-neighbourhoods-silver-week) · [Day 3 (21 Sep)](#day-3-monday-sep-21-meiji-shrine-and-ginza-respect-for-the-aged-day) · [Day 4 (22 Sep)](#day-4-tuesday-sep-22-birthday-silver-week-holiday) · [Day 5 (23 Sep)](#day-5-wednesday-sep-23-explorer-day-autumnal-equinox-day) · [Day 6 (24 Sep)](#day-6-thursday-sep-24-classic-tokyo-and-shopping)
 
-[Day 7 (25 Sep)](#day-7-friday-sep-25-tokyo-to-shuzenji-onsen) · [Day 8 (26 Sep)](#day-8-saturday-sep-26-shuzenji-onsen-slow-day) · [Day 9 (27 Sep)](#day-9-sunday-sep-27-shuzenji-to-kyoto) · [Day 10 (28 Sep)](#day-10-monday-sep-28-east-kyoto-temples-and-traditions) · [Day 11 (29 Sep)](#day-11-tuesday-sep-29-uji-and-tōfuku-ji)
+[Day 7 (25 Sep)](#day-7-friday-sep-25-tokyo-to-shuzenji-onsen) · [Day 8 (26 Sep)](#day-8-saturday-sep-26-shuzenji-onsen-slow-day) · [Day 9 (27 Sep)](#day-9-sunday-sep-27-shuzenji-to-kyoto) · [Day 10 (28 Sep)](#day-10-monday-sep-28-east-kyoto-temples-and-traditions) · [Day 11 (29 Sep)](#day-11-tuesday-sep-29-arashiyama-denden-gu-and-the-sagano-temples)
 
 [Day 12 (30 Sep)](#day-12-wednesday-sep-30-kurama-to-kibune-mountain-day) · [Day 13 (1 Oct)](#day-13-thursday-oct-1-kyoto-to-nara-to-osaka) · [Day 14 (2 Oct)](#day-14-friday-oct-2-osaka-neighbourhoods) · [Day 15 (3 Oct)](#day-15-saturday-oct-3-osaka-to-haneda-and-departure)
 
@@ -256,27 +256,73 @@ Eastern Kyoto temple circuit. Timings after Fushimi Inari are approximate; trans
 
 [Kyoto transport guidance](https://kyoto.travel/en/getting-around/comfortable-access-to-ginkaku-ji-temple-philosophers-path/) · [Nanzen-ji access](https://kyoto.travel/en/getting-around/comfortable-access-to-okazaki/) · [Higashiyama walking route](https://kyoto.travel/en/itineraries/higashiyama-at-dawn/)
 
-## Day 11: Tuesday, Sep 29: Uji and Tōfuku-ji
+<span id="day-11-tuesday-sep-29-uji-and-tōfuku-ji"></span>
 
-Uji has Heian-era architecture at Byōdō-in (1053), the UNESCO-listed Ujigami shrine and a long tea tradition. The JR Nara line connects it to Mirei Shigemori’s 1939 modernist Zen garden at Tōfuku-ji.
+## Day 11: Tuesday, Sep 29: Arashiyama, Denden-gu and the Sagano temples
 
-- **10:00** Hotel departure. Walk to Kyoto Station. JR Nara line to **Uji** (~30 min local, ¥240, or ~17 min rapid)
-- **11:00: Byōdō-in Phoenix Hall:** An eleventh-century aristocratic Pure Land Buddhist temple whose symmetrical hall and reflecting pond appear on the ¥10 coin. The grounds ticket includes the **Hōshō-kan**, an underground-designed museum displaying the temple bell, phoenix ornaments, statues of Buddhist figures riding clouds and other original treasures. These details cannot be read from the hall's exterior. Grounds and museum ¥700; the hall interior tour is another ¥300 via limited same-day timed slots, so queue early. Allow about 75 minutes.
-- **12:30: Uji tea lunch:** Uji is a Japanese tea centre. Choose Tsuen Tea, a centuries-old bridge-side teahouse, for its long history and riverside setting; Nakamura Tokichi for matcha-infused soba and desserts, accepting longer queues; or Fukujuen Uji Workshop to roast hōjicha, a nutty roasted green tea, yourself. Lunch here gives you time to taste Uji tea and try dishes made with it. Budget ¥1,500–2,500 per person.
-- **13:45: Ujigami Jinja:** A small UNESCO-listed shrine preserving Japan's oldest extant Shinto shrine buildings. Its quiet scale and ancient timber architecture are markedly different from Fushimi Inari's monumental gate landscape. Free; allow about 30 minutes.
-- **14:30: Uji River walk:** A calm riverside route with Tale of Genji literary connections. Walk between the riverside sights, with an optional second tea tasting.
-- **15:15** JR Nara line back toward Kyoto, alight at **Tōfuku-ji** (~15 min)
-- **Approximately 15:40: Tōfuku-ji:** One of Kyoto's Five Great Zen temples. Visit Mirei Shigemori's 1939 Hōjō Garden, where chequerboard moss and stone recast the Zen garden in modernist form. Hōjō garden ¥500. Entry closes at **16:00**, leaving roughly 50 minutes before the 16:30 closing; if the Uji morning slips, drop it.
-- **17:00** Train back to Kyoto centre
-- **~19:00: Light dinner:** Choose **Pontocho**, the narrow lantern-lit restaurant alley by the Kamo River, for obanzai, seasonal Kyoto home cooking served as small dishes. The **Nishiki** food-market area is the simpler alternative.
+The bamboo grove first, followed by a Zen garden, Denden-gu and the northern Sagano temples. Times are approximate; travel allowances include walking and waiting.
 
-All stops are walk-up, with no advance bookings needed.
+- **07:30: leave the hotel for Arashiyama.**
+  - **Transport:** walk to Karasuma Station, take Hankyu via Katsura to Hankyu Arashiyama, then walk straight to the bamboo grove near Nonomiya. Allow **about an hour overall**; leave the bridge sightseeing for later.
+- **08:30: Arashiyama Bamboo Grove.** Tall bamboo forms a green corridor beside Tenryū-ji. Start near Nonomiya, follow the main path west towards the Ōkōchi Sansō entrance, then return to Tenryū-ji's north gate.
+  - **Walk:** roughly **20–30 minutes through the grove and back to the temple gate**. Ōkōchi Sansō is the turnaround landmark, not another garden visit.
+  - *In rain:* shorten the out-and-back rather than adding the surrounding park paths.
+- **09:00: Tenryū-ji.** A major Zen temple whose Sōgenchi pond garden brings the surrounding mountains into its composition. Enter from the north gate and visit the garden and temple buildings, including the abbot's hall overlooking the pond. Leave through the main entrance towards the river.
+  - *In rain:* favour the hall and its covered garden views; shorten the uphill garden paths. Temple buildings can occasionally close for ceremonies.
+  - **To Togetsukyō Bridge: walk, about 5–10 minutes.**
+- **10:15: Togetsukyō Bridge.** Cross south over the river towards Hōrin-ji, with the wooded mountain rising ahead. This is the broad river-and-mountain view at the centre of Arashiyama.
+  - *In rain:* cross on the way to the shrine and omit extra riverside wandering.
+  - **To Denden-gu: walk, about 10–15 minutes, including the temple steps.**
+- **10:45: Denden-gu Shrine, within Hōrin-ji.** This small shrine on the temple steps is dedicated to electricity, electronics and radio waves. Nearby memorials honour Edison and Helmholtz. The main temple above has a terrace overlooking Arashiyama.
+  - *In rain:* keep Denden-gu; the extra climb to the temple terrace is optional.
+  - **To lunch: walk back across the bridge, roughly 15–25 minutes**, depending on the restaurant.
+- **11:30: lunch in central Arashiyama.** **Ozuru** serves udon with options including yuba, the delicate skin formed on heated soy milk. **Arashiyama Yoshimura**, near the bridge, is the alternative for handmade soba and river views. Choose whichever has a manageable queue.
+  - **To Otagi Nenbutsu-ji: transport.** A taxi from central Arashiyama takes roughly **10–15 minutes**, plus pickup time. Alternatively, Kyoto Bus **94 towards Kiyotaki**, from Nonomiya to Otagidera-mae, takes roughly **25 minutes plus waiting**; buses are roughly hourly. If lunch or the bus runs late, omit Adashino below.
+- **13:15: Otagi Nenbutsu-ji.** The hillside temple has around 1,200 stone figures representing Buddha's disciples, with individual expressions ranging from solemn to mischievous. Look for the small differences in their faces and poses. The temple closes at **16:00**.
+  - *In rain:* shorten the outdoor statue circuit. If you decide against the northern temples altogether, return to the hotel from central Arashiyama after lunch.
+  - **Onward: walk downhill through Saga-Toriimoto towards Adashino, roughly 20 minutes.**
+- **14:00: Saga-Toriimoto preserved street.** Follow the old approach road downhill past traditional houses and thatched-roof buildings towards Adashino Nenbutsu-ji. This is the village streetscape between the northern temples.
+  - *In rain:* keep moving through the street rather than extending the stroll.
+- **14:15: optional Adashino Nenbutsu-ji.** Thousands of stone memorial markers recall the area's long history as a burial ground; a bamboo path runs behind them. This is a memorial landscape, distinct from Otagi's expressive carved figures.
+  - *In rain or if running late:* skip this visit and continue to Giō-ji. If you do enter, photography is prohibited inside the walled Sai no Kawara memorial enclosure.
+  - **To Giō-ji: walk, about 15–20 minutes.**
+- **15:00: Giō-ji.** A small thatched temple beside a moss garden beneath maples and bamboo. Its story comes from *The Tale of the Heike*: the dancer Giō withdrew here after losing Taira no Kiyomori's favour. **Last admission is 16:30.**
+  - *In rain:* keep the moss-garden visit brief, or head back if you have finished sightseeing.
+  - **To the hotel: walk and train, roughly 60–75 minutes overall.** Walk about 25–30 minutes to JR Saga-Arashiyama, take JR to Kyoto, then the subway to Shijo. A taxi to the station can shorten the walking leg.
+- **16:30–16:45: hotel rest.**
+- **19:00: light dinner near the hotel or in Pontocho.** Choose soba or obanzai, Kyoto home cooking served in small dishes. Pontocho adds the atmosphere of a narrow restaurant alley beside the river.
+  - **Walk:** nearby hotel-area restaurants are about **5–15 minutes away**; Pontocho is roughly **20–30 minutes**. A taxi is optional.
+  - *In rain:* keep dinner and omit the extra evening stroll.
+
+**Shorter afternoon:** after lunch, return from Hankyu Arashiyama via Katsura to Karasuma, allowing roughly **45–60 minutes to the hotel**, including station walks.
 
 <details>
-<summary>Alternative day: Arashiyama temples and bamboo grove</summary>
+<summary>Alternative day: Uji and Tōfuku-ji</summary>
 
-If the morning is gorgeous and you want forest-and-village atmosphere instead:
-- Start at the bamboo grove early, before the crowds. Continue to **Tenryū-ji**, a major Zen temple whose Musō Soseki garden anchors Arashiyama's religious history, then **Otagi Nenbutsu-ji**, a quieter hillside temple filled with 1,200 individually carved rakan figures representing Buddha's disciples. **Gio-ji** is a tiny moss garden valued for intimacy and texture. Have lunch in Arashiyama, with **Adashino Nenbutsu-ji** optional for massed stone memorials that give the district a more sombre historical layer.
+Uji's temples, tea houses and river, followed by Mirei Shigemori's modernist Zen garden. Times are approximate except the admission cutoffs.
+
+- **10:00: leave the hotel for Uji.**
+  - **Transport:** subway from Shijo to Kyoto Station, then JR to Uji. Allow roughly **60–75 minutes to Byōdō-in**, including walking. A taxi to Kyoto Station is an alternative.
+- **11:15: Byōdō-in and Hōshō-kan museum.** The Phoenix Hall is an eleventh-century timber temple beside a reflecting pond. The museum houses its bell, phoenix ornaments and cloud-borne Buddhist figures. For the optional hall interior, ask about available same-day timed tickets on arrival.
+  - *In rain:* shorten the garden circuit and spend more of the visit in the museum.
+  - **To lunch: walk, roughly 10–15 minutes.**
+- **12:45: Uji tea lunch.** **Tsuen Tea**, beside Uji Bridge, serves tea soba and sweets in a historic tea house. **Nakamura Tokichi's main branch**, near JR Uji, is the alternative for tea soba and matcha desserts.
+  - *In rain:* keep the sit-down lunch; use Tsuen if Nakamura's queue is long.
+  - **To Ujigami: walk, about 10–15 minutes from Tsuen or 20–25 minutes from Nakamura.**
+- **13:45: Ujigami Jinja.** A small UNESCO-listed shrine with Japan's oldest surviving Shinto shrine buildings. Gates close at **16:00**.
+  - *In rain:* shorten or skip the shrine visit.
+- **14:15: Uji River walk.** Head down to the river and follow the east bank north towards **Uji Bridge**, then cross and finish at **JR Uji Station**. The riverside has links to the Uji chapters of *The Tale of Genji*.
+  - **Walk:** roughly **30–40 minutes through to the station**.
+  - *In rain:* skip the riverside detour and walk directly to JR Uji, about **20 minutes from Ujigami**. An extra tea stop is an option if you drop Tōfuku-ji.
+- **15:00: JR Uji to Tōfuku-ji.**
+  - **Transport:** JR towards Kyoto, then walk to the temple. Allow **40–50 minutes overall**. If you reach JR Uji after 15:00, skip Tōfuku-ji and return directly to Kyoto.
+- **15:45: Tōfuku-ji Hōjō Garden.** Mirei Shigemori's 1939 gardens use chequerboard moss, stone and clipped planting around the abbot's residence. **Last admission 16:00; closes 16:30.**
+  - *In rain:* view the gardens from the Hōjō verandas and shorten the wider grounds visit. Skip this stop if you prefer to finish after Uji.
+  - **To the hotel: transport, roughly 40–50 minutes**, including the walk to Tōfukuji Station, JR to Kyoto and subway to Shijo. Directly from JR Uji, allow **45–60 minutes**.
+- **17:15: hotel rest.**
+- **19:00: light dinner.** **Pontocho**, beside the Kamo River, has restaurants serving obanzai, seasonal Kyoto home cooking in small dishes. Restaurants around **Nishiki** are the nearer alternative.
+  - **From the hotel: walk, about 20–30 minutes to Pontocho or 10–20 minutes to the Nishiki area.** A taxi is optional; allow the same walking time back.
+  - *In rain:* keep dinner and omit any extra evening stroll.
 
 </details>
 
