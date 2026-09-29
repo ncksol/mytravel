@@ -335,21 +335,28 @@ Uji's temples, tea houses and river, followed by Mirei Shigemori's modernist Zen
 
 ## Day 12: Wednesday, Sep 30: Kurama to Kibune mountain day
 
-Ancient cedar forest, mountain-temple history and Kifune Shrine.
+Ancient cedar forest, mountain-temple history and Kifune Shrine. Times are approximate; journey allowances include walking and connections.
 
-- **10:00** Walk or take the Keihan line to Demachiyanagi, then the **Eizan Railway** to Kurama (~30 min, ¥470 pp)
-- **10:50** Arrive **Kurama**. Optional cable car ¥200 to skip the first steep stretch, or walk the full path
-- **11:00: Yuki-jinja:** A small mountainside shrine reached through an old cedar avenue on the climb from Kurama.
-- **11:30: Kurama-dera:** A mountain temple founded in the eighth century and wrapped in legends of tengu spirits and warrior training. Its appeal lies in the pilgrimage atmosphere and deep-forest setting as much as the buildings.
-- **12:15: Kurama-to-Kibune trail:** A roughly one-hour forest crossing over the mountain, with mossy roots and ancient cedars.
-- **13:15: Kifune Shrine:** A water deity shrine climbing the valley in lantern-lined stone terraces, with distinctive water-revealed fortunes.
-- **13:45: Kibune lunch:** Take a flexible late meal in the narrow riverside village to recover after the trail.
-- **15:30** Walk to Kibuneguchi, then take the Eizan Railway back towards Demachiyanagi (~30 min)
-- **16:00: Shimogamo Shrine:** One of Kyoto's oldest Shinto complexes, set within the ancient Tadasu no Mori woodland. It is directly on the return route and provides formal shrine architecture in a flat, spacious forest after the rugged mountain sites.
-- **17:00** Back to hotel area, rest
+- **10:00: leave the hotel for Kurama.**
+  - **Transport:** Hankyu from Karasuma to Kyoto-Kawaramachi, walk across to Keihan Gion-Shijo, then take Keihan to Demachiyanagi and Eizan towards **Kurama**, not Yase. Allow **75–90 minutes overall**. A taxi to Demachiyanagi followed by Eizan is the simpler alternative, roughly **60–75 minutes overall**.
+- **11:30: arrive at Kurama.**
+  - **Walk:** about **10 minutes via Niōmon, the temple entrance, to Yuki-jinja**. The optional cable car bypasses Yuki-jinja; take it instead if you prefer less climbing, then walk about **10 minutes from the upper station to the main hall**.
+- **11:40: Yuki-jinja:** A small mountainside shrine reached through an old cedar avenue on the climb from Kurama.
+  - **To Kurama-dera’s main hall: walk uphill, roughly 20–30 minutes** along the temple approach.
+- **12:15: Kurama-dera:** A mountain temple founded in the eighth century and wrapped in legends of tengu spirits and warrior training. Its appeal lies in the pilgrimage atmosphere and deep-forest setting as much as the buildings.
+- **12:45: Kurama-to-Kibune trail:** A forest crossing over the mountain, with mossy roots and ancient cedars.
+  - **Walk:** from behind the main hall, follow signs for **Okunoin / Kibune**, cross the ridge and descend to the west gate by the Kibune road. Cross the river and turn uphill towards **Kifune Shrine’s main sanctuary**. Allow roughly **60–75 minutes overall**.
+- **14:00: Kifune Shrine:** A water deity shrine climbing the valley in lantern-lined stone terraces, with distinctive water-revealed fortunes.
+  - **To lunch: walk, about 5–10 minutes** along the village road, depending on the restaurant.
+- **14:30: Kibune lunch:** Take a flexible late meal in the narrow riverside village to recover after the trail.
+- **15:15: leave Kibune for Shimogamo.**
+  - **Transport:** walk downhill to **Kibune bus stop**, take **Kyoto Bus 33 to Kibuneguchi Station**, then Eizan to **Demachiyanagi**. Walk north through **Tadasu no Mori** to Shimogamo Shrine. Allow **65–90 minutes overall**, including connections and the final **15–20-minute walk**.
+  - **Walking alternative:** the village-to-Kibuneguchi road takes about **35–40 minutes downhill** instead of the bus. Leave lunch earlier if choosing this route; Shimogamo’s inner gates close at **17:00**.
+- **16:30–16:45: Shimogamo Shrine:** One of Kyoto's oldest Shinto complexes, set within the ancient Tadasu no Mori woodland. It is directly on the return route and provides formal shrine architecture in a flat, spacious forest after the rugged mountain sites.
+  - **To the hotel: walk and transport, about 45–60 minutes.** Return to Demachiyanagi, take Keihan to Gion-Shijo, then Hankyu from Kyoto-Kawaramachi to Karasuma and walk to the hotel. A taxi is the simpler alternative.
+- **17:45–18:00** Back to hotel area, rest
 - **~19:00: Light dinner:** Choose a depachika bento, a polished boxed meal from a department-store basement food hall, or soba, buckwheat noodles served hot or cold, near the hotel.
-
-**Weather contingency:** The valley, temple and hike can work in light rain. In heavy rain, switch to **Daitoku-ji's sub-temples**, a compact cluster of Zen gardens and historic temple architecture, then **Walden Woods**, a minimalist speciality-coffee room for a break indoors, followed by **Pontocho**, Kyoto's narrow lantern-lit riverside restaurant alley. Use the morning JMA forecast to decide whether to take the mountain route.
+  - **Walk:** about **5–15 minutes each way** for dinner or a food-hall pickup around Shijo/Karasuma, depending on your choice.
 
 ## Day 13: Thursday, Oct 1: Kyoto to Nara to Osaka
 
