@@ -360,19 +360,30 @@ Mountain temples, a forest walk to Kibune and a final shrine stop back in Kyoto.
 
 ## Day 13: Thursday, Oct 1: Kyoto to Nara to Osaka
 
-Kyoto checkout, Nara's giant Buddha and deer, then Osaka.
+Kyoto checkout, Nara's giant Buddha and deer, then Osaka. Times are approximate.
 
 - **10:00** Check out of the Kyoto hotel with the small travelling bag. The main suitcase travels separately with Yamato to Haneda Terminal 3.
-- **10:30** Train to **Nara** (~45 min, ¥720 by JR or Kintetsu)
+  - **Take the subway or a taxi to Kyoto Station:** allow roughly **20–30 minutes**, including getting to the train.
+- **Around 10:30: train to Nara.** Aim for **Kintetsu-Nara**, the station nearest the park; the train journey takes roughly **45–50 minutes**.
+  - **Walk to Nara Park:** head east from the station, about **10 minutes**.
 - **11:30: Nara Park:** A broad historic park where free-roaming deer are treated as sacred messengers. The deer provide atmosphere and connect the major temple sites, but keep food away except when deliberately offering official crackers.
+  - **Walk to Tōdai-ji:** continue north-east through the park towards the Great Buddha Hall, roughly **15–20 minutes**.
 - **12:00: Tōdai-ji:** A monumental Buddhist temple whose Great Buddha Hall shelters one of Japan's largest bronze Buddha images. The enormous hall and bronze Buddha convey the political and religious ambition of eighth-century Japan.
+  - **Walk to lunch:** head west towards **Higashimuki shopping street**, near the station, about **20–25 minutes**.
 - **13:00: Nara lunch:** Try kakinoha-zushi, pressed sushi wrapped in persimmon leaf for preservation, or use Higashimuki's covered shopping street for a quick set meal. The regional sushi is the more distinctive choice; the arcade is the efficient weatherproof fallback.
-- **14:00: Kasuga Taisha:** Nara's great vermilion Shinto shrine, approached through a forest of donated stone lanterns and filled with bronze lanterns inside. It is a more intimate, wooded counterpart to Tōdai-ji's monumental Buddhism.
-- **15:30** Train from Nara to **Osaka Namba** (~40 min, ¥570)
-- **16:00** Check into **Via Inn Prime Shinsaibashi Yotsubashi** (1-5-10 Shinmachi, Nishi-ku, Yotsubashi station, 1 min). From Osaka-Namba, take the Yotsubashi line 1 stop to Yotsubashi, or walk west for 12 min. Drop bags. *(AEON supermarket on the ground floor for snacks/water.)*
-- **17:00: Dotonbori and takoyaki:** Dotonbori is Osaka's neon canal-side entertainment strip, centred on animated signs and the Glico Running Man, the illuminated running-athlete billboard used as a meeting point and visual emblem. Walk along the canal to see the illuminated signs on your first evening. Try takoyaki, soft-centred octopus batter balls, at established specialists Wanaka or Kogaryu. Then pass through Shinsaibashi-suji, the long covered retail arcade linking Dotonbori to the hotel side of central Osaka; browse the shops on the way back.
+  - **Walk to Kasuga Taisha:** head east back through the park and along the lantern-lined woodland approach, roughly **30–40 minutes**.
+- **Around 14:00: Kasuga Taisha:** Nara's great vermilion Shinto shrine, approached through a forest of donated stone lanterns and filled with bronze lanterns inside. It is a more intimate, wooded counterpart to Tōdai-ji's monumental Buddhism.
+  - **Walk back to Kintetsu-Nara Station:** head west through the park, about **30–40 minutes**. Aim to reach the station around **15:15**.
+- **Around 15:30: train to Osaka-Namba.** The journey takes roughly **40 minutes**.
+  - **To the hotel:** take the **subway**, roughly **15–25 minutes including station walks**, or **walk north for about 20–25 minutes**.
+- **16:30–16:45: check into Via Inn Prime Shinsaibashi Yotsubashi.** Drop bags. *(AEON supermarket on the ground floor for snacks/water.)*
+  - **Walk to Dotonbori:** head south towards the canal and Glico sign, roughly **15–20 minutes**.
+- **17:15: Dotonbori and takoyaki:** Dotonbori is Osaka's neon canal-side entertainment strip, centred on animated signs and the Glico Running Man, the illuminated running-athlete billboard used as a meeting point and visual emblem. Walk along the canal to see the illuminated signs on your first evening. Try takoyaki, soft-centred octopus batter balls, at established specialists Wanaka or Kogaryu. Then pass through Shinsaibashi-suji, the long covered retail arcade linking Dotonbori to the hotel side of central Osaka; browse the shops on the way back.
+  - **Walk to dinner:** head back south towards Dotonbori or Namba, roughly **10–20 minutes** from the shopping arcade or hotel.
 - **19:00: Okonomiyaki dinner:** Osaka-style okonomiyaki is a savoury cabbage pancake cooked on a griddle with meat or seafood, sauce and bonito flakes. Try this Osaka staple at Fukutaro for the convenient Namba location, or Michelin-listed Mizuno, the long-established Dotonbori restaurant, accepting its usual queue.
+  - **Walk back to the canal:** roughly **5–10 minutes**, depending on the restaurant.
 - **20:30: Dotonbori after dark:** Return to the canal once the signs are fully lit. If you are still hungry, try kushikatsu, breaded, deep-fried skewers, at a standing bar.
+  - **Walk back to the hotel:** head north from the canal, about **15–20 minutes**.
 
 ## Day 14: Friday, Oct 2: Osaka neighbourhoods
 
