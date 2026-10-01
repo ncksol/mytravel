@@ -389,19 +389,31 @@ Kyoto checkout, Nara's giant Buddha and deer, then Osaka. Times are approximate.
 
 ## Day 14: Friday, Oct 2: Osaka neighbourhoods
 
-Street food and local neighbourhoods.
+Street food and local neighbourhoods. Travel times are approximate and include station walks and changes where needed.
+
+- **09:00: leave the hotel.**
+  - **Walk to Kuromon Market:** head south-east towards the market, roughly **25–30 minutes**.
 
 - **09:30: Kuromon Market:** A covered food market historically known as "Osaka's kitchen", now increasingly tourist-oriented and expensive. Give it a quick atmospheric walk-through, then save appetite and money for Shinsekai, the day's food destination.
+  - **Walk to Shinsekai:** head south towards **Tsutenkaku Tower**, roughly **20–25 minutes**.
 - **10:30: Shinsekai:** A proudly retro entertainment district beneath Tsutenkaku Tower, mixing old signboards, cheap eateries and working-class Osaka character. It is rougher and more local than polished Dotonbori.
   - **Kushikatsu at Daruma:** Breaded skewers of meat, seafood and vegetables, fried to order. This is Shinsekai's signature food and Daruma is closely associated with the style; follow the restaurant’s instructions for dipping sauces.
   - **Janjan Yokocho:** A narrow covered alley of small eateries, game parlours and bars. Walk through for its retro atmosphere.
+  - **Stay on foot:** the tower area, Janjan Yokocho and nearby lunch spots are roughly **5–10 minutes apart**; Janjan Yokocho lies south of the tower.
 - **12:00: Shinsekai lunch:** Continue with kushikatsu if sharing a broad selection, or switch to ramen, wheat noodles in a savoury broth, at a local shop.
+  - **Take the subway to Osaka Castle:** allow **45–55 minutes overall**, including the walk through the park to the main castle.
 - **13:30: Osaka Castle:** A modern reconstruction housing a museum within the vast stone walls and moats of the Toyotomi-era fortress site. Visit the grounds and exterior for their scale and political history; treat the interior museum as optional if energy is fading.
+  - **Take the subway to Nakazakicho:** allow **40–50 minutes overall**, including the walk out of the castle grounds and into the neighbourhood.
 - **15:00: Nakazakicho:** A low-rise pre-war neighbourhood repurposed with independent cafés, vintage shops and small creative businesses. Its intimate scale and adaptive reuse differ from Osaka's big commercial districts.
+  - **Walk east to Tenjinbashi-suji shopping arcade:** roughly **15–20 minutes**. Join near the middle, then browse south towards the river.
 - **16:30: Tenjinbashi-suji:** A very long covered shopping arcade serving everyday local life. Browse, snack and people-watch to see the neighbourhood's everyday shopping streets.
+  - **Take the subway back to Namba:** allow **25–35 minutes**, including station walks.
 - **18:00** Back to Namba
+  - **Stay on foot for dinner:** the standing bars around Namba are a short local walk; allow **5–10 minutes between nearby stops**.
 - **19:00: Tachinomi crawl:** Tachinomi are compact standing bars built around inexpensive drinks and small plates such as karaage (Japanese fried chicken), grilled fish and whisky-and-soda highballs. Visit two or three near Namba.
+  - **Walk to Dotonbori:** head north from the Namba bar area towards the canal, about **5–15 minutes**, depending on your last stop.
 - **21:00: Optional farewell Dotonbori walk:** Revisit the neon canal after the standing-bar dinner only if one last burst of Osaka energy appeals.
+  - **Walk back to the hotel:** head north from Dotonbori, roughly **15–20 minutes**. If skipping the canal, walk directly from Namba to the hotel, about **20–25 minutes**.
 
 ## Day 15: Saturday, Oct 3: Osaka to Haneda and departure
 
