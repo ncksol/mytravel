@@ -362,11 +362,12 @@ Mountain temples, a forest walk to Kibune and a final shrine stop back in Kyoto.
 
 Kyoto checkout, Nara's giant Buddha and deer, then Osaka. Times are approximate.
 
-- **10:00** Check out of the Kyoto hotel with the small travelling bag. The main suitcase travels separately with Yamato to Haneda Terminal 3.
+- **10:00** Check out of the Kyoto hotel with your cabin-size suitcases. The main suitcase travels separately with Yamato to Haneda Terminal 3.
   - **Take the subway or a taxi to Kyoto Station:** allow roughly **20–30 minutes**, including getting to the train.
 - **Around 10:30: train to Nara.** Aim for **Kintetsu-Nara**, the station nearest the park; the train journey takes roughly **45–50 minutes**.
+  - **Leave the suitcases in station lockers:** from the platform, follow **West Gates**, go up to **B1** and exit the ticket gates. **Turn left to the locker room**, staying underground. Bring **100-yen coins**; this room is coin-only. If full, try the lockers along the passage towards the East Gates.
   - **Walk to Nara Park:** head east from the station, about **10 minutes**.
-- **11:30: Nara Park:** A broad historic park where free-roaming deer are treated as sacred messengers. The deer provide atmosphere and connect the major temple sites, but keep food away except when deliberately offering official crackers.
+- **11:30–11:40: Nara Park:** A broad historic park where free-roaming deer are treated as sacred messengers. The deer provide atmosphere and connect the major temple sites, but keep food away except when deliberately offering official crackers.
   - **Walk to Tōdai-ji:** continue north-east through the park towards the Great Buddha Hall, roughly **15–20 minutes**.
 - **12:00: Tōdai-ji:** A monumental Buddhist temple whose Great Buddha Hall shelters one of Japan's largest bronze Buddha images. The enormous hall and bronze Buddha convey the political and religious ambition of eighth-century Japan.
   - **Walk to lunch:** head west towards **Higashimuki shopping street**, near the station, about **20–25 minutes**.
@@ -374,6 +375,7 @@ Kyoto checkout, Nara's giant Buddha and deer, then Osaka. Times are approximate.
   - **Walk to Kasuga Taisha:** head east back through the park and along the lantern-lined woodland approach, roughly **30–40 minutes**.
 - **Around 14:00: Kasuga Taisha:** Nara's great vermilion Shinto shrine, approached through a forest of donated stone lanterns and filled with bronze lanterns inside. It is a more intimate, wooded counterpart to Tōdai-ji's monumental Buddhism.
   - **Walk back to Kintetsu-Nara Station:** head west through the park, about **30–40 minutes**. Aim to reach the station around **15:15**.
+- **15:15: collect the suitcases** from the **B1 locker room outside the West Gates**, then enter the gates for the Osaka train.
 - **Around 15:30: train to Osaka-Namba.** The journey takes roughly **40 minutes**.
   - **To the hotel:** take the **subway**, roughly **15–25 minutes including station walks**, or **walk north for about 20–25 minutes**.
 - **16:30–16:45: check into Via Inn Prime Shinsaibashi Yotsubashi.** Drop bags. *(AEON supermarket on the ground floor for snacks/water.)*
