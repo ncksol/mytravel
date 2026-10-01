@@ -364,23 +364,23 @@ Kyoto checkout, Nara's giant Buddha and deer, then Osaka. Times are approximate.
 
 - **10:00** Check out of the Kyoto hotel with your cabin-size suitcases. The main suitcase travels separately with Yamato to Haneda Terminal 3.
   - **Take the subway or a taxi to Kyoto Station:** allow roughly **20–30 minutes**, including getting to the train.
-- **Around 10:30: train to Nara.** Aim for **Kintetsu-Nara**, the station nearest the park; the train journey takes roughly **45–50 minutes**.
-  - **Leave the suitcases in station lockers:** from the platform, follow **West Gates**, go up to **B1** and exit the ticket gates. **Turn left to the locker room**, staying underground. Bring **100-yen coins**; this room is coin-only. If full, try the lockers along the passage towards the East Gates.
-  - **Walk to Nara Park:** head east from the station, about **10 minutes**.
-- **11:30–11:40: Nara Park:** A broad historic park where free-roaming deer are treated as sacred messengers. The deer provide atmosphere and connect the major temple sites, but keep food away except when deliberately offering official crackers.
+- **Train to JR Nara Station.**
+  - **Leave the suitcases in JR Nara lockers:** come down from the platform to the **2F ticket gates**, exit, then look for lockers near **7-Eleven Heart-In** on the same floor. If full, try **1F towards the West Exit**. Check the payment instructions on the locker you use; availability is not guaranteed.
+  - **Walk to Nara Park:** leave by the **East Exit** and head east along Sanjo Street towards the park, roughly **25–30 minutes**. A bus from the East Exit is an alternative, about **15–25 minutes including waiting**.
+- **Around 11:45: Nara Park:** A broad historic park where free-roaming deer are treated as sacred messengers. The deer provide atmosphere and connect the major temple sites, but keep food away except when deliberately offering official crackers.
   - **Walk to Tōdai-ji:** continue north-east through the park towards the Great Buddha Hall, roughly **15–20 minutes**.
 - **12:00: Tōdai-ji:** A monumental Buddhist temple whose Great Buddha Hall shelters one of Japan's largest bronze Buddha images. The enormous hall and bronze Buddha convey the political and religious ambition of eighth-century Japan.
-  - **Walk to lunch:** head west towards **Higashimuki shopping street**, near the station, about **20–25 minutes**.
+  - **Walk to lunch:** head west towards **Higashimuki shopping street**, near Kintetsu-Nara Station, about **20–25 minutes**.
 - **13:00: Nara lunch:** Try kakinoha-zushi, pressed sushi wrapped in persimmon leaf for preservation, or use Higashimuki's covered shopping street for a quick set meal. The regional sushi is the more distinctive choice; the arcade is the efficient weatherproof fallback.
   - **Walk to Kasuga Taisha:** head east back through the park and along the lantern-lined woodland approach, roughly **30–40 minutes**.
 - **Around 14:00: Kasuga Taisha:** Nara's great vermilion Shinto shrine, approached through a forest of donated stone lanterns and filled with bronze lanterns inside. It is a more intimate, wooded counterpart to Tōdai-ji's monumental Buddhism.
-  - **Walk back to Kintetsu-Nara Station:** head west through the park, about **30–40 minutes**. Aim to reach the station around **15:15**.
-- **15:15: collect the suitcases** from the **B1 locker room outside the West Gates**, then enter the gates for the Osaka train.
-- **Around 15:30: train to Osaka-Namba.** The journey takes roughly **40 minutes**.
+  - **Return to JR Nara Station:** take a **bus**, allowing **25–35 minutes including the walk to the stop and waiting**. Alternatively, **walk west for about 45–55 minutes**. Aim to reach JR Nara around **15:15**.
+- **15:15: collect the suitcases at JR Nara Station**, then enter the ticket gates for the Osaka train.
+- **Around 15:30: train from JR Nara to JR Namba in Osaka.** Allow roughly **50–60 minutes**, including a change if needed.
   - **To the hotel:** take the **subway**, roughly **15–25 minutes including station walks**, or **walk north for about 20–25 minutes**.
-- **16:30–16:45: check into Via Inn Prime Shinsaibashi Yotsubashi.** Drop bags. *(AEON supermarket on the ground floor for snacks/water.)*
+- **16:45–17:00: check into Via Inn Prime Shinsaibashi Yotsubashi.** Drop bags. *(AEON supermarket on the ground floor for snacks/water.)*
   - **Walk to Dotonbori:** head south towards the canal and Glico sign, roughly **15–20 minutes**.
-- **17:15: Dotonbori and takoyaki:** Dotonbori is Osaka's neon canal-side entertainment strip, centred on animated signs and the Glico Running Man, the illuminated running-athlete billboard used as a meeting point and visual emblem. Walk along the canal to see the illuminated signs on your first evening. Try takoyaki, soft-centred octopus batter balls, at established specialists Wanaka or Kogaryu. Then pass through Shinsaibashi-suji, the long covered retail arcade linking Dotonbori to the hotel side of central Osaka; browse the shops on the way back.
+- **17:30: Dotonbori and takoyaki:** Dotonbori is Osaka's neon canal-side entertainment strip, centred on animated signs and the Glico Running Man, the illuminated running-athlete billboard used as a meeting point and visual emblem. Walk along the canal to see the illuminated signs on your first evening. Try takoyaki, soft-centred octopus batter balls, at established specialists Wanaka or Kogaryu. Then pass through Shinsaibashi-suji, the long covered retail arcade linking Dotonbori to the hotel side of central Osaka; browse the shops on the way back.
   - **Walk to dinner:** head back south towards Dotonbori or Namba, roughly **10–20 minutes** from the shopping arcade or hotel.
 - **19:00: Okonomiyaki dinner:** Osaka-style okonomiyaki is a savoury cabbage pancake cooked on a griddle with meat or seafood, sauce and bonito flakes. Try this Osaka staple at Fukutaro for the convenient Namba location, or Michelin-listed Mizuno, the long-established Dotonbori restaurant, accepting its usual queue.
   - **Walk back to the canal:** roughly **5–10 minutes**, depending on the restaurant.
